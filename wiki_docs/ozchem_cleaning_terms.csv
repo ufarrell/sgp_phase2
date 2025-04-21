@@ -1,0 +1,103 @@
+﻿ozchem column,SQL condition,term
+unitname,IS,NULL
+unitname,ILIKE,metamorphics
+unitname,ILIKE,Schist
+unitname,ILIKE,Granite
+unitname,ILIKE,colluvium
+unitname,ILIKE,Ultramafics
+unitname,ILIKE,Metasediments
+unitname,ILIKE,mafic extrusive rocks
+unitname,ILIKE,metamorphosed clastic sedimentary rocks
+unitname,ILIKE,pelitic and psammitic sedimentary rocks
+unitname,=,mafic intrusive rocks 74263
+unitname,=,mafic intrusive rocks 74270
+unitname,=,high grade metamorphic rocks 72653
+unitname,=,Warrawoona Group - metamorphosed mafic rocks
+lithname,=,calc-silicate rock
+lithname,=,metasedimentary rock
+lithname,=,pelite
+lithname,=,psammite
+lithname,=,psammopelite
+lithname,=,rock
+lithname,=,felsic rock
+lithname,=,saprock
+lithname,=,ultramafic rock
+lithname,=,mafic rock
+lithname,=,tuffite
+lithname,=,epiclastic rock
+lithname,=,turbidite
+qualifier,ILIKE,altered foliated
+qualifier,ILIKE,altered graphitic
+qualifier,ILIKE,altered massive veined
+qualifier,ILIKE,altered meta
+qualifier,ILIKE,altered veined laminated
+qualifier,ILIKE,altered veined massive
+qualifier,ILIKE,andalusite
+qualifier,ILIKE,biotite quartzo-feldspathic migmatitic
+qualifier,ILIKE,calc-silicate
+qualifier,ILIKE,clinopyroxene quartz
+qualifier,ILIKE,cordierite orthopyroxene
+qualifier,ILIKE,cordierite quartz
+qualifier,ILIKE,cordierite sillimanite foliated
+qualifier,ILIKE,fine grained foliated meta
+qualifier,ILIKE,foliated
+qualifier,ILIKE,foliated medium grained
+qualifier,ILIKE,garnet sillimanite migmatitic
+qualifier,ILIKE,gneissic layered
+qualifier,ILIKE,gossanous arenaceous quartzose
+qualifier,ILIKE,graphitic
+qualifier,ILIKE,graphitic altered
+qualifier,ILIKE,graphitic altered veined
+qualifier,ILIKE,graphitic laminated
+qualifier,ILIKE,graphitic laminated veined
+qualifier,ILIKE,graphitic massive
+qualifier,ILIKE,high-grade metamorphosed
+qualifier,ILIKE,highly magnetic altered
+qualifier,ILIKE,layered calc-silicate
+qualifier,ILIKE,massive altered veined
+qualifier,ILIKE,migmatitic
+qualifier,ILIKE,migmatitic biotite
+qualifier,ILIKE,migmatitic meta
+qualifier,ILIKE,migmatitic sillimanite
+qualifier,ILIKE,muscovite biotite
+qualifier,ILIKE,muscovite chlorite
+qualifier,ILIKE,pelitic cordierite
+qualifier,ILIKE,pelitic migmatitic
+qualifier,ILIKE,plagioclase garnet
+qualifier,ILIKE,psammitic migmatitic
+qualifier,ILIKE,psammitic quartzo-feldspathic
+qualifier,ILIKE,psammitic sillimanite
+qualifier,ILIKE,gossanous
+qualifier,ILIKE,lateritic
+qualifier,ILIKE,magnetite altered brecciated
+qualifier,ILIKE,andalusite
+qualifier,ILIKE,clinopyroxene quartz
+qualifier,ILIKE,cordierite sillimanite foliated
+description,ILIKE,hornfelsed
+description,ILIKE,hornfels
+description,ILIKE,garnet
+description,ILIKE,schist
+description,ILIKE,gneiss
+description,ILIKE,gneissic
+description,ILIKE,gossanous
+description,ILIKE,skarn
+description,ILIKE,regolith
+description,ILIKE,lateritic
+description,ILIKE,lateritised
+description,ILIKE,actinolite
+description,ILIKE,migmatitic
+description,ILIKE,sillimanite
+description,ILIKE,cordierite
+description,ILIKE,kyanite
+description,ILIKE,tourmaline
+description,ILIKE,bornite
+description,ILIKE,malachite
+description,ILIKE,chiastolite
+description,ILIKE,scapolite
+group_type,=,REGOLITH (SURFACE)
+lithgroup,=,unknown
+modeocc,=,xenolith
+modeocc,=,pluton
+modeocc,=,vein
+modeocc,=,dyke
+modeocc,=,dyke; dyke
