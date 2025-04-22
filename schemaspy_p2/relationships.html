@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>geochem1_p2v2_apr2025_schemaspy.public</title>
+        <!-- Tell the browser to be responsive to screen width -->
+        <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicon.png">
+        <!-- Bootstrap 3.3.5 -->
+        <link rel="stylesheet" href="bower/admin-lte/bootstrap/css/bootstrap.min.css">
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="bower/font-awesome/css/font-awesome.min.css">
+        <!-- Ionicons -->
+        <link rel="stylesheet" href="bower/ionicons/css/ionicons.min.css">
+        <!-- DataTables -->
+        <link rel="stylesheet" href="bower/datatables.net-bs/css/dataTables.bootstrap.min.css">
+        <link rel="stylesheet" href="bower/datatables.net-buttons-bs/css/buttons.bootstrap.min.css">
+        <!-- Code Mirror -->
+        <link rel="stylesheet" href="bower/codemirror/codemirror.css">
+        <!-- Fonts -->
+        <link href='fonts/indieflower/indie-flower.css' rel='stylesheet' type='text/css'>
+        <link href='fonts/source-sans-pro/source-sans-pro.css' rel='stylesheet' type='text/css'>
+
+        <!-- Theme style -->
+        <link rel="stylesheet" href="bower/admin-lte/dist/css/AdminLTE.min.css">
+        <!-- Salvattore -->
+        <link rel="stylesheet" href="bower/salvattore/salvattore.css">
+        <!-- AdminLTE Skins. Choose a skin from the css/skins
+           folder instead of downloading all of them to reduce the load. -->
+        <link rel="stylesheet" href="bower/admin-lte/dist/css/skins/_all-skins.min.css">
+        <!-- SchemaSpy -->
+        <link rel="stylesheet" href="schemaSpy.css">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+        <script src="bower/html5shiv/html5shiv.min.js"></script>
+        <script src="bower/respond/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <!-- ADD THE CLASS layout-top-nav TO REMOVE THE SIDEBAR. -->
+    <body class="hold-transition skin-blue layout-top-nav">
+        <div class="wrapper">
+            <header class="main-header">
+                <nav class="navbar navbar-static-top">
+                    <div class="container">
+                        <div class="navbar-header">
+                            <a href="index.html" class="navbar-brand"><b>geochem1_p2v2_apr2025_schemaspy</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse"><i class="fa fa-bars"></i></button>
+                        </div>
+
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse pull-left" id="navbar-collapse">
+                            <ul class="nav navbar-nav">
+                                <li><a href="index.html">Tables <span class="sr-only">(current)</span></a></li>
+                                <li><a href="columns.html" title="All of the columns in the schema">Columns</a></li>
+                                <li><a href="constraints.html" title="Useful for diagnosing error messages that just give constraint name or number">Constraints</a></li>
+                                <li><a href="relationships.html" title="Diagram of table relationships">Relationships</a></li>
+                                <li><a href="orphans.html" title="View of tables with neither parents nor children">Orphan&nbsp;Tables</a></li>
+                                <li><a href="anomalies.html" title="Things that might not be quite right">Anomalies</a></li>
+                                <li><a href="routines.html" title="Procedures and functions">Routines</a></li>
+                            </ul>
+                        </div>
+                        <!-- /.navbar-collapse -->
+                        <!-- Navbar Right Menu -->
+                    </div>
+                    <!-- /.container-fluid -->
+                </nav>
+            </header>
+            <!-- Main content -->
+            <!-- Full Width Column -->
+            <div class="content-wrapper">
+                <!-- Content Header (Page header) -->
+                <section class="content-header">
+                    <h1>All Relationships</h1>
+                </section>
+                <!-- Main content -->
+                <section class="content">
+                    <div class="box box-primary">
+                        <div class="box-header with-border">
+                            <i class="fa fa-code-fork"></i>
+                            <h3 class="box-title">Diagrams</h3>
+                        </div>
+                        <div class="box-body">
+                            <div class="nav-tabs-custom">
+                                <!-- Tabs within a box -->
+                                <h5>By default only columns that are primary keys, foreign keys or indexes are shown.</h5>
+                                <ul class="nav nav-tabs pull-left ui-sortable-handle">
+                                    <li class="active"><a href="#compactDegreeImg-chart" data-toggle="tab" aria-expanded="true">Compact</a></li>
+                                    <li class=""><a href="#largeDegreeImg-chart" data-toggle="tab" aria-expanded="true">Large</a></li>
+                                    <li class=""><a href="#compactimpliedDegreeImg-chart" data-toggle="tab" aria-expanded="true">Compact Implied</a></li>
+                                    <li class=""><a href="#largeimpliedDegreeImg-chart" data-toggle="tab" aria-expanded="true">Large Implied</a></li>
+                                </ul>
+                                <div class="tab-content no-padding">
+                                    <div class="chart tab-pane active" id="compactDegreeImg-chart" style="position: relative; overflow-x:auto;">
+                                        <map id="compactRelationshipsDiagram" name="compactRelationshipsDiagram">
+<area shape="rect" id="node1" href="tables/data_source_batch.html" target="_top" title="data_source_batch" alt="" coords="1395,5,1661,152">
+<area shape="rect" id="node31" href="tables/data_source.html" target="_top" title="data_source" alt="" coords="1034,5,1282,123">
+<area shape="rect" id="node40" href="tables/batch.html" target="_top" title="batch" alt="" coords="1034,169,1282,287">
+<area shape="rect" id="node2" href="tables/dic_native_land.html" target="_top" title="dic_native_land" alt="" coords="2245,624,2525,741">
+<area shape="rect" id="node3" href="tables/dic_prep_method.html" target="_top" title="dic_prep_method" alt="" coords="1033,1792,1283,1939">
+<area shape="rect" id="node4" href="tables/dic_lith_texture.html" target="_top" title="dic_lith_texture" alt="" coords="2245,1648,2493,1765">
+<area shape="rect" id="node5" href="tables/batch_sample.html" target="_top" title="batch_sample" alt="" coords="1404,169,1652,316">
+<area shape="rect" id="node6" href="tables/geol_context_provided_by.html" target="_top" title="geol_context_provided_by" alt="" coords="1360,333,1696,480">
+<area shape="rect" id="node16" href="tables/person.html" target="_top" title="person" alt="" coords="1034,1071,1282,1188">
+<area shape="rect" id="node59" href="tables/geol_context.html" target="_top" title="geol_context" alt="" coords="1034,333,1282,568">
+<area shape="rect" id="node7" href="tables/dic_lithostrat.html" target="_top" title="dic_lithostrat" alt="" coords="411,475,659,651">
+<area shape="rect" id="node8" href="tables/craton_terrane.html" target="_top" title="craton_terrane" alt="" coords="2245,1904,2493,2021">
+<area shape="rect" id="node9" href="tables/dic_country.html" target="_top" title="dic_country" alt="" coords="2504,1333,2701,1509">
+<area shape="rect" id="node54" href="tables/dic_continent.html" target="_top" title="dic_continent" alt="" coords="2245,1392,2460,1509">
+<area shape="rect" id="node10" href="tables/dic_biostrat.html" target="_top" title="dic_biostrat" alt="" coords="411,697,659,815">
+<area shape="rect" id="node11" href="tables/biostrat.html" target="_top" title="biostrat" alt="" coords="724,639,972,815">
+<area shape="rect" id="node12" href="tables/storage.html" target="_top" title="storage" alt="" coords="1404,825,1652,972">
+<area shape="rect" id="node13" href="tables/proxy_published.html" target="_top" title="proxy_published" alt="" coords="1404,2313,1652,2489">
+<area shape="rect" id="node19" href="tables/reference_work.html" target="_top" title="reference_work" alt="" coords="724,2015,972,2161">
+<area shape="rect" id="node48" href="tables/dic_proxy.html" target="_top" title="dic_proxy" alt="" coords="1034,2343,1282,2489">
+<area shape="rect" id="node14" href="tables/alternate_num.html" target="_top" title="alternate_num" alt="" coords="1034,1435,1282,1611">
+<area shape="rect" id="node15" href="tables/project.html" target="_top" title="project" alt="" coords="724,2624,972,2800">
+<area shape="rect" id="node45" href="tables/dic_project_type.html" target="_top" title="dic_project_type" alt="" coords="411,2683,659,2800">
+<area shape="rect" id="node17" href="tables/project_sample.html" target="_top" title="project_sample" alt="" coords="1034,2707,1282,2853">
+<area shape="rect" id="node18" href="tables/dic_institution_type.html" target="_top" title="dic_institution_type" alt="" coords="2245,2160,2520,2277">
+<area shape="rect" id="node50" href="tables/dic_publication.html" target="_top" title="dic_publication" alt="" coords="389,2044,680,2161">
+<area shape="rect" id="node20" href="tables/dic_lithology.html" target="_top" title="dic_lithology" alt="" coords="2373,2416,2621,2533">
+<area shape="rect" id="node21" href="tables/dic_color.html" target="_top" title="dic_color" alt="" coords="2245,112,2493,229">
+<area shape="rect" id="node22" href="tables/dic_lith_composition.html" target="_top" title="dic_lith_composition" alt="" coords="5,2608,287,2725">
+<area shape="rect" id="node23" href="tables/analyte_determination_limits.html" target="_top" title="analyte_determination_limits" alt="" coords="1756,1087,2124,1263">
+<area shape="rect" id="node33" href="tables/analysis.html" target="_top" title="analysis" alt="" coords="1404,1763,1652,2056">
+<area shape="rect" id="node46" href="tables/dic_analyte.html" target="_top" title="dic_analyte" alt="" coords="1404,497,1652,615">
+<area shape="rect" id="node24" href="tables/collector.html" target="_top" title="collector" alt="" coords="1404,632,1652,808">
+<area shape="rect" id="node56" href="tables/collecting_event.html" target="_top" title="collecting_event" alt="" coords="1034,661,1282,808">
+<area shape="rect" id="node25" href="tables/dic_basin_type.html" target="_top" title="dic_basin_type" alt="" coords="2245,851,2493,968">
+<area shape="rect" id="node26" href="tables/framboid.html" target="_top" title="framboid" alt="" coords="1027,1628,1289,1775">
+<area shape="rect" id="node27" href="tables/dic_sample_type.html" target="_top" title="dic_sample_type" alt="" coords="69,2352,312,2469">
+<area shape="rect" id="node28" href="tables/fossil_sample.html" target="_top" title="fossil_sample" alt="" coords="2537,1077,2785,1253">
+<area shape="rect" id="node29" href="tables/fossil.html" target="_top" title="fossil" alt="" coords="2245,1107,2493,1253">
+<area shape="rect" id="node30" href="tables/environment.html" target="_top" title="environment" alt="" coords="724,117,972,293">
+<area shape="rect" id="node44" href="tables/dic_env_detail.html" target="_top" title="dic_env_detail" alt="" coords="411,176,659,293">
+<area shape="rect" id="node32" href="tables/site_native_land.html" target="_top" title="site_native_land" alt="" coords="2569,595,2817,741">
+<area shape="rect" id="node41" href="tables/dic_ana_method.html" target="_top" title="dic_ana_method" alt="" coords="1016,2149,1300,2325">
+<area shape="rect" id="node61" href="tables/dic_exp_method.html" target="_top" title="dic_exp_method" alt="" coords="1016,1956,1300,2132">
+<area shape="rect" id="node34" href="tables/author.html" target="_top" title="author" alt="" coords="1404,1347,1652,1581">
+<area shape="rect" id="node35" href="tables/sample_provided_by.html" target="_top" title="sample_provided_by" alt="" coords="1387,989,1669,1136">
+<area shape="rect" id="node36" href="tables/dic_instrument.html" target="_top" title="dic_instrument" alt="" coords="1404,2507,1652,2653">
+<area shape="rect" id="node37" href="tables/interpreted_age_provided_by.html" target="_top" title="interpreted_age_provided_by" alt="" coords="1344,1599,1712,1745">
+<area shape="rect" id="node49" href="tables/interpreted_age.html" target="_top" title="interpreted_age" alt="" coords="1024,1241,1292,1417">
+<area shape="rect" id="node38" href="tables/sed_structure_sample.html" target="_top" title="sed_structure_sample" alt="" coords="2544,309,2840,456">
+<area shape="rect" id="node47" href="tables/dic_sed_structure.html" target="_top" title="dic_sed_structure" alt="" coords="2245,339,2500,485">
+<area shape="rect" id="node39" href="tables/basin.html" target="_top" title="basin" alt="" coords="2537,821,2785,997">
+<area shape="rect" id="node42" href="tables/dic_ics_age.html" target="_top" title="dic_ics_age" alt="" coords="411,340,659,457">
+<area shape="rect" id="node43" href="tables/igsn.html" target="_top" title="igsn" alt="" coords="133,1613,263,1701">
+<area shape="rect" id="node51" href="tables/affiliation.html" target="_top" title="affiliation" alt="" coords="1404,1153,1652,1329">
+<area shape="rect" id="node52" href="tables/analysis_instrument.html" target="_top" title="analysis_instrument" alt="" coords="1786,2091,2094,2267">
+<area shape="rect" id="node53" href="tables/dic_meta.html" target="_top" title="dic_meta" alt="" coords="133,1840,304,1957">
+<area shape="rect" id="node55" href="tables/geol_age.html" target="_top" title="geol_age" alt="" coords="724,311,972,457">
+<area shape="rect" id="node57" href="tables/lithostrat.html" target="_top" title="lithostrat" alt="" coords="724,475,972,621">
+<area shape="rect" id="node58" href="tables/project_citation.html" target="_top" title="project_citation" alt="" coords="1034,2543,1282,2689">
+<area shape="rect" id="node60" href="tables/dic_weathering.html" target="_top" title="dic_weathering" alt="" coords="5,2096,253,2213">
+</map>
+                                        <a name='diagram'><img id="compactDegreeImg" src="diagrams/summary/relationships.real.compact.png" usemap="#compactRelationshipsDiagram" class="diagram" border="0" align="left"></a>
+                                    </div>
+                                    <div class="chart tab-pane " id="largeDegreeImg-chart" style="position: relative; overflow-x:auto;">
+                                        <map id="largeRelationshipsDiagram" name="largeRelationshipsDiagram">
+<area shape="rect" id="node1" href="tables/data_source_batch.html" target="_top" title="data_source_batch" alt="" coords="1539,192,1805,373">
+<area shape="rect" id="node31" href="tables/data_source.html" target="_top" title="data_source" alt="" coords="1178,163,1426,403">
+<area shape="rect" id="node40" href="tables/batch.html" target="_top" title="batch" alt="" coords="1178,420,1426,719">
+<area shape="rect" id="node2" href="tables/dic_native_land.html" target="_top" title="dic_native_land" alt="" coords="2381,1912,2661,2181">
+<area shape="rect" id="node3" href="tables/dic_prep_method.html" target="_top" title="dic_prep_method" alt="" coords="1177,3535,1427,3745">
+<area shape="rect" id="node4" href="tables/dic_lith_texture.html" target="_top" title="dic_lith_texture" alt="" coords="181,3731,429,3941">
+<area shape="rect" id="node5" href="tables/batch_sample.html" target="_top" title="batch_sample" alt="" coords="1548,420,1796,601">
+<area shape="rect" id="node6" href="tables/geol_context_provided_by.html" target="_top" title="geol_context_provided_by" alt="" coords="1504,677,1840,859">
+<area shape="rect" id="node16" href="tables/person.html" target="_top" title="person" alt="" coords="1178,2088,1426,2445">
+<area shape="rect" id="node59" href="tables/geol_context.html" target="_top" title="geol_context" alt="" coords="1178,736,1426,1035">
+<area shape="rect" id="node7" href="tables/dic_lithostrat.html" target="_top" title="dic_lithostrat" alt="" coords="555,953,803,1751">
+<area shape="rect" id="node8" href="tables/craton_terrane.html" target="_top" title="craton_terrane" alt="" coords="181,3349,429,3589">
+<area shape="rect" id="node9" href="tables/dic_country.html" target="_top" title="dic_country" alt="" coords="2640,2792,2837,3032">
+<area shape="rect" id="node54" href="tables/dic_continent.html" target="_top" title="dic_continent" alt="" coords="2381,2939,2596,3061">
+<area shape="rect" id="node10" href="tables/dic_biostrat.html" target="_top" title="dic_biostrat" alt="" coords="555,1768,803,1979">
+<area shape="rect" id="node11" href="tables/biostrat.html" target="_top" title="biostrat" alt="" coords="868,1445,1116,1685">
+<area shape="rect" id="node12" href="tables/storage.html" target="_top" title="storage" alt="" coords="1548,1684,1796,2041">
+<area shape="rect" id="node13" href="tables/proxy_published.html" target="_top" title="proxy_published" alt="" coords="1548,4365,1796,4752">
+<area shape="rect" id="node19" href="tables/reference_work.html" target="_top" title="reference_work" alt="" coords="868,3939,1116,4707">
+<area shape="rect" id="node48" href="tables/dic_proxy.html" target="_top" title="dic_proxy" alt="" coords="1178,4395,1426,4840">
+<area shape="rect" id="node14" href="tables/alternate_num.html" target="_top" title="alternate_num" alt="" coords="1178,2844,1426,3084">
+<area shape="rect" id="node15" href="tables/project.html" target="_top" title="project" alt="" coords="868,4992,1116,5349">
+<area shape="rect" id="node45" href="tables/dic_project_type.html" target="_top" title="dic_project_type" alt="" coords="555,5051,803,5232">
+<area shape="rect" id="node17" href="tables/project_sample.html" target="_top" title="project_sample" alt="" coords="1178,5092,1426,5273">
+<area shape="rect" id="node18" href="tables/dic_institution_type.html" target="_top" title="dic_institution_type" alt="" coords="93,3056,368,3237">
+<area shape="rect" id="node50" href="tables/dic_publication.html" target="_top" title="dic_publication" alt="" coords="533,4320,824,4619">
+<area shape="rect" id="node20" href="tables/dic_lithology.html" target="_top" title="dic_lithology" alt="" coords="181,2440,429,2709">
+<area shape="rect" id="node21" href="tables/dic_color.html" target="_top" title="dic_color" alt="" coords="181,2000,429,2269">
+<area shape="rect" id="node22" href="tables/dic_lith_composition.html" target="_top" title="dic_lith_composition" alt="" coords="5,1091,287,1301">
+<area shape="rect" id="node23" href="tables/analyte_determination_limits.html" target="_top" title="analyte_determination_limits" alt="" coords="1900,2932,2268,3260">
+<area shape="rect" id="node33" href="tables/analysis.html" target="_top" title="analysis" alt="" coords="1548,3356,1796,3743">
+<area shape="rect" id="node46" href="tables/dic_analyte.html" target="_top" title="dic_analyte" alt="" coords="1548,876,1796,1439">
+<area shape="rect" id="node24" href="tables/collector.html" target="_top" title="collector" alt="" coords="1548,1456,1796,1667">
+<area shape="rect" id="node56" href="tables/collecting_event.html" target="_top" title="collecting_event" alt="" coords="1178,1485,1426,1813">
+<area shape="rect" id="node25" href="tables/dic_basin_type.html" target="_top" title="dic_basin_type" alt="" coords="2381,3203,2629,3384">
+<area shape="rect" id="node26" href="tables/framboid.html" target="_top" title="framboid" alt="" coords="1171,3101,1433,3517">
+<area shape="rect" id="node27" href="tables/dic_sample_type.html" target="_top" title="dic_sample_type" alt="" coords="2733,3877,2976,4029">
+<area shape="rect" id="node28" href="tables/fossil_sample.html" target="_top" title="fossil_sample" alt="" coords="2673,2323,2921,2563">
+<area shape="rect" id="node29" href="tables/fossil.html" target="_top" title="fossil" alt="" coords="2381,2381,2629,2621">
+<area shape="rect" id="node30" href="tables/environment.html" target="_top" title="environment" alt="" coords="868,212,1116,540">
+<area shape="rect" id="node44" href="tables/dic_env_detail.html" target="_top" title="dic_env_detail" alt="" coords="555,380,803,620">
+<area shape="rect" id="node32" href="tables/site_native_land.html" target="_top" title="site_native_land" alt="" coords="2705,1883,2953,2064">
+<area shape="rect" id="node41" href="tables/dic_ana_method.html" target="_top" title="dic_ana_method" alt="" coords="1160,4079,1444,4377">
+<area shape="rect" id="node61" href="tables/dic_exp_method.html" target="_top" title="dic_exp_method" alt="" coords="1160,3763,1444,4061">
+<area shape="rect" id="node34" href="tables/author.html" target="_top" title="author" alt="" coords="1548,2720,1796,2989">
+<area shape="rect" id="node35" href="tables/sample_provided_by.html" target="_top" title="sample_provided_by" alt="" coords="1531,2059,1813,2240">
+<area shape="rect" id="node36" href="tables/dic_instrument.html" target="_top" title="dic_instrument" alt="" coords="1548,4769,1796,5068">
+<area shape="rect" id="node37" href="tables/interpreted_age_provided_by.html" target="_top" title="interpreted_age_provided_by" alt="" coords="1488,3007,1856,3188">
+<area shape="rect" id="node49" href="tables/interpreted_age.html" target="_top" title="interpreted_age" alt="" coords="1168,2499,1436,2827">
+<area shape="rect" id="node38" href="tables/sed_structure_sample.html" target="_top" title="sed_structure_sample" alt="" coords="2768,3525,3064,3707">
+<area shape="rect" id="node47" href="tables/dic_sed_structure.html" target="_top" title="dic_sed_structure" alt="" coords="2469,3555,2724,3765">
+<area shape="rect" id="node39" href="tables/basin.html" target="_top" title="basin" alt="" coords="2673,3173,2921,3413">
+<area shape="rect" id="node42" href="tables/dic_ics_age.html" target="_top" title="dic_ics_age" alt="" coords="555,637,803,936">
+<area shape="rect" id="node43" href="tables/igsn.html" target="_top" title="igsn" alt="" coords="2381,5,2669,1741">
+<area shape="rect" id="node51" href="tables/affiliation.html" target="_top" title="affiliation" alt="" coords="1548,2257,1796,2703">
+<area shape="rect" id="node52" href="tables/analysis_instrument.html" target="_top" title="analysis_instrument" alt="" coords="1930,3721,2238,4020">
+<area shape="rect" id="node53" href="tables/dic_meta.html" target="_top" title="dic_meta" alt="" coords="181,1472,352,1829">
+<area shape="rect" id="node55" href="tables/geol_age.html" target="_top" title="geol_age" alt="" coords="868,623,1116,892">
+<area shape="rect" id="node57" href="tables/lithostrat.html" target="_top" title="lithostrat" alt="" coords="868,939,1116,1208">
+<area shape="rect" id="node58" href="tables/project_citation.html" target="_top" title="project_citation" alt="" coords="1178,4893,1426,5075">
+<area shape="rect" id="node60" href="tables/dic_weathering.html" target="_top" title="dic_weathering" alt="" coords="2821,1091,3069,1301">
+</map>
+                                        <a name='diagram'><img id="largeDegreeImg" src="diagrams/summary/relationships.real.large.png" usemap="#largeRelationshipsDiagram" class="diagram" border="0" align="left"></a>
+                                    </div>
+                                    <div class="chart tab-pane " id="compactimpliedDegreeImg-chart" style="position: relative; overflow-x:auto;">
+                                        <map id="compactImpliedRelationshipsDiagram" name="compactImpliedRelationshipsDiagram">
+<area shape="rect" id="node1" href="tables/data_source_batch.html" target="_top" title="data_source_batch" alt="" coords="1395,5,1661,152">
+<area shape="rect" id="node31" href="tables/data_source.html" target="_top" title="data_source" alt="" coords="1034,5,1282,123">
+<area shape="rect" id="node40" href="tables/batch.html" target="_top" title="batch" alt="" coords="1034,169,1282,287">
+<area shape="rect" id="node2" href="tables/dic_native_land.html" target="_top" title="dic_native_land" alt="" coords="2245,624,2525,741">
+<area shape="rect" id="node3" href="tables/dic_prep_method.html" target="_top" title="dic_prep_method" alt="" coords="1033,1792,1283,1939">
+<area shape="rect" id="node4" href="tables/dic_lith_texture.html" target="_top" title="dic_lith_texture" alt="" coords="2245,1648,2493,1765">
+<area shape="rect" id="node5" href="tables/batch_sample.html" target="_top" title="batch_sample" alt="" coords="1404,169,1652,316">
+<area shape="rect" id="node6" href="tables/geol_context_provided_by.html" target="_top" title="geol_context_provided_by" alt="" coords="1360,333,1696,480">
+<area shape="rect" id="node16" href="tables/person.html" target="_top" title="person" alt="" coords="1034,1071,1282,1188">
+<area shape="rect" id="node59" href="tables/geol_context.html" target="_top" title="geol_context" alt="" coords="1034,333,1282,568">
+<area shape="rect" id="node7" href="tables/dic_lithostrat.html" target="_top" title="dic_lithostrat" alt="" coords="411,475,659,651">
+<area shape="rect" id="node8" href="tables/craton_terrane.html" target="_top" title="craton_terrane" alt="" coords="2245,1904,2493,2021">
+<area shape="rect" id="node9" href="tables/dic_country.html" target="_top" title="dic_country" alt="" coords="2504,1333,2701,1509">
+<area shape="rect" id="node54" href="tables/dic_continent.html" target="_top" title="dic_continent" alt="" coords="2245,1363,2460,1480">
+<area shape="rect" id="node10" href="tables/dic_biostrat.html" target="_top" title="dic_biostrat" alt="" coords="411,697,659,815">
+<area shape="rect" id="node11" href="tables/biostrat.html" target="_top" title="biostrat" alt="" coords="724,639,972,815">
+<area shape="rect" id="node12" href="tables/storage.html" target="_top" title="storage" alt="" coords="1404,825,1652,972">
+<area shape="rect" id="node13" href="tables/proxy_published.html" target="_top" title="proxy_published" alt="" coords="1404,2313,1652,2489">
+<area shape="rect" id="node19" href="tables/reference_work.html" target="_top" title="reference_work" alt="" coords="724,2015,972,2161">
+<area shape="rect" id="node48" href="tables/dic_proxy.html" target="_top" title="dic_proxy" alt="" coords="1034,2343,1282,2489">
+<area shape="rect" id="node14" href="tables/alternate_num.html" target="_top" title="alternate_num" alt="" coords="1034,1435,1282,1611">
+<area shape="rect" id="node15" href="tables/project.html" target="_top" title="project" alt="" coords="724,2624,972,2800">
+<area shape="rect" id="node45" href="tables/dic_project_type.html" target="_top" title="dic_project_type" alt="" coords="411,2683,659,2800">
+<area shape="rect" id="node17" href="tables/project_sample.html" target="_top" title="project_sample" alt="" coords="1034,2707,1282,2853">
+<area shape="rect" id="node18" href="tables/dic_institution_type.html" target="_top" title="dic_institution_type" alt="" coords="2245,2160,2520,2277">
+<area shape="rect" id="node50" href="tables/dic_publication.html" target="_top" title="dic_publication" alt="" coords="389,2044,680,2161">
+<area shape="rect" id="node20" href="tables/dic_lithology.html" target="_top" title="dic_lithology" alt="" coords="2373,2416,2621,2533">
+<area shape="rect" id="node21" href="tables/dic_color.html" target="_top" title="dic_color" alt="" coords="2245,112,2493,229">
+<area shape="rect" id="node22" href="tables/dic_lith_composition.html" target="_top" title="dic_lith_composition" alt="" coords="5,2608,287,2725">
+<area shape="rect" id="node23" href="tables/analyte_determination_limits.html" target="_top" title="analyte_determination_limits" alt="" coords="1756,1087,2124,1263">
+<area shape="rect" id="node33" href="tables/analysis.html" target="_top" title="analysis" alt="" coords="1404,1763,1652,2056">
+<area shape="rect" id="node46" href="tables/dic_analyte.html" target="_top" title="dic_analyte" alt="" coords="1404,497,1652,615">
+<area shape="rect" id="node24" href="tables/collector.html" target="_top" title="collector" alt="" coords="1404,632,1652,808">
+<area shape="rect" id="node56" href="tables/collecting_event.html" target="_top" title="collecting_event" alt="" coords="1034,661,1282,808">
+<area shape="rect" id="node25" href="tables/dic_basin_type.html" target="_top" title="dic_basin_type" alt="" coords="2245,851,2493,968">
+<area shape="rect" id="node26" href="tables/framboid.html" target="_top" title="framboid" alt="" coords="1027,1628,1289,1775">
+<area shape="rect" id="node27" href="tables/dic_sample_type.html" target="_top" title="dic_sample_type" alt="" coords="69,2352,312,2469">
+<area shape="rect" id="node28" href="tables/fossil_sample.html" target="_top" title="fossil_sample" alt="" coords="2537,1077,2785,1253">
+<area shape="rect" id="node29" href="tables/fossil.html" target="_top" title="fossil" alt="" coords="2245,1107,2493,1253">
+<area shape="rect" id="node30" href="tables/environment.html" target="_top" title="environment" alt="" coords="724,117,972,293">
+<area shape="rect" id="node44" href="tables/dic_env_detail.html" target="_top" title="dic_env_detail" alt="" coords="411,176,659,293">
+<area shape="rect" id="node32" href="tables/site_native_land.html" target="_top" title="site_native_land" alt="" coords="2569,595,2817,741">
+<area shape="rect" id="node41" href="tables/dic_ana_method.html" target="_top" title="dic_ana_method" alt="" coords="1016,2149,1300,2325">
+<area shape="rect" id="node61" href="tables/dic_exp_method.html" target="_top" title="dic_exp_method" alt="" coords="1016,1956,1300,2132">
+<area shape="rect" id="node34" href="tables/author.html" target="_top" title="author" alt="" coords="1404,1347,1652,1581">
+<area shape="rect" id="node35" href="tables/sample_provided_by.html" target="_top" title="sample_provided_by" alt="" coords="1387,989,1669,1136">
+<area shape="rect" id="node36" href="tables/dic_instrument.html" target="_top" title="dic_instrument" alt="" coords="1404,2507,1652,2653">
+<area shape="rect" id="node37" href="tables/interpreted_age_provided_by.html" target="_top" title="interpreted_age_provided_by" alt="" coords="1344,1599,1712,1745">
+<area shape="rect" id="node49" href="tables/interpreted_age.html" target="_top" title="interpreted_age" alt="" coords="1024,1241,1292,1417">
+<area shape="rect" id="node38" href="tables/sed_structure_sample.html" target="_top" title="sed_structure_sample" alt="" coords="2544,309,2840,456">
+<area shape="rect" id="node47" href="tables/dic_sed_structure.html" target="_top" title="dic_sed_structure" alt="" coords="2245,339,2500,485">
+<area shape="rect" id="node39" href="tables/basin.html" target="_top" title="basin" alt="" coords="2537,821,2785,997">
+<area shape="rect" id="node42" href="tables/dic_ics_age.html" target="_top" title="dic_ics_age" alt="" coords="411,340,659,457">
+<area shape="rect" id="node43" href="tables/igsn.html" target="_top" title="igsn" alt="" coords="133,1613,263,1701">
+<area shape="rect" id="node51" href="tables/affiliation.html" target="_top" title="affiliation" alt="" coords="1404,1153,1652,1329">
+<area shape="rect" id="node52" href="tables/analysis_instrument.html" target="_top" title="analysis_instrument" alt="" coords="1786,2091,2094,2267">
+<area shape="rect" id="node53" href="tables/dic_meta.html" target="_top" title="dic_meta" alt="" coords="133,1840,304,1957">
+<area shape="rect" id="node55" href="tables/geol_age.html" target="_top" title="geol_age" alt="" coords="724,311,972,457">
+<area shape="rect" id="node57" href="tables/lithostrat.html" target="_top" title="lithostrat" alt="" coords="724,475,972,621">
+<area shape="rect" id="node58" href="tables/project_citation.html" target="_top" title="project_citation" alt="" coords="1034,2543,1282,2689">
+<area shape="rect" id="node60" href="tables/dic_weathering.html" target="_top" title="dic_weathering" alt="" coords="5,2096,253,2213">
+</map>
+                                        <a name='diagram'><img id="compactimpliedDegreeImg" src="diagrams/summary/relationships.implied.compact.png" usemap="#compactImpliedRelationshipsDiagram" class="diagram" border="0" align="left"></a>
+                                    </div>
+                                    <div class="chart tab-pane " id="largeimpliedDegreeImg-chart" style="position: relative; overflow-x:auto;">
+                                        <map id="largeImpliedRelationshipsDiagram" name="largeImpliedRelationshipsDiagram">
+<area shape="rect" id="node1" href="tables/data_source_batch.html" target="_top" title="data_source_batch" alt="" coords="1539,192,1805,373">
+<area shape="rect" id="node31" href="tables/data_source.html" target="_top" title="data_source" alt="" coords="1178,163,1426,403">
+<area shape="rect" id="node40" href="tables/batch.html" target="_top" title="batch" alt="" coords="1178,420,1426,719">
+<area shape="rect" id="node2" href="tables/dic_native_land.html" target="_top" title="dic_native_land" alt="" coords="2381,1912,2661,2181">
+<area shape="rect" id="node3" href="tables/dic_prep_method.html" target="_top" title="dic_prep_method" alt="" coords="1177,3535,1427,3745">
+<area shape="rect" id="node4" href="tables/dic_lith_texture.html" target="_top" title="dic_lith_texture" alt="" coords="181,3731,429,3941">
+<area shape="rect" id="node5" href="tables/batch_sample.html" target="_top" title="batch_sample" alt="" coords="1548,420,1796,601">
+<area shape="rect" id="node6" href="tables/geol_context_provided_by.html" target="_top" title="geol_context_provided_by" alt="" coords="1504,677,1840,859">
+<area shape="rect" id="node16" href="tables/person.html" target="_top" title="person" alt="" coords="1178,2088,1426,2445">
+<area shape="rect" id="node59" href="tables/geol_context.html" target="_top" title="geol_context" alt="" coords="1178,736,1426,1035">
+<area shape="rect" id="node7" href="tables/dic_lithostrat.html" target="_top" title="dic_lithostrat" alt="" coords="555,953,803,1751">
+<area shape="rect" id="node8" href="tables/craton_terrane.html" target="_top" title="craton_terrane" alt="" coords="181,3349,429,3589">
+<area shape="rect" id="node9" href="tables/dic_country.html" target="_top" title="dic_country" alt="" coords="2640,3437,2837,3677">
+<area shape="rect" id="node54" href="tables/dic_continent.html" target="_top" title="dic_continent" alt="" coords="2381,3511,2596,3633">
+<area shape="rect" id="node10" href="tables/dic_biostrat.html" target="_top" title="dic_biostrat" alt="" coords="555,1768,803,1979">
+<area shape="rect" id="node11" href="tables/biostrat.html" target="_top" title="biostrat" alt="" coords="868,1445,1116,1685">
+<area shape="rect" id="node12" href="tables/storage.html" target="_top" title="storage" alt="" coords="1548,1684,1796,2041">
+<area shape="rect" id="node13" href="tables/proxy_published.html" target="_top" title="proxy_published" alt="" coords="1548,4365,1796,4752">
+<area shape="rect" id="node19" href="tables/reference_work.html" target="_top" title="reference_work" alt="" coords="868,3939,1116,4707">
+<area shape="rect" id="node48" href="tables/dic_proxy.html" target="_top" title="dic_proxy" alt="" coords="1178,4395,1426,4840">
+<area shape="rect" id="node14" href="tables/alternate_num.html" target="_top" title="alternate_num" alt="" coords="1178,2844,1426,3084">
+<area shape="rect" id="node15" href="tables/project.html" target="_top" title="project" alt="" coords="868,4992,1116,5349">
+<area shape="rect" id="node45" href="tables/dic_project_type.html" target="_top" title="dic_project_type" alt="" coords="555,5051,803,5232">
+<area shape="rect" id="node17" href="tables/project_sample.html" target="_top" title="project_sample" alt="" coords="1178,5092,1426,5273">
+<area shape="rect" id="node18" href="tables/dic_institution_type.html" target="_top" title="dic_institution_type" alt="" coords="93,3056,368,3237">
+<area shape="rect" id="node50" href="tables/dic_publication.html" target="_top" title="dic_publication" alt="" coords="533,4320,824,4619">
+<area shape="rect" id="node20" href="tables/dic_lithology.html" target="_top" title="dic_lithology" alt="" coords="181,2440,429,2709">
+<area shape="rect" id="node21" href="tables/dic_color.html" target="_top" title="dic_color" alt="" coords="181,2000,429,2269">
+<area shape="rect" id="node22" href="tables/dic_lith_composition.html" target="_top" title="dic_lith_composition" alt="" coords="2733,3819,3015,4029">
+<area shape="rect" id="node23" href="tables/analyte_determination_limits.html" target="_top" title="analyte_determination_limits" alt="" coords="1900,2932,2268,3260">
+<area shape="rect" id="node33" href="tables/analysis.html" target="_top" title="analysis" alt="" coords="1548,3356,1796,3743">
+<area shape="rect" id="node46" href="tables/dic_analyte.html" target="_top" title="dic_analyte" alt="" coords="1548,876,1796,1439">
+<area shape="rect" id="node24" href="tables/collector.html" target="_top" title="collector" alt="" coords="1548,1456,1796,1667">
+<area shape="rect" id="node56" href="tables/collecting_event.html" target="_top" title="collecting_event" alt="" coords="1178,1485,1426,1813">
+<area shape="rect" id="node25" href="tables/dic_basin_type.html" target="_top" title="dic_basin_type" alt="" coords="2381,2763,2629,2944">
+<area shape="rect" id="node26" href="tables/framboid.html" target="_top" title="framboid" alt="" coords="1171,3101,1433,3517">
+<area shape="rect" id="node27" href="tables/dic_sample_type.html" target="_top" title="dic_sample_type" alt="" coords="5,1149,248,1301">
+<area shape="rect" id="node28" href="tables/fossil_sample.html" target="_top" title="fossil_sample" alt="" coords="2673,2323,2921,2563">
+<area shape="rect" id="node29" href="tables/fossil.html" target="_top" title="fossil" alt="" coords="2381,2381,2629,2621">
+<area shape="rect" id="node30" href="tables/environment.html" target="_top" title="environment" alt="" coords="868,212,1116,540">
+<area shape="rect" id="node44" href="tables/dic_env_detail.html" target="_top" title="dic_env_detail" alt="" coords="555,380,803,620">
+<area shape="rect" id="node32" href="tables/site_native_land.html" target="_top" title="site_native_land" alt="" coords="2705,1883,2953,2064">
+<area shape="rect" id="node41" href="tables/dic_ana_method.html" target="_top" title="dic_ana_method" alt="" coords="1160,4079,1444,4377">
+<area shape="rect" id="node61" href="tables/dic_exp_method.html" target="_top" title="dic_exp_method" alt="" coords="1160,3763,1444,4061">
+<area shape="rect" id="node34" href="tables/author.html" target="_top" title="author" alt="" coords="1548,2720,1796,2989">
+<area shape="rect" id="node35" href="tables/sample_provided_by.html" target="_top" title="sample_provided_by" alt="" coords="1531,2059,1813,2240">
+<area shape="rect" id="node36" href="tables/dic_instrument.html" target="_top" title="dic_instrument" alt="" coords="1548,4769,1796,5068">
+<area shape="rect" id="node37" href="tables/interpreted_age_provided_by.html" target="_top" title="interpreted_age_provided_by" alt="" coords="1488,3007,1856,3188">
+<area shape="rect" id="node49" href="tables/interpreted_age.html" target="_top" title="interpreted_age" alt="" coords="1168,2499,1436,2827">
+<area shape="rect" id="node38" href="tables/sed_structure_sample.html" target="_top" title="sed_structure_sample" alt="" coords="2680,3085,2976,3267">
+<area shape="rect" id="node47" href="tables/dic_sed_structure.html" target="_top" title="dic_sed_structure" alt="" coords="2381,3115,2636,3325">
+<area shape="rect" id="node39" href="tables/basin.html" target="_top" title="basin" alt="" coords="2673,2733,2921,2973">
+<area shape="rect" id="node42" href="tables/dic_ics_age.html" target="_top" title="dic_ics_age" alt="" coords="555,637,803,936">
+<area shape="rect" id="node43" href="tables/igsn.html" target="_top" title="igsn" alt="" coords="2381,5,2669,1741">
+<area shape="rect" id="node51" href="tables/affiliation.html" target="_top" title="affiliation" alt="" coords="1548,2257,1796,2703">
+<area shape="rect" id="node52" href="tables/analysis_instrument.html" target="_top" title="analysis_instrument" alt="" coords="1930,3721,2238,4020">
+<area shape="rect" id="node53" href="tables/dic_meta.html" target="_top" title="dic_meta" alt="" coords="181,1472,352,1829">
+<area shape="rect" id="node55" href="tables/geol_age.html" target="_top" title="geol_age" alt="" coords="868,623,1116,892">
+<area shape="rect" id="node57" href="tables/lithostrat.html" target="_top" title="lithostrat" alt="" coords="868,939,1116,1208">
+<area shape="rect" id="node58" href="tables/project_citation.html" target="_top" title="project_citation" alt="" coords="1178,4893,1426,5075">
+<area shape="rect" id="node60" href="tables/dic_weathering.html" target="_top" title="dic_weathering" alt="" coords="2381,3819,2629,4029">
+</map>
+                                        <a name='diagram'><img id="largeimpliedDegreeImg" src="diagrams/summary/relationships.implied.large.png" usemap="#largeImpliedRelationshipsDiagram" class="diagram" border="0" align="left"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- /.box-body -->
+                    </div>
+                </section>
+            </div>
+            <!-- /.content-wrapper -->
+            <footer class="main-footer">
+                <div>
+                    <div class="pull-right hidden-xs">
+                        <a href="https://github.com/schemaspy/schemaspy" title="GitHub for SchemaSpy"><i class="fa fa-github-square fa-2x"></i></a>
+                        <a href="http://stackoverflow.com/questions/tagged/schemaspy" title="StackOverflow for SchemaSpy"><i class="fa fa-stack-overflow fa-2x"></i></a>
+                    </div>
+                    <strong>Generated by <a href="http://schemaspy.org/" class="logo-text"><i class="fa fa-database"></i> SchemaSpy 7.0.2</a></strong>
+                </div>
+                <!-- /.container -->
+            </footer>
+        </div>
+        <!-- ./wrapper -->
+
+        <!-- jQuery 2.2.3 -->
+        <script src="bower/admin-lte/plugins/jQuery/jquery-2.2.3.min.js"></script>
+        <script src="bower/admin-lte/plugins/jQueryUI/jquery-ui.min.js"></script>
+        <!-- Bootstrap 3.3.5 -->
+        <script src="bower/admin-lte/bootstrap/js/bootstrap.min.js"></script>
+        <!-- DataTables -->
+        <script src="bower/datatables.net/jquery.dataTables.min.js"></script>
+        <script src="bower/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+        <script src="bower/datatables.net-buttons/dataTables.buttons.min.js"></script>
+        <script src="bower/datatables.net-buttons-bs/js/buttons.bootstrap.min.js"></script>
+        <script src="bower/datatables.net-buttons/buttons.html5.min.js"></script>
+        <script src="bower/datatables.net-buttons/buttons.print.min.js"></script>
+        <script src="bower/datatables.net-buttons/buttons.colVis.min.js"></script>
+        <!-- SheetJS -->
+        <script src="bower/js-xlsx/xlsx.full.min.js"></script>
+        <!-- pdfmake -->
+        <script src="bower/pdfmake/pdfmake.min.js"></script>
+        <script src="bower/pdfmake/vfs_fonts.js"></script>
+        <!-- SlimScroll -->
+        <script src="bower/admin-lte/plugins/slimScroll/jquery.slimscroll.min.js"></script>
+        <!-- FastClick -->
+        <script src="bower/admin-lte/plugins/fastclick/fastclick.js"></script>
+        <!-- Salvattore -->
+        <script src="bower/salvattore/salvattore.min.js"></script>
+        <!-- AnchorJS -->
+        <script src="bower/anchor-js/anchor.min.js"></script>
+        <!-- CodeMirror -->
+        <script src="bower/codemirror/codemirror.js"></script>
+        <script src="bower/codemirror/sql.js"></script>
+        <!-- AdminLTE App -->
+        <script src="bower/admin-lte/dist/js/app.min.js"></script>
+        <script src="relationships.js"></script>
+        <script src="schemaSpy.js"></script>
+    </body>
+</html>
