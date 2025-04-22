@@ -1,0 +1,1418 @@
+"lith_name","lith_texture","lith_comp","color","verbatim_lith"
+"anhydrite",NULL,NULL,NULL,"Anhydrite with gypsum"
+"anhydrite",NULL,NULL,NULL,NULL
+"anthracite",NULL,NULL,NULL,"Stone coal"
+"boundstone","muddy","dolomitic","grey",NULL
+"boundstone","muddy","dolomitic","pink",NULL
+"boundstone","silty","dolomitic","grey",NULL
+"boundstone","silty",NULL,NULL,NULL
+"boundstone",NULL,"calcareous",NULL,NULL
+"boundstone",NULL,"dolomitic","light whitish grey",NULL
+"boundstone",NULL,NULL,"blue grey",NULL
+"boundstone",NULL,NULL,"light whitish grey",NULL
+"boundstone",NULL,NULL,NULL,"Buff cryptalgal dolostone."
+"boundstone",NULL,NULL,NULL,"Buff dolostone with stromatolites."
+"boundstone",NULL,NULL,NULL,"Buff microbialaminite dolostone with bioherms and stromatolites."
+"boundstone",NULL,NULL,NULL,"Buff microbialaminite dolostone with bioherms."
+"boundstone",NULL,NULL,NULL,"Buff microbialaminite dolostone with phyllite laminae and thin interbeds."
+"boundstone",NULL,NULL,NULL,"Buff microbialaminite dolostone with quartz grains."
+"boundstone",NULL,NULL,NULL,"Buff microbialaminite dolostone with scattered bioherms and stromatolites."
+"boundstone",NULL,NULL,NULL,"Buff microbialaminite dolostone with scattered bioherms."
+"boundstone",NULL,NULL,NULL,"Buff microbialaminite dolostone with some quartz grains."
+"boundstone",NULL,NULL,NULL,"Buff microbialaminite dolostone with stromatolites."
+"boundstone",NULL,NULL,NULL,"Buff microbialaminite dolostone."
+"boundstone",NULL,NULL,NULL,"Buff microbialamintie dolostone with stromatolites."
+"boundstone",NULL,NULL,NULL,"Buff stromatolitic dolostone."
+"boundstone",NULL,NULL,NULL,"Buff, cryptalgal dolostone."
+"boundstone",NULL,NULL,NULL,"Buff, phyllitic microbialaminite dolostone."
+"boundstone",NULL,NULL,NULL,"Buff, stromatolitic dolostone."
+"boundstone",NULL,NULL,NULL,"Grey dolostone with bioherms and stromatolites."
+"boundstone",NULL,NULL,NULL,"Grey, cryptalgal dolostone with stromatolites."
+"boundstone",NULL,NULL,NULL,"Grey, cryptalgal, laminated dolostone with bioherms."
+"boundstone",NULL,NULL,NULL,"Light - medium grey microbialaminite dolostone."
+"boundstone",NULL,NULL,NULL,"Light buff microbialaminite dolostone with intermittent dolostone rip up clasts and scattered teepees."
+"boundstone",NULL,NULL,NULL,"Light buff microbialaminite dolostone with intermittent dolostone rip up clasts."
+"boundstone",NULL,NULL,NULL,"Light buff microbialaminite dolostone with stromatolites."
+"boundstone",NULL,NULL,NULL,"Light buff microbialaminite dolostone."
+"boundstone",NULL,NULL,NULL,"Light buff to dark brown microbialaminite dolostone with intermittent dolostone rip up clasts and thin phyllite beds."
+"boundstone",NULL,NULL,NULL,"Light buff, cryptalgal dolostone."
+"boundstone",NULL,NULL,NULL,"Light gray, laminated dolostone with abundant bioherms."
+"boundstone",NULL,NULL,NULL,"Light grey - pink, cryptalgal dolostone with diverse stromatolites."
+"boundstone",NULL,NULL,NULL,"Light tan - buff microbialiaminite dolostone."
+"boundstone",NULL,NULL,NULL,"Light tan - pink stromatolitic dolostone."
+"boundstone",NULL,NULL,NULL,"Light tan, stromatolitic dolostone."
+"boundstone",NULL,NULL,NULL,"Medium grey microbialaminite dolostone with stromatolites."
+"boundstone",NULL,NULL,NULL,"Microbialaminite dolostone with stromatolites."
+"boundstone",NULL,NULL,NULL,"Microbialaminite dolostone."
+"boundstone",NULL,NULL,NULL,"Pink - grey cryptalgal dolostone."
+"boundstone",NULL,NULL,NULL,"White, stromatolitic dolostone."
+"boundstone",NULL,NULL,NULL,NULL
+"carbonate","clayey","pyritiferous","black",NULL
+"carbonate","muddy",NULL,NULL,NULL
+"carbonate","sandy","calcareous","brown",NULL
+"carbonate","sandy",NULL,NULL,"Sandy carbonate"
+"carbonate","sandy",NULL,NULL,NULL
+"carbonate","silty","calcareous","grey",NULL
+"carbonate","silty",NULL,NULL,"Bioturbated Calcareous Siltstone"
+"carbonate","silty",NULL,NULL,"Burrowed Calcareous Siltstone"
+"carbonate","silty",NULL,NULL,"HCS and Planar Laminated Packstone-Grainstone"
+"carbonate","silty",NULL,NULL,"Laminated Calcareous Siltstone"
+"carbonate","silty",NULL,NULL,"Massive-Bedded Packstone-Grainstone"
+"carbonate","silty",NULL,NULL,"Massive-Bedded Siltstone"
+"carbonate","silty",NULL,NULL,NULL
+"carbonate",NULL,"Manganese",NULL,"Mn-carbonate"
+"carbonate",NULL,"calcareous","brownish grey",NULL
+"carbonate",NULL,"calcareous","grey",NULL
+"carbonate",NULL,"calcareous","greyish yellow",NULL
+"carbonate",NULL,"calcareous","red",NULL
+"carbonate",NULL,"pyritiferous",NULL,NULL
+"carbonate",NULL,"siliceous",NULL,"Siliceous carbonate"
+"carbonate",NULL,NULL,"black","Black carbonate"
+"carbonate",NULL,NULL,"black","Carbonate"
+"carbonate",NULL,NULL,"grey",NULL
+"carbonate",NULL,NULL,NULL,"Carbonate"
+"carbonate",NULL,NULL,NULL,"Dark carbonate"
+"carbonate",NULL,NULL,NULL,"cap carbonate"
+"carbonate",NULL,NULL,NULL,"carbonate"
+"carbonate",NULL,NULL,NULL,"carbonate "
+"carbonate",NULL,NULL,NULL,"nodular authigenic carbonate"
+"carbonate",NULL,NULL,NULL,NULL
+"chert","muddy","calcareous",NULL,NULL
+"chert","muddy",NULL,"black",NULL
+"chert","muddy",NULL,"green",NULL
+"chert","muddy",NULL,"grey",NULL
+"chert","muddy",NULL,NULL,"Dark argillaceous chertstone (spiculite) with coaly detritus, BI 4 and higher"
+"chert","muddy",NULL,NULL,"muddy chert"
+"chert","muddy",NULL,NULL,NULL
+"chert","silty","siliceous",NULL,"spiculitic chert"
+"chert",NULL,"calcareous",NULL,NULL
+"chert",NULL,"carbonaceous","black",NULL
+"chert",NULL,"carbonaceous",NULL,"Sooty Chert"
+"chert",NULL,"carbonaceous",NULL,"carbonacious chert"
+"chert",NULL,"carbonaceous",NULL,NULL
+"chert",NULL,"dolomitic","black",NULL
+"chert",NULL,"dolomitic",NULL,NULL
+"chert",NULL,NULL,"black",NULL
+"chert",NULL,NULL,"light blue grey",NULL
+"chert",NULL,NULL,NULL,"Bedded chert"
+"chert",NULL,NULL,NULL,"Chert"
+"chert",NULL,NULL,NULL,"Radiolarian"
+"chert",NULL,NULL,NULL,"chert"
+"chert",NULL,NULL,NULL,"chert "
+"chert",NULL,NULL,NULL,"porcellanite"
+"chert",NULL,NULL,NULL,"porcellanite. Chalcopyrite present."
+"chert",NULL,NULL,NULL,"silicious ooze"
+"chert",NULL,NULL,NULL,NULL
+"clay","silty",NULL,"brownish grey",NULL
+"clay","silty",NULL,"dark greenish grey",NULL
+"clay","silty",NULL,"dark grey",NULL
+"clay","silty",NULL,"dark olive grey",NULL
+"clay","silty",NULL,"green",NULL
+"clay","silty",NULL,"greenish grey",NULL
+"clay",NULL,"calcareous","dark brown",NULL
+"clay",NULL,"siliceous","dark yellowish brown",NULL
+"clay",NULL,NULL,"dark greenish grey",NULL
+"clay",NULL,NULL,"dark grey",NULL
+"clay",NULL,NULL,"dark yellowish brown",NULL
+"clay",NULL,NULL,"dusky brown",NULL
+"clay",NULL,NULL,"greenish grey",NULL
+"concretion",NULL,"phosphatic",NULL,"Phosphatic concretion"
+"concretion",NULL,"pyritiferous",NULL,NULL
+"conglomerate",NULL,"calcareous",NULL,"diamictite"
+"conglomerate",NULL,"phosphatic",NULL,NULL
+"conglomerate",NULL,NULL,"green","Diamictite"
+"conglomerate",NULL,NULL,"grey","Diamictite"
+"conglomerate",NULL,NULL,"grey",NULL
+"conglomerate",NULL,NULL,"navy","Diamictite"
+"conglomerate",NULL,NULL,"red","Diamictite"
+"conglomerate",NULL,NULL,"red",NULL
+"conglomerate",NULL,NULL,NULL,"Buff dolostone breccia."
+"conglomerate",NULL,NULL,NULL,"Buff dolostone conglomerate."
+"conglomerate",NULL,NULL,NULL,"Buff, phyllitic dolostone rip up clasts."
+"conglomerate",NULL,NULL,NULL,"Composite sample"
+"conglomerate",NULL,NULL,NULL,"Conglomerate, 100% clasts 0% matrix; clasts composed of weathered shale"
+"conglomerate",NULL,NULL,NULL,"Conglomerate, 25% clasts 75% matrix"
+"conglomerate",NULL,NULL,NULL,"Conglomerate, 5% clasts 95% matrix"
+"conglomerate",NULL,NULL,NULL,"Conglomerate, 70% clasts 30% sandstone matrix; classts composed of weathered shale and chertstone"
+"conglomerate",NULL,NULL,NULL,"Diamictite"
+"conglomerate",NULL,NULL,NULL,"Light buff dolostone rip up clasts."
+"conglomerate",NULL,NULL,NULL,"Light tan dolostone conglomerate."
+"conglomerate",NULL,NULL,NULL,"Medium grained sandstone with angular dolostone breccia clasts."
+"conglomerate",NULL,NULL,NULL,"[meta] diamictite"
+"conglomerate",NULL,NULL,NULL,"[meta] diamictite/phyllite"
+"conglomerate",NULL,NULL,NULL,"diamictite"
+"conglomerate",NULL,NULL,NULL,"diamictite*"
+"conglomerate",NULL,NULL,NULL,"sandy diamictite"
+"conglomerate",NULL,NULL,NULL,NULL
+"crystalline dolomite",NULL,"calcareous",NULL,NULL
+"crystalline dolomite",NULL,"dolomitic","white",NULL
+"crystalline dolomite",NULL,NULL,NULL,NULL
+"crystalline limestone",NULL,NULL,"grey",NULL
+"crystalline limestone",NULL,NULL,"light grey",NULL
+"crystalline limestone",NULL,NULL,"light pink",NULL
+"crystalline limestone",NULL,NULL,NULL,"Fibrous carbonate"
+"crystalline limestone",NULL,NULL,NULL,NULL
+"diabase",NULL,NULL,"black","Md"
+"diabase",NULL,NULL,"grey","Md"
+"diabase",NULL,NULL,"light grey","Md"
+"diamictite",NULL,NULL,NULL,"Diamictite"
+"dolograinstone","sandy","dolomitic","dark greenish grey",NULL
+"dolograinstone","sandy","dolomitic","dark grey",NULL
+"dolograinstone","sandy","dolomitic","pink",NULL
+"dolograinstone","sandy",NULL,NULL,NULL
+"dolograinstone","silty",NULL,"grey",NULL
+"dolograinstone","silty",NULL,"red",NULL
+"dolograinstone",NULL,NULL,NULL,"Buff, laminated dolograinstone."
+"dolograinstone",NULL,NULL,NULL,"Buff, trough crossbedded dolograinstone."
+"dolograinstone",NULL,NULL,NULL,"Carbonate"
+"dolograinstone",NULL,NULL,NULL,"Light buff dolograinstone with soft sediment deformation and dolostone rip up clasts"
+"dolograinstone",NULL,NULL,NULL,"Light buff dolograinstone with soft sediment deformation."
+"dolograinstone",NULL,NULL,NULL,"Light buff, laminated dolograinstone with bioherms."
+"dolograinstone",NULL,NULL,NULL,"Light buff, laminated dolograinstone."
+"dolograinstone",NULL,NULL,NULL,"Light buff, thinly interbedded laminated dolostone and dolograinstone with dessication cracks."
+"dolograinstone",NULL,NULL,NULL,"Light buff, thinly interbedded laminated dolostone and dolograinstone."
+"dolograinstone",NULL,NULL,NULL,"Light tan, thinly interbedded, laminated dolostone and dolograinstone."
+"dolograinstone",NULL,NULL,NULL,NULL
+"dolomicrite","silty","dolomitic",NULL,"silty dolomite"
+"dolomicrite","silty","phosphatic",NULL,"silty dolomite"
+"dolomicrite",NULL,NULL,NULL,"dolomicrite"
+"dolomite","clayey","calcareous","grey",NULL
+"dolomite","clayey",NULL,NULL,"Argillaceous dolostone"
+"dolomite","clayey",NULL,NULL,"argillaceous dolostone"
+"dolomite","muddy","siliceous","dark brown","manganiferous muddy dolostone"
+"dolomite","muddy",NULL,NULL,"Probable paleosol: laminar dolomite 60-70%, shale/claystone about 30%"
+"dolomite","muddy",NULL,NULL,"muddy dolostone"
+"dolomite","muddy",NULL,NULL,NULL
+"dolomite","sandy",NULL,NULL,NULL
+"dolomite","silty","dolomitic","grey","massive dolostone"
+"dolomite","silty","dolomitic","grey","silicified dolostone"
+"dolomite","silty","dolomitic","grey","thick-bedded dolostone"
+"dolomite","silty","dolomitic","grey","thinly-bedded dolostone"
+"dolomite","silty","pyritiferous","medium light grey",NULL
+"dolomite","silty","siliceous","medium light grey",NULL
+"dolomite","silty",NULL,"grey",NULL
+"dolomite","silty",NULL,NULL,"Dolostone"
+"dolomite",NULL,"calcareous","greyish yellow",NULL
+"dolomite",NULL,"calcareous",NULL,NULL
+"dolomite",NULL,"carbonaceous","reddish brown",NULL
+"dolomite",NULL,"carbonaceous",NULL,"organic-rich dolostone"
+"dolomite",NULL,"carbonaceous",NULL,NULL
+"dolomite",NULL,"dolomitic","black",NULL
+"dolomite",NULL,"dolomitic","grey",NULL
+"dolomite",NULL,"dolomitic","medium light grey",NULL
+"dolomite",NULL,"phosphatic",NULL,"phosphatic dolostone"
+"dolomite",NULL,"siliceous",NULL,"cherty dolostone"
+"dolomite",NULL,"siliceous",NULL,"muddy dolostone"
+"dolomite",NULL,"siliceous",NULL,NULL
+"dolomite",NULL,NULL,"black","dolostone"
+"dolomite",NULL,NULL,"brown",NULL
+"dolomite",NULL,NULL,"brownish green",NULL
+"dolomite",NULL,NULL,"dark grey",NULL
+"dolomite",NULL,NULL,"grey","Sdm"
+"dolomite",NULL,NULL,"grey",NULL
+"dolomite",NULL,NULL,"grey to dark grey",NULL
+"dolomite",NULL,NULL,"greyish brown",NULL
+"dolomite",NULL,NULL,"light grey","Sdm"
+"dolomite",NULL,NULL,"light grey",NULL
+"dolomite",NULL,NULL,"pale red",NULL
+"dolomite",NULL,NULL,"pale reddish grey",NULL
+"dolomite",NULL,NULL,"pink",NULL
+"dolomite",NULL,NULL,"pinkish",NULL
+"dolomite",NULL,NULL,"pinkish grey",NULL
+"dolomite",NULL,NULL,"reddish brown",NULL
+"dolomite",NULL,NULL,"white","Sdm"
+"dolomite",NULL,NULL,"white","dolostone"
+"dolomite",NULL,NULL,"white",NULL
+"dolomite",NULL,NULL,"yellowish brown",NULL
+"dolomite",NULL,NULL,NULL,"Algal dolomite"
+"dolomite",NULL,NULL,NULL,"Dol, gypsum, blebby"
+"dolomite",NULL,NULL,NULL,"Dolomite"
+"dolomite",NULL,NULL,NULL,"Dolomitic? Stromatolite, gypsum layers"
+"dolomite",NULL,NULL,NULL,"Dolostone"
+"dolomite",NULL,NULL,NULL,"Mn-dolostone "
+"dolomite",NULL,NULL,NULL,"P-dolostone "
+"dolomite",NULL,NULL,NULL,"Sdm"
+"dolomite",NULL,NULL,NULL,"cap dolostone"
+"dolomite",NULL,NULL,NULL,"dolomite"
+"dolomite",NULL,NULL,NULL,"dolostone"
+"dolomite",NULL,NULL,NULL,"dolostone "
+"dolomite",NULL,NULL,NULL,"fine-grained dolostone"
+"dolomite",NULL,NULL,NULL,NULL
+"dolomudstone","muddy","dolomitic","beige",NULL
+"dolomudstone","muddy","dolomitic","black",NULL
+"dolomudstone","muddy","dolomitic","dark grey",NULL
+"dolomudstone","muddy","dolomitic","darkish pink",NULL
+"dolomudstone","muddy","dolomitic","grey",NULL
+"dolomudstone","muddy","dolomitic","light pink",NULL
+"dolomudstone","muddy","dolomitic","pink",NULL
+"dolomudstone","muddy","dolomitic","pinkish grey",NULL
+"dolomudstone","muddy",NULL,NULL,NULL
+"dolomudstone","sandy",NULL,NULL,NULL
+"dolomudstone","silty",NULL,NULL,NULL
+"dolomudstone",NULL,"calcareous",NULL,NULL
+"dolomudstone",NULL,NULL,"grey",NULL
+"dolomudstone",NULL,NULL,"light grey","dolo MST"
+"dolomudstone",NULL,NULL,NULL,"Brick red argillite with grey calcite laminae and nodules."
+"dolomudstone",NULL,NULL,NULL,"Brick red argillite with grey calcite laminae."
+"dolomudstone",NULL,NULL,NULL,"Buff - grey, poorly-sorted dolostone with abundant coarse quartz grains."
+"dolomudstone",NULL,NULL,NULL,"Buff - medium grey, laminated dolostone."
+"dolomudstone",NULL,NULL,NULL,"Buff - pink, laminated dolostone with some quartz grains."
+"dolomudstone",NULL,NULL,NULL,"Buff dolostone with abundant fine - medium quartz grains. Laminated."
+"dolomudstone",NULL,NULL,NULL,"Buff dolostone with abundant medium quartz grains."
+"dolomudstone",NULL,NULL,NULL,"Buff dolostone with abundant quartz grains."
+"dolomudstone",NULL,NULL,NULL,"Buff dolostone with abundant quartz grains. Trough cross bedded."
+"dolomudstone",NULL,NULL,NULL,"Buff dolostone with some quartz grains, soft sediment deformation, and dolostone rip up clasts."
+"dolomudstone",NULL,NULL,NULL,"Buff dolostone."
+"dolomudstone",NULL,NULL,NULL,"Buff microbialaminite dolostone with thin silty laminae."
+"dolomudstone",NULL,NULL,NULL,"Buff, finely laminated dolostone."
+"dolomudstone",NULL,NULL,NULL,"Buff, herringbone and trough crossbedded dolostone with some quartz grains."
+"dolomudstone",NULL,NULL,NULL,"Buff, herringbone crossbedded dolostone with abundant medium quartz grains and some dolostone rip up clasts."
+"dolomudstone",NULL,NULL,NULL,"Buff, herringbone crossbedded dolostone with abundant quartz grains."
+"dolomudstone",NULL,NULL,NULL,"Buff, laminated dolostone with beachstone rosettes."
+"dolomudstone",NULL,NULL,NULL,"Buff, laminated dolostone with shaley partings."
+"dolomudstone",NULL,NULL,NULL,"Buff, laminated dolostone with silty laminae."
+"dolomudstone",NULL,NULL,NULL,"Buff, laminated dolostone with stromatolites."
+"dolomudstone",NULL,NULL,NULL,"Buff, laminated dolostone."
+"dolomudstone",NULL,NULL,NULL,"Buff, massive dolostone."
+"dolomudstone",NULL,NULL,NULL,"Buff, massive, argillaceous dolostone."
+"dolomudstone",NULL,NULL,NULL,"Buff, tabular crossbedded dolostone with abundant fine quartz grains."
+"dolomudstone",NULL,NULL,NULL,"Buff, trough crossbedded dolostone with abundant medium quartz grains. Some argillite rip up clasts."
+"dolomudstone",NULL,NULL,NULL,"Carbonate"
+"dolomudstone",NULL,NULL,NULL,"Dark brown, finely laminated dolostone."
+"dolomudstone",NULL,NULL,NULL,"Dark brown, laminated dolostone with bioherms and stromatolites."
+"dolomudstone",NULL,NULL,NULL,"Deep buff, herringbone crossbedded dolostone with abundant fine quartz grains."
+"dolomudstone",NULL,NULL,NULL,"Deep buff, silty, laminated dolostone. Scattered, very thin, very fine sandstone beds."
+"dolomudstone",NULL,NULL,NULL,"Deep orange - buff dolostone with abundant stromatolites."
+"dolomudstone",NULL,NULL,NULL,"Dolomitic siltstone."
+"dolomudstone",NULL,NULL,NULL,"Grey - buff dolostone with abundant, coarse quartz grains."
+"dolomudstone",NULL,NULL,NULL,"Grey - green dolostone with calcite nodules."
+"dolomudstone",NULL,NULL,NULL,"Grey dolostone with large bioherms."
+"dolomudstone",NULL,NULL,NULL,"Grey, laminated dolostone."
+"dolomudstone",NULL,NULL,NULL,"Grey, massive dolostone."
+"dolomudstone",NULL,NULL,NULL,"Laminated dolostone with quartz sand grains and wave ripples."
+"dolomudstone",NULL,NULL,NULL,"Laminated dolostone with wavy stromatolites."
+"dolomudstone",NULL,NULL,NULL,"Laminated dolostone. Some bioherms and wavy stromatolites."
+"dolomudstone",NULL,NULL,NULL,"Laminated dolostone. Some very thin, siltier laminae. Bioherms common."
+"dolomudstone",NULL,NULL,NULL,"Laminated grey dolostone with abundant stromatolites."
+"dolomudstone",NULL,NULL,NULL,"Laminated light - medium grey - tan dolostone with stromatolites."
+"dolomudstone",NULL,NULL,NULL,"Laminated medium grey dolostone with bioherms."
+"dolomudstone",NULL,NULL,NULL,"Laminated medium grey dolostone with stromatolites."
+"dolomudstone",NULL,NULL,NULL,"Laminted, light grey - tan dolostone with quartz grains."
+"dolomudstone",NULL,NULL,NULL,"Light - dark grey, massive dolostone."
+"dolomudstone",NULL,NULL,NULL,"Light - medium grey, laminated dolostone with abundant beachstone rosettes."
+"dolomudstone",NULL,NULL,NULL,"Light - medium grey, massive dolostone."
+"dolomudstone",NULL,NULL,NULL,"Light - medium grey, strongly recrystallised, massive dolostone."
+"dolomudstone",NULL,NULL,NULL,"Light buff - grey, laminated dolostone with shaley partings."
+"dolomudstone",NULL,NULL,NULL,"Light buff - pink dolostone with interbeds of fissile, argillaceous, maroon dolostone. Bioherms."
+"dolomudstone",NULL,NULL,NULL,"Light buff dolostone with cross laminations and beachstone rosettes."
+"dolomudstone",NULL,NULL,NULL,"Light buff dolostone with thin, sandy laminae and beachstone rosettes."
+"dolomudstone",NULL,NULL,NULL,"Light buff dolostone."
+"dolomudstone",NULL,NULL,NULL,"Light buff, laminated dolograinstone."
+"dolomudstone",NULL,NULL,NULL,"Light buff, laminated dolostone with some more fissile intervals."
+"dolomudstone",NULL,NULL,NULL,"Light buff, laminated dolostone."
+"dolomudstone",NULL,NULL,NULL,"Light grey - buff dolostone with abundant fine - medium quartz grains."
+"dolomudstone",NULL,NULL,NULL,"Light grey - buff dolostone with abundant fine - medium quartz grains. Tabular and herringbone cross-bedded."
+"dolomudstone",NULL,NULL,NULL,"Light grey - buff, tabular and herringbone crossbedded dolostone with abundant fine to medium quartz grains."
+"dolomudstone",NULL,NULL,NULL,"Light grey - green, laminated dolostone."
+"dolomudstone",NULL,NULL,NULL,"Light grey - pink - tan laminated dolostone with abundant wavy stromatolites and bioherms."
+"dolomudstone",NULL,NULL,NULL,"Light grey - pink, laminated dolostone."
+"dolomudstone",NULL,NULL,NULL,"Light pink, laminated dolostone with thin, silty interbeds."
+"dolomudstone",NULL,NULL,NULL,"Light tan - buff, laminated dolostone."
+"dolomudstone",NULL,NULL,NULL,"Light tan - pink dolostone with interbeds of fissile, argillaceous, maroon dolostone."
+"dolomudstone",NULL,NULL,NULL,"Light tan - pink dolostone with interbeds of fissile, argillaceous, maroon dolostone. Minor gypsum pseudomorphs."
+"dolomudstone",NULL,NULL,NULL,"Light tan - pink dolostone with interbeds of fissile, argillaceous, maroon dolostone. Some teepee structures."
+"dolomudstone",NULL,NULL,NULL,"Light tan dolostone with interbeds of fissile, argillaceous, maroon dolostone. Isolated wavy stromatolites."
+"dolomudstone",NULL,NULL,NULL,"Light tan, laminated dolostone."
+"dolomudstone",NULL,NULL,NULL,"Light tan, thinly interbedded dolostone and grey calcite."
+"dolomudstone",NULL,NULL,NULL,"Maroon - light pink, thinly interbedded dolostone and grey calcite."
+"dolomudstone",NULL,NULL,NULL,"Maroon, argillaceous dolostone with teepees."
+"dolomudstone",NULL,NULL,NULL,"Maroon, argillaceous dolostone with thin, grey calcite laminations."
+"dolomudstone",NULL,NULL,NULL,"Maroon, thinly interbedded dolostone and grey calcite."
+"dolomudstone",NULL,NULL,NULL,"Medium gray, laminated dolostone with small to very large bioherms."
+"dolomudstone",NULL,NULL,NULL,"Medium grey (fresh), massive dolostone."
+"dolomudstone",NULL,NULL,NULL,"Medium grey, massive dolostone. Some metamorphic(?) biotite."
+"dolomudstone",NULL,NULL,NULL,"Medium grey, strongly recrystallised, massive dolostone."
+"dolomudstone",NULL,NULL,NULL,"Medium grey, strongly recrystallised, massive dolostone. Some metamorphic(?) biotite."
+"dolomudstone",NULL,NULL,NULL,"Pink dolostone with light pink calcite nodules."
+"dolomudstone",NULL,NULL,NULL,"Pink dolostone with stromatolites."
+"dolomudstone",NULL,NULL,NULL,"Reddish dolostone with interbeds of fissile, argillaceous, maroon dolostone. Isolated wavy stromatolites."
+"dolomudstone",NULL,NULL,NULL,"Tan dolostone with abundant calcite nodules."
+"dolomudstone",NULL,NULL,NULL,"Tan dolostone with calcite nodules."
+"dolomudstone",NULL,NULL,NULL,"Thinly interbedded brick red dolostone and pink - grey limestone."
+"dolomudstone",NULL,NULL,NULL,"Thinly interbedded buff dolostone and grey calcite."
+"dolomudstone",NULL,NULL,NULL,"Thinly interbedded light buff dolostone and light grey calcite."
+"dolomudstone",NULL,NULL,NULL,"White to dark grey, massive dolostone/marble."
+"dolomudstone",NULL,NULL,NULL,NULL
+"dolopackstone",NULL,NULL,NULL,"Carbonate"
+"dolowackestone",NULL,NULL,"medium grey","dolo WK"
+"grainstone","muddy",NULL,NULL,NULL
+"grainstone","silty",NULL,NULL,NULL
+"grainstone",NULL,"calcareous","dark grey","calcareous grainstone"
+"grainstone",NULL,"calcareous","medium grey","calcareous grainstone"
+"grainstone",NULL,"calcareous","pale grey","calcareous grainstone"
+"grainstone",NULL,"calcareous",NULL,NULL
+"grainstone",NULL,"dolomitic",NULL,NULL
+"grainstone",NULL,"siliceous",NULL,NULL
+"grainstone",NULL,NULL,"black",NULL
+"grainstone",NULL,NULL,"blue grey",NULL
+"grainstone",NULL,NULL,"dark grey","matrix skel PK-GST"
+"grainstone",NULL,NULL,"medium grey","PK-GST"
+"grainstone",NULL,NULL,"medium grey","crin GST"
+"grainstone",NULL,NULL,"medium grey","crin PK-GST"
+"grainstone",NULL,NULL,"medium grey","crin PK/GST"
+"grainstone",NULL,NULL,"medium grey","peloid GST"
+"grainstone",NULL,NULL,"medium grey","skel GST"
+"grainstone",NULL,NULL,"medium grey","skel PK-GST"
+"grainstone",NULL,NULL,NULL,"grainstone"
+"grainstone",NULL,NULL,NULL,NULL
+"greywacke",NULL,NULL,"black",NULL
+"greywacke",NULL,NULL,NULL,NULL
+"gypsum",NULL,NULL,NULL,"Gypsum layers, veins"
+"iron formation","sandy",NULL,"red","Ironstone"
+"iron formation",NULL,"calcareous",NULL,"carbonate (minor silicate) iron formation"
+"iron formation",NULL,"calcareous",NULL,"carbonate iron formation"
+"iron formation",NULL,"calcareous",NULL,"carbonate-silicate iron formation"
+"iron formation",NULL,"calcareous",NULL,"granular carbonate iron formation"
+"iron formation",NULL,"calcareous",NULL,"magnetite-siderite-silicate iron formation"
+"iron formation",NULL,"calcareous",NULL,"oxide-carbonate iron formation"
+"iron formation",NULL,"calcareous",NULL,"silicate iron formation"
+"iron formation",NULL,"calcareous",NULL,"silicate irone formation"
+"iron formation",NULL,NULL,"dark grey",NULL
+"iron formation",NULL,NULL,NULL,"iron ooide"
+"iron formation",NULL,NULL,NULL,"oxide iron formation"
+"iron formation",NULL,NULL,NULL,"oxide-carbonate iron formation"
+"iron formation",NULL,NULL,NULL,"siderite iron formation"
+"lime mudstone","clayey","calcareous",NULL,"Argillaceous limestone"
+"lime mudstone","clayey",NULL,"dark grey","argill lime MST"
+"lime mudstone","clayey",NULL,"dark grey","argill platy lime MST"
+"lime mudstone","clayey",NULL,"dark grey",NULL
+"lime mudstone","clayey",NULL,"grey",NULL
+"lime mudstone","clayey",NULL,"light grey",NULL
+"lime mudstone","clayey",NULL,"white",NULL
+"lime mudstone","muddy","calcareous","grey",NULL
+"lime mudstone","muddy","calcareous",NULL,NULL
+"lime mudstone","muddy","pyritiferous",NULL,NULL
+"lime mudstone","muddy",NULL,"black",NULL
+"lime mudstone","muddy",NULL,NULL,NULL
+"lime mudstone","sandy",NULL,"pale grey",NULL
+"lime mudstone","silty","calcareous","black",NULL
+"lime mudstone","silty","calcareous","grey",NULL
+"lime mudstone","silty","dolomitic",NULL,NULL
+"lime mudstone","silty",NULL,"dark grey","Shale"
+"lime mudstone","silty",NULL,"dark grey",NULL
+"lime mudstone","silty",NULL,"greyish black",NULL
+"lime mudstone","silty",NULL,"light grey",NULL
+"lime mudstone","silty",NULL,"medium grey",NULL
+"lime mudstone","silty",NULL,NULL,NULL
+"lime mudstone",NULL,"calcareous",NULL,NULL
+"lime mudstone",NULL,"carbonaceous",NULL,"Carbonaceous Marl"
+"lime mudstone",NULL,"dolomitic","black",NULL
+"lime mudstone",NULL,"dolomitic","grey",NULL
+"lime mudstone",NULL,"dolomitic","light brown",NULL
+"lime mudstone",NULL,"dolomitic",NULL,NULL
+"lime mudstone",NULL,"siliceous",NULL,NULL
+"lime mudstone",NULL,NULL,"black",NULL
+"lime mudstone",NULL,NULL,"blue grey",NULL
+"lime mudstone",NULL,NULL,"brown",NULL
+"lime mudstone",NULL,NULL,"brownish black",NULL
+"lime mudstone",NULL,NULL,"dark grey","Lime MST"
+"lime mudstone",NULL,NULL,"dark grey","MST-WK"
+"lime mudstone",NULL,NULL,"dark grey","calcareous shale interbedded w/ silstone"
+"lime mudstone",NULL,NULL,"dark grey","lime MST"
+"lime mudstone",NULL,NULL,"dark grey","matrix of debris flow"
+"lime mudstone",NULL,NULL,"dark grey",NULL
+"lime mudstone",NULL,NULL,"green",NULL
+"lime mudstone",NULL,NULL,"greenish grey",NULL
+"lime mudstone",NULL,NULL,"grey","calcareous mudstone interbedded w/ sandstone "
+"lime mudstone",NULL,NULL,"grey",NULL
+"lime mudstone",NULL,NULL,"greyish black",NULL
+"lime mudstone",NULL,NULL,"greyish brown",NULL
+"lime mudstone",NULL,NULL,"light grey","calcareous micrite"
+"lime mudstone",NULL,NULL,"light grey",NULL
+"lime mudstone",NULL,NULL,"medium dark grey",NULL
+"lime mudstone",NULL,NULL,"medium grey","MST"
+"lime mudstone",NULL,NULL,"medium grey","MST-WK"
+"lime mudstone",NULL,NULL,"medium grey","WK"
+"lime mudstone",NULL,NULL,"medium grey","fine matrix of debris flow"
+"lime mudstone",NULL,NULL,"medium grey","lime MST"
+"lime mudstone",NULL,NULL,"medium grey","matrix of debris flow"
+"lime mudstone",NULL,NULL,"medium grey",NULL
+"lime mudstone",NULL,NULL,"olive black",NULL
+"lime mudstone",NULL,NULL,"olive grey",NULL
+"lime mudstone",NULL,NULL,"pale to medium grey",NULL
+"lime mudstone",NULL,NULL,"red","gray-red limestone"
+"lime mudstone",NULL,NULL,"red","red-gray limestone"
+"lime mudstone",NULL,NULL,"red",NULL
+"lime mudstone",NULL,NULL,"white",NULL
+"lime mudstone",NULL,NULL,"yellowish brown",NULL
+"lime mudstone",NULL,NULL,NULL,"Argillaceous limestone/ Calcareous mudstone"
+"lime mudstone",NULL,NULL,NULL,"Fine-grained rhythmite"
+"lime mudstone",NULL,NULL,NULL,"lime mudstone"
+"lime mudstone",NULL,NULL,NULL,"micrite"
+"lime mudstone",NULL,NULL,NULL,NULL
+"limestone","clayey",NULL,"dark grey","Argillaceous limestone"
+"limestone","clayey",NULL,NULL,"Argillaceous limestone"
+"limestone","clayey",NULL,NULL,NULL
+"limestone","muddy","calcareous",NULL,"Calcareous Mudstone"
+"limestone","muddy","dolomitic",NULL,NULL
+"limestone","muddy",NULL,"black","Black Shale"
+"limestone","muddy",NULL,"black","argillaceous limestone"
+"limestone","muddy",NULL,"black",NULL
+"limestone","muddy",NULL,"dark grey","Argillaceous dark gray limestone composed of 85% matrix and 15% skeletal fossils"
+"limestone","muddy",NULL,"dark grey","Dark gray argillaceous limestone, BI 4 and higher"
+"limestone","muddy",NULL,"grey","argillaceous limestone"
+"limestone","muddy",NULL,"light grey",NULL
+"limestone","muddy",NULL,"reddish",NULL
+"limestone","muddy",NULL,NULL,"Argillaceous limestone"
+"limestone","muddy",NULL,NULL,"Argillaceous limestone composed of 70% fine-grained matrix and 30% skeletal fossils "
+"limestone","muddy",NULL,NULL,"Argillaceous limestone, BI 4 and higher"
+"limestone","muddy",NULL,NULL,"Argillcaoeus limestone composed of 85%matrix 15% fossil"
+"limestone","muddy",NULL,NULL,"Carbonate (Goldberg)/Muddy carbonate  (Feng)"
+"limestone","muddy",NULL,NULL,"Limestone"
+"limestone","muddy",NULL,NULL,"ML"
+"limestone","muddy",NULL,NULL,"Muddy Limestone"
+"limestone","muddy",NULL,NULL,"Muddy carbonate"
+"limestone","muddy",NULL,NULL,"Mudstone"
+"limestone","muddy",NULL,NULL,"Very argillaceous limestone, BI 4-5"
+"limestone","muddy",NULL,NULL,"argillaceous overcompacted limestone"
+"limestone","muddy",NULL,NULL,NULL
+"limestone","sandy",NULL,"black","Black sandy limestone"
+"limestone","sandy",NULL,"reddish",NULL
+"limestone","sandy",NULL,NULL,NULL
+"limestone","silty","carbonaceous",NULL,NULL
+"limestone","silty",NULL,"dark grey","Shale"
+"limestone","silty",NULL,"dark grey","siltstone"
+"limestone","silty",NULL,"reddish",NULL
+"limestone","silty",NULL,NULL,"Dolostone"
+"limestone","silty",NULL,NULL,"Limestone"
+"limestone","silty",NULL,NULL,NULL
+"limestone",NULL,"calcareous","grey",NULL
+"limestone",NULL,"calcareous",NULL,"calcareous"
+"limestone",NULL,"carbonaceous","grey",NULL
+"limestone",NULL,"carbonaceous","reddish brown",NULL
+"limestone",NULL,"carbonaceous",NULL,NULL
+"limestone",NULL,"dolomitic","grey",NULL
+"limestone",NULL,"dolomitic",NULL,NULL
+"limestone",NULL,"phosphatic","grey",NULL
+"limestone",NULL,"siliceous","dark grey",NULL
+"limestone",NULL,"siliceous","grey",NULL
+"limestone",NULL,"siliceous","white",NULL
+"limestone",NULL,"siliceous",NULL,NULL
+"limestone",NULL,NULL,"black","Black limestone"
+"limestone",NULL,NULL,"black","calcareous"
+"limestone",NULL,NULL,"black","limestone"
+"limestone",NULL,NULL,"black",NULL
+"limestone",NULL,NULL,"brown","Brownish limestone clasts"
+"limestone",NULL,NULL,"dark grey",NULL
+"limestone",NULL,NULL,"greenish grey",NULL
+"limestone",NULL,NULL,"grey","limestone"
+"limestone",NULL,NULL,"grey",NULL
+"limestone",NULL,NULL,"grey to dark grey",NULL
+"limestone",NULL,NULL,"greyish brown",NULL
+"limestone",NULL,NULL,"light grey",NULL
+"limestone",NULL,NULL,"pale grey",NULL
+"limestone",NULL,NULL,"pinkish",NULL
+"limestone",NULL,NULL,"pinkish grey",NULL
+"limestone",NULL,NULL,"reddish",NULL
+"limestone",NULL,NULL,"white",NULL
+"limestone",NULL,NULL,"yellow",NULL
+"limestone",NULL,NULL,"yellowish pink",NULL
+"limestone",NULL,NULL,NULL,"Abundant flat clams"
+"limestone",NULL,NULL,NULL,"Argillaceous fusulinid limestone (floatstone)"
+"limestone",NULL,NULL,NULL,"Argillaceous fusulinid limestone (rudstone)"
+"limestone",NULL,NULL,NULL,"Carbonate"
+"limestone",NULL,NULL,NULL,"Fossiliferous limestone"
+"limestone",NULL,NULL,NULL,"Limestone"
+"limestone",NULL,NULL,NULL,"Limestone "
+"limestone",NULL,NULL,NULL,"Limestone, base of cycle, bioturbated"
+"limestone",NULL,NULL,NULL,"Limestone, bioclastic, algal layers"
+"limestone",NULL,NULL,NULL,"Limestone, bioclastic, pyritic"
+"limestone",NULL,NULL,NULL,"Limestone, clasts, pyrite"
+"limestone",NULL,NULL,NULL,"Limestone, coarse laminae"
+"limestone",NULL,NULL,NULL,"Limestone, muddier upward"
+"limestone",NULL,NULL,NULL,"Limestone, pisoids"
+"limestone",NULL,NULL,NULL,"Limestone, pyrite after bioclasts"
+"limestone",NULL,NULL,NULL,"Limestone, top of cycle"
+"limestone",NULL,NULL,NULL,"Radiolarian"
+"limestone",NULL,NULL,NULL,"Siliciclastic"
+"limestone",NULL,NULL,NULL,"calcareous"
+"limestone",NULL,NULL,NULL,"limestone"
+"limestone",NULL,NULL,NULL,"limstone"
+"limestone",NULL,NULL,NULL,NULL
+"marl","sandy","calcareous","dark yellowish brown",NULL
+"marl",NULL,"calcareous","grey",NULL
+"marl",NULL,"calcareous","moderate yellowish brown",NULL
+"marl",NULL,"carbonaceous","black",NULL
+"marl",NULL,"carbonaceous",NULL,NULL
+"marl",NULL,"dolomitic",NULL,NULL
+"marl",NULL,NULL,"dark grey","calcareous marl"
+"marl",NULL,NULL,"dark grey",NULL
+"marl",NULL,NULL,"light grey","calcareous marl"
+"marl",NULL,NULL,"light grey",NULL
+"marl",NULL,NULL,"medium grey","calcareous marl"
+"marl",NULL,NULL,"moderate yellowish brown",NULL
+"marl",NULL,NULL,"pale grey","calcareous marl"
+"marl",NULL,NULL,"red","red marl"
+"marl",NULL,NULL,"yellow",NULL
+"marl",NULL,NULL,NULL,"marl"
+"marl",NULL,NULL,NULL,NULL
+"marlstone",NULL,NULL,"black",NULL
+"marlstone",NULL,NULL,NULL,NULL
+"mud","silty",NULL,NULL,NULL
+"mud",NULL,"calcareous",NULL,NULL
+"mud",NULL,NULL,"black",NULL
+"mud",NULL,NULL,"greenish grey",NULL
+"mud",NULL,NULL,NULL,NULL
+"mudstone","clayey","carbonaceous","black",NULL
+"mudstone","clayey","carbonaceous","dark grey",NULL
+"mudstone","clayey","carbonaceous",NULL,NULL
+"mudstone","clayey","dolomitic","dark grey",NULL
+"mudstone","clayey","dolomitic","grey",NULL
+"mudstone","clayey",NULL,"black",NULL
+"mudstone","clayey",NULL,"dark grey",NULL
+"mudstone","clayey",NULL,NULL,"argillaceous mudstone"
+"mudstone","muddy","calcareous",NULL,"Muddy Limestone"
+"mudstone","muddy","carbonaceous","black",NULL
+"mudstone","muddy","siliceous","black",NULL
+"mudstone","muddy",NULL,"black","argillaceous limestone"
+"mudstone","muddy",NULL,NULL,"Muddy Limestone"
+"mudstone","sandy",NULL,"grey",NULL
+"mudstone","sandy",NULL,NULL,NULL
+"mudstone","silty","calcareous","black",NULL
+"mudstone","silty","calcareous","medium dark grey",NULL
+"mudstone","silty","calcareous","medium grey",NULL
+"mudstone","silty","calcareous","medium light grey",NULL
+"mudstone","silty","calcareous","very dark grey",NULL
+"mudstone","silty","calcareous",NULL,"Calcareous Mudstone"
+"mudstone","silty","calcareous",NULL,"Silty Mudstone"
+"mudstone","silty","calcareous",NULL,NULL
+"mudstone","silty","dolomitic",NULL,NULL
+"mudstone","silty","micaceous","dark grey",NULL
+"mudstone","silty","micaceous","grey",NULL
+"mudstone","silty","micaceous","medium dark grey",NULL
+"mudstone","silty","micaceous","medium grey",NULL
+"mudstone","silty","micaceous",NULL,NULL
+"mudstone","silty","siliceous","black",NULL
+"mudstone","silty","siliceous","dark green",NULL
+"mudstone","silty","siliceous","green",NULL
+"mudstone","silty","siliceous","grey",NULL
+"mudstone","silty","siliceous","olive green",NULL
+"mudstone","silty","siliceous","pale brown",NULL
+"mudstone","silty","siliceous","red",NULL
+"mudstone","silty","siliceous",NULL,"Silty Mudstone"
+"mudstone","silty",NULL,"black",NULL
+"mudstone","silty",NULL,"bluish black",NULL
+"mudstone","silty",NULL,"dark grey",NULL
+"mudstone","silty",NULL,"grey",NULL
+"mudstone","silty",NULL,"greyish black",NULL
+"mudstone","silty",NULL,"medium dark grey",NULL
+"mudstone","silty",NULL,"medium grey",NULL
+"mudstone","silty",NULL,"pale to medium grey",NULL
+"mudstone","silty",NULL,"reddish brown",NULL
+"mudstone","silty",NULL,"very dark greenish grey",NULL
+"mudstone","silty",NULL,"very dark grey",NULL
+"mudstone","silty",NULL,NULL,"Mudstone"
+"mudstone","silty",NULL,NULL,"SM"
+"mudstone","silty",NULL,NULL,"SS"
+"mudstone","silty",NULL,NULL,"Silty Mudstone"
+"mudstone","silty",NULL,NULL,"Silty mudstone"
+"mudstone","silty",NULL,NULL,NULL
+"mudstone",NULL,"calcareous","black","black shale"
+"mudstone",NULL,"calcareous","black",NULL
+"mudstone",NULL,"calcareous","brownish black",NULL
+"mudstone",NULL,"calcareous","dark grey","Calcite mudrock"
+"mudstone",NULL,"calcareous","dark grey","Dark gray calcareous mudrock with very fine coaly detritus, BI 3-10"
+"mudstone",NULL,"calcareous","dark grey","Dark gray calcareous mudrock with very fine coaly detritus, BI 3-11"
+"mudstone",NULL,"calcareous","dark grey","Dark gray calcareous mudrock with very fine coaly detritus, BI 3-4"
+"mudstone",NULL,"calcareous","dark grey","Dark gray calcareous mudrock with very fine coaly detritus, BI 3-5"
+"mudstone",NULL,"calcareous","dark grey","Dark gray calcareous mudrock with very fine coaly detritus, BI 3-6"
+"mudstone",NULL,"calcareous","dark grey","Dark gray calcareous mudrock with very fine coaly detritus, BI 3-7"
+"mudstone",NULL,"calcareous","dark grey","Dark gray calcareous mudrock with very fine coaly detritus, BI 3-8"
+"mudstone",NULL,"calcareous","dark grey","Dark gray calcareous mudrock with very fine coaly detritus, BI 3-9"
+"mudstone",NULL,"calcareous","dark grey","calcareous laminated mudstone"
+"mudstone",NULL,"calcareous","dark grey","calcareous mudrock"
+"mudstone",NULL,"calcareous","dark grey","calcareous mudstone"
+"mudstone",NULL,"calcareous","dark grey","thick-laminated calcareous mudstone, associated with nodules"
+"mudstone",NULL,"calcareous","dark grey","very weakly calcareous mudstone"
+"mudstone",NULL,"calcareous","dark grey","weakly calcareous mudstone"
+"mudstone",NULL,"calcareous","dark grey",NULL
+"mudstone",NULL,"calcareous","greenish grey",NULL
+"mudstone",NULL,"calcareous","grey","calcareous mudstone"
+"mudstone",NULL,"calcareous","grey",NULL
+"mudstone",NULL,"calcareous","greyish black",NULL
+"mudstone",NULL,"calcareous","light grey","calcareous mudstone"
+"mudstone",NULL,"calcareous","medium dark grey","calc. mudstone (weakly)"
+"mudstone",NULL,"calcareous","medium dark grey","calcareous mudstone"
+"mudstone",NULL,"calcareous","medium dark grey",NULL
+"mudstone",NULL,"calcareous","medium grey","calcareous mudstone"
+"mudstone",NULL,"calcareous","yellowish beige","Calcite mudrock"
+"mudstone",NULL,"calcareous",NULL,"CM"
+"mudstone",NULL,"calcareous",NULL,"Calcareous Mudstone"
+"mudstone",NULL,"calcareous",NULL,"Calcareous mudrocks"
+"mudstone",NULL,"calcareous",NULL,"Calcareous mudstone"
+"mudstone",NULL,"calcareous",NULL,"Mudstone"
+"mudstone",NULL,"calcareous",NULL,"Skeletal-bearing argillaceous mudrocks"
+"mudstone",NULL,"calcareous",NULL,"calcareous mudstone"
+"mudstone",NULL,"calcareous",NULL,"calcareous mudstone "
+"mudstone",NULL,"calcareous",NULL,"calcareous mudstone w/ concretions "
+"mudstone",NULL,"calcareous",NULL,"calcareous mudstone w/ limestone beds "
+"mudstone",NULL,"calcareous",NULL,NULL
+"mudstone",NULL,"carbonaceous","black",NULL
+"mudstone",NULL,"carbonaceous","dark grey",NULL
+"mudstone",NULL,"carbonaceous","grey","calcareous mudstone"
+"mudstone",NULL,"carbonaceous","grey",NULL
+"mudstone",NULL,"carbonaceous",NULL,"Sooty Mudstone"
+"mudstone",NULL,"carbonaceous",NULL,"carbonate nodule"
+"mudstone",NULL,"carbonaceous",NULL,NULL
+"mudstone",NULL,"dolomitic","dark brown",NULL
+"mudstone",NULL,"dolomitic","dark reddish grey",NULL
+"mudstone",NULL,"dolomitic","greenish beige",NULL
+"mudstone",NULL,"dolomitic","red",NULL
+"mudstone",NULL,"dolomitic","reddish brown",NULL
+"mudstone",NULL,"dolomitic","yellowish beige",NULL
+"mudstone",NULL,"dolomitic",NULL,NULL
+"mudstone",NULL,"micaceous","medium dark grey",NULL
+"mudstone",NULL,"phosphatic","dark grey","dark gray phosphoritic mudstone"
+"mudstone",NULL,"phosphatic","greyish black",NULL
+"mudstone",NULL,"phosphatic",NULL,"phosphatic mudstone"
+"mudstone",NULL,"phosphatic",NULL,NULL
+"mudstone",NULL,"pyritiferous","dark grey","dark gray pyritic laminated mudstone"
+"mudstone",NULL,"pyritiferous","dark grey","dark gray pyritic mudstone"
+"mudstone",NULL,"pyritiferous","dark grey",NULL
+"mudstone",NULL,"pyritiferous","grey","gray pyritic laminated mudstone"
+"mudstone",NULL,"pyritiferous","grey",NULL
+"mudstone",NULL,"pyritiferous",NULL,NULL
+"mudstone",NULL,"siliceous","black","siliceous mudstone"
+"mudstone",NULL,"siliceous","black",NULL
+"mudstone",NULL,"siliceous","dark grey","Dark grey mudstone"
+"mudstone",NULL,"siliceous","dark grey",NULL
+"mudstone",NULL,"siliceous","grey","siliceous mudstone"
+"mudstone",NULL,"siliceous","red",NULL
+"mudstone",NULL,"siliceous",NULL,"Muddy Siltstone"
+"mudstone",NULL,"siliceous",NULL,"Siliceous mudrocks"
+"mudstone",NULL,"siliceous",NULL,"Siliceous mudstone"
+"mudstone",NULL,"siliceous",NULL,"cherty mudstone"
+"mudstone",NULL,"siliceous",NULL,NULL
+"mudstone",NULL,NULL,"black","Fine grained sedimentary drape over dropstone"
+"mudstone",NULL,NULL,"black","mudstone/siltstone"
+"mudstone",NULL,NULL,"black",NULL
+"mudstone",NULL,NULL,"brown","brown mudstone"
+"mudstone",NULL,NULL,"brownish red","brown-red mudstone"
+"mudstone",NULL,NULL,"dark grey","Mudrock"
+"mudstone",NULL,NULL,"dark grey","calcareous silstone"
+"mudstone",NULL,NULL,"dark grey","dark gray laminated mudstone"
+"mudstone",NULL,NULL,"dark grey","dark gray mudstone"
+"mudstone",NULL,NULL,"dark grey","mudstone"
+"mudstone",NULL,NULL,"dark grey","mudstone with discontinuous dark laminae"
+"mudstone",NULL,NULL,"dark grey","mudstone/siltstone"
+"mudstone",NULL,NULL,"dark grey","non-calc mudstone"
+"mudstone",NULL,NULL,"dark grey","shale"
+"mudstone",NULL,NULL,"dark grey","shale graptolitic shale"
+"mudstone",NULL,NULL,"dark grey","shale interbedded in sandstone"
+"mudstone",NULL,NULL,"dark grey","shale interbedded w/ limestone debris & siltstone "
+"mudstone",NULL,NULL,"dark grey","shale interbedded w/ sandstone"
+"mudstone",NULL,NULL,"dark grey","shale interbedded w/ sandstone carbonate debris "
+"mudstone",NULL,NULL,"dark grey","silicic(?) shale interbedded in sandstone"
+"mudstone",NULL,NULL,"dark grey","silstone interbedded w/ sandstone and carbonate debris"
+"mudstone",NULL,NULL,"dark grey","silty shale"
+"mudstone",NULL,NULL,"dark grey",NULL
+"mudstone",NULL,NULL,"dark reddish brown",NULL
+"mudstone",NULL,NULL,"green","green mudstone"
+"mudstone",NULL,NULL,"green",NULL
+"mudstone",NULL,NULL,"grey","bioturbated shale"
+"mudstone",NULL,NULL,"grey","gray laminated mudstone"
+"mudstone",NULL,NULL,"grey","gray mudstone"
+"mudstone",NULL,NULL,"grey","gray shaley mudstone"
+"mudstone",NULL,NULL,"grey","grey mudstone "
+"mudstone",NULL,NULL,"grey","grey shale "
+"mudstone",NULL,NULL,"grey","limestone"
+"mudstone",NULL,NULL,"grey","shale interbedded w/ sandstone"
+"mudstone",NULL,NULL,"grey","shale interbedded w/ sandstone and silstone"
+"mudstone",NULL,NULL,"grey","shale interbedded w/ siltstone and sandstone"
+"mudstone",NULL,NULL,"grey","silver-gray mudstone"
+"mudstone",NULL,NULL,"grey",NULL
+"mudstone",NULL,NULL,"grey green","gray-green mudstone"
+"mudstone",NULL,NULL,"greyish black",NULL
+"mudstone",NULL,NULL,"medium dark grey",NULL
+"mudstone",NULL,NULL,"medium grey",NULL
+"mudstone",NULL,NULL,"olive grey",NULL
+"mudstone",NULL,NULL,"pale grey",NULL
+"mudstone",NULL,NULL,"pale to medium grey",NULL
+"mudstone",NULL,NULL,"purple",NULL
+"mudstone",NULL,NULL,"red","red-brown mudstone"
+"mudstone",NULL,NULL,"red",NULL
+"mudstone",NULL,NULL,"very dark grey",NULL
+"mudstone",NULL,NULL,"yellowish beige","Mudrock"
+"mudstone",NULL,NULL,NULL,"Argillaceous mudrocks"
+"mudstone",NULL,NULL,NULL,"Argillaceous mudstone"
+"mudstone",NULL,NULL,NULL,"Black mudrock"
+"mudstone",NULL,NULL,NULL,"Black mudrock, flat clams"
+"mudstone",NULL,NULL,NULL,"Black mudrock, pyritic, flat clams"
+"mudstone",NULL,NULL,NULL,"Black mudrock, pyritic, minor flat clams"
+"mudstone",NULL,NULL,NULL,"Carbonate (Goldberg)/Laminated mudstone (Feng)"
+"mudstone",NULL,NULL,NULL,"Dark mudstone"
+"mudstone",NULL,NULL,NULL,"Dk ms, pyritic, flat clams"
+"mudstone",NULL,NULL,NULL,"Gray mudrock"
+"mudstone",NULL,NULL,NULL,"Gray/black mudrock (transitional)"
+"mudstone",NULL,NULL,NULL,"Green mudrock"
+"mudstone",NULL,NULL,NULL,"Muddy Siltstone"
+"mudstone",NULL,NULL,NULL,"Muddy carbonate (Goldberg)/Laminated mudstone (Feng)"
+"mudstone",NULL,NULL,NULL,"Mudstone"
+"mudstone",NULL,NULL,NULL,"black shale"
+"mudstone",NULL,NULL,NULL,"grey mudstone interbedded w/ hemestone"
+"mudstone",NULL,NULL,NULL,"mudstone"
+"mudstone",NULL,NULL,NULL,"mudstone "
+"mudstone",NULL,NULL,NULL,"mudstone/siltstone"
+"mudstone",NULL,NULL,NULL,NULL
+"nodule",NULL,NULL,NULL,"authigenic calcite nodule"
+"ooze","clayey","siliceous",NULL,NULL
+"ooze",NULL,"calcareous","dark greyish orange",NULL
+"ooze",NULL,"calcareous","moderate yellowish brown",NULL
+"ooze",NULL,"calcareous","pale brown",NULL
+"ooze",NULL,"calcareous","pale yellowish brown",NULL
+"ooze",NULL,"calcareous","very pale orange",NULL
+"ooze",NULL,"calcareous",NULL,NULL
+"ooze",NULL,"siliceous","moderate yellowish brown",NULL
+"ooze",NULL,NULL,"white",NULL
+"ore",NULL,"Ni-Mo","black","Ni-Mo Ore horizon"
+"ore",NULL,"Vanadium",NULL,"V ore"
+"packstone","clayey",NULL,"dark grey","argill skel PK"
+"packstone","muddy","calcareous","grey",NULL
+"packstone","muddy",NULL,NULL,NULL
+"packstone",NULL,"calcareous","grey",NULL
+"packstone",NULL,"calcareous",NULL,NULL
+"packstone",NULL,"dolomitic",NULL,NULL
+"packstone",NULL,"siliceous",NULL,NULL
+"packstone",NULL,NULL,"blue grey",NULL
+"packstone",NULL,NULL,"dark grey","peloid PK-GST"
+"packstone",NULL,NULL,"dark grey","skel  PK"
+"packstone",NULL,NULL,"dark grey","skel PK"
+"packstone",NULL,NULL,"dark grey","skel WK"
+"packstone",NULL,NULL,"dark grey","skeletal PK"
+"packstone",NULL,NULL,"green",NULL
+"packstone",NULL,NULL,"medium grey","PK"
+"packstone",NULL,NULL,"medium grey","skel PKST"
+"packstone",NULL,NULL,NULL,"HCS and Planar Laminated Packstone-Grainstone"
+"packstone",NULL,NULL,NULL,"Massive-Bedded Packstone-Grainstone"
+"packstone",NULL,NULL,NULL,NULL
+"phosphorite",NULL,NULL,"black","Phosphorite"
+"phosphorite",NULL,NULL,"grey",NULL
+"phosphorite",NULL,NULL,NULL,"Phosphorite"
+"phosphorite",NULL,NULL,NULL,"Phosphorite "
+"phosphorite",NULL,NULL,NULL,"hardground"
+"phosphorite",NULL,NULL,NULL,"phosphatic beds"
+"phosphorite",NULL,NULL,NULL,"phosphorite nodule"
+"phosphorite",NULL,NULL,NULL,NULL
+"phyllite",NULL,NULL,NULL,NULL
+"regolith",NULL,NULL,"brown","Rsa"
+"regolith",NULL,NULL,NULL,NULL
+"sand",NULL,NULL,NULL,NULL
+"sandstone","clayey","siliceous","black",NULL
+"sandstone","clayey",NULL,NULL,"Argillaceous sandstone"
+"sandstone","muddy","carbonaceous","grey",NULL
+"sandstone","muddy",NULL,"grey",NULL
+"sandstone","muddy",NULL,NULL,"sandstone from shale and pebble enriched base, just above unconformity"
+"sandstone","sandy","siliceous","reddish",NULL
+"sandstone","silty",NULL,"dark grey",NULL
+"sandstone","silty",NULL,"very dark grey",NULL
+"sandstone","silty",NULL,NULL,NULL
+"sandstone",NULL,"calcareous","grey","Ssa"
+"sandstone",NULL,"calcareous",NULL,"Calcareous sandstone"
+"sandstone",NULL,"calcareous",NULL,"sandstone with calcareous cement, rare root moulds and Microcodium"
+"sandstone",NULL,"calcareous",NULL,NULL
+"sandstone",NULL,"dolomitic","grey","Interbedded dolomitic siltstone"
+"sandstone",NULL,"dolomitic","grey","Sda"
+"sandstone",NULL,"dolomitic","grey","Ssa"
+"sandstone",NULL,NULL,"black",NULL
+"sandstone",NULL,NULL,"dark grey","Coarse sandstone, cross-bedding"
+"sandstone",NULL,NULL,"dark grey","Ssa"
+"sandstone",NULL,NULL,"dark grey","mud-sandstone alternation"
+"sandstone",NULL,NULL,"dark grey","sandstone"
+"sandstone",NULL,NULL,"dark grey",NULL
+"sandstone",NULL,NULL,"green",NULL
+"sandstone",NULL,NULL,"grey","Ssa"
+"sandstone",NULL,NULL,"light green grey",NULL
+"sandstone",NULL,NULL,"red","Red-colored sandstone"
+"sandstone",NULL,NULL,"reddish brown",NULL
+"sandstone",NULL,NULL,"tan","Fine sandstone, ripple marks"
+"sandstone",NULL,NULL,"tan","Sandstone"
+"sandstone",NULL,NULL,NULL,"Buff, dolomitic, fine-grained sandstone."
+"sandstone",NULL,NULL,NULL,"Grey, dolomitic, fine-grained, laminated sandstone."
+"sandstone",NULL,NULL,NULL,"Light grey, massive, dolomitic sandstone."
+"sandstone",NULL,NULL,NULL,"Pebble-rich sandstone, 30% clasts 70% sandstone matrix"
+"sandstone",NULL,NULL,NULL,"Quartzose sandstone"
+"sandstone",NULL,NULL,NULL,"Sandstone"
+"sandstone",NULL,NULL,NULL,"quartzite"
+"sandstone",NULL,NULL,NULL,"sandstone"
+"sandstone",NULL,NULL,NULL,"sandstone/conglomerate"
+"sandstone",NULL,NULL,NULL,NULL
+"shale","clayey","calcareous","black",NULL
+"shale","clayey","carbonaceous","black",NULL
+"shale","clayey","carbonaceous","dark grey",NULL
+"shale","clayey","dolomitic","dark grey",NULL
+"shale","clayey","dolomitic","moderate brown",NULL
+"shale","clayey","micaceous","dark grey",NULL
+"shale","clayey","pyritiferous","black",NULL
+"shale","clayey","siliceous","black",NULL
+"shale","clayey","siliceous","dark greyish black",NULL
+"shale","clayey","siliceous","greenish black",NULL
+"shale","clayey",NULL,"black",NULL
+"shale","clayey",NULL,"blue grey",NULL
+"shale","clayey",NULL,"dark grey",NULL
+"shale","clayey",NULL,"green",NULL
+"shale","clayey",NULL,"greenish grey",NULL
+"shale","clayey",NULL,"grey",NULL
+"shale","clayey",NULL,"light grey",NULL
+"shale","clayey",NULL,"medium dark green",NULL
+"shale","clayey",NULL,"medium dark grey",NULL
+"shale","muddy","calcareous","black","black fissile shale (carbonaceous, calcareous)"
+"shale","muddy","calcareous","grey",NULL
+"shale","muddy","carbonaceous","black","black fissile shale"
+"shale","muddy","carbonaceous","black",NULL
+"shale","muddy","carbonaceous","grey",NULL
+"shale","muddy","carbonaceous",NULL,NULL
+"shale","muddy","siliceous","black",NULL
+"shale","muddy","siliceous","brown",NULL
+"shale","muddy","siliceous","dark brown",NULL
+"shale","muddy","siliceous","dark green-grey",NULL
+"shale","muddy","siliceous","dark grey",NULL
+"shale","muddy","siliceous","dark red",NULL
+"shale","muddy","siliceous","green",NULL
+"shale","muddy","siliceous","greenish black",NULL
+"shale","muddy","siliceous","grey",NULL
+"shale","muddy","siliceous","olive green",NULL
+"shale","muddy","siliceous","pale brown",NULL
+"shale","muddy","siliceous","purple",NULL
+"shale","muddy","siliceous","red",NULL
+"shale","muddy","siliceous",NULL,NULL
+"shale","muddy",NULL,NULL,NULL
+"shale","sandy","calcareous","dark grey",NULL
+"shale","sandy","calcareous","light grey",NULL
+"shale","sandy","carbonaceous","black",NULL
+"shale","sandy","siliceous","grey",NULL
+"shale","sandy",NULL,NULL,"Sandy shale"
+"shale","silty","calcareous","black",NULL
+"shale","silty","calcareous","dark grey",NULL
+"shale","silty","calcareous","greenish grey",NULL
+"shale","silty","calcareous","grey",NULL
+"shale","silty","calcareous","reddish brown",NULL
+"shale","silty","calcareous",NULL,"CSM"
+"shale","silty","calcareous",NULL,"silty shale (carbonaceous, calcareous)"
+"shale","silty","calcareous",NULL,"silty shale with thin siltstone beds (carbonaceous, calcareous)"
+"shale","silty","calcareous",NULL,NULL
+"shale","silty","carbonaceous","black",NULL
+"shale","silty","carbonaceous","brownish black",NULL
+"shale","silty","carbonaceous","dark grey",NULL
+"shale","silty","carbonaceous","grey",NULL
+"shale","silty","carbonaceous","red",NULL
+"shale","silty","carbonaceous",NULL,"Sooty Silty Shale"
+"shale","silty","carbonaceous",NULL,"silty shale"
+"shale","silty","carbonaceous",NULL,"silty shale with thin siltstone beds"
+"shale","silty","carbonaceous",NULL,NULL
+"shale","silty","dolomitic","dark grey","dolomitic siltstone/silty shale"
+"shale","silty","dolomitic","dark grey",NULL
+"shale","silty","dolomitic","grey",NULL
+"shale","silty","dolomitic","light grey",NULL
+"shale","silty","dolomitic","medium light grey",NULL
+"shale","silty","dolomitic",NULL,NULL
+"shale","silty","micaceous",NULL,NULL
+"shale","silty","pyritiferous","black",NULL
+"shale","silty","pyritiferous","dark grey",NULL
+"shale","silty","siliceous","black",NULL
+"shale","silty","siliceous","dark grey","dark gray to black silty shale"
+"shale","silty","siliceous","dark grey",NULL
+"shale","silty","siliceous","green",NULL
+"shale","silty","siliceous","grey",NULL
+"shale","silty","siliceous","light grey","light gray silty shale"
+"shale","silty","siliceous","reddish brown",NULL
+"shale","silty","siliceous",NULL,"Cherty Shale with Silty Beds"
+"shale","silty","siliceous",NULL,NULL
+"shale","silty",NULL,"black","Silty Mudstone"
+"shale","silty",NULL,"black","Silty black shale"
+"shale","silty",NULL,"black","black shale w/quartz laminae"
+"shale","silty",NULL,"black",NULL
+"shale","silty",NULL,"dark grey","Dark gray silty shale with coaly detritus, BI 10"
+"shale","silty",NULL,"dark grey","Dark gray silty shale with coaly detritus, BI 11"
+"shale","silty",NULL,"dark grey","Dark gray silty shale with coaly detritus, BI 12"
+"shale","silty",NULL,"dark grey","Dark gray silty shale with coaly detritus, BI 3"
+"shale","silty",NULL,"dark grey","Dark gray silty shale with coaly detritus, BI 4"
+"shale","silty",NULL,"dark grey","Dark gray silty shale with coaly detritus, BI 5"
+"shale","silty",NULL,"dark grey","Dark gray silty shale with coaly detritus, BI 6"
+"shale","silty",NULL,"dark grey","Dark gray silty shale with coaly detritus, BI 7"
+"shale","silty",NULL,"dark grey","Dark gray silty shale with coaly detritus, BI 8"
+"shale","silty",NULL,"dark grey","Dark gray silty shale with coaly detritus, BI 9"
+"shale","silty",NULL,"dark grey","Shale"
+"shale","silty",NULL,"dark grey","shale"
+"shale","silty",NULL,"dark grey",NULL
+"shale","silty",NULL,"green","Shale"
+"shale","silty",NULL,"greenish grey","Shale"
+"shale","silty",NULL,"greenish grey",NULL
+"shale","silty",NULL,"grey",NULL
+"shale","silty",NULL,"greyish black","195? shale"
+"shale","silty",NULL,"greyish black","siltstone"
+"shale","silty",NULL,"greyish black",NULL
+"shale","silty",NULL,"light grey",NULL
+"shale","silty",NULL,"medium dark grey","shale"
+"shale","silty",NULL,"medium dark grey",NULL
+"shale","silty",NULL,"medium grey","shale"
+"shale","silty",NULL,"medium grey",NULL
+"shale","silty",NULL,"medium light grey","shale"
+"shale","silty",NULL,"olive green","Shale"
+"shale","silty",NULL,"pastel reddish grey","Shale"
+"shale","silty",NULL,"red","Shale"
+"shale","silty",NULL,"reddish brown","Shale"
+"shale","silty",NULL,NULL,"Black shale with siltstone laminae, rich in coaly detritus"
+"shale","silty",NULL,NULL,"Fe-rich siltstone/shale"
+"shale","silty",NULL,NULL,"Shale"
+"shale","silty",NULL,NULL,"Silty Shale"
+"shale","silty",NULL,NULL,"silty shale"
+"shale","silty",NULL,NULL,NULL
+"shale",NULL,"calcareous","black","Calcareous Black Shale"
+"shale",NULL,"calcareous","black","black shale"
+"shale",NULL,"calcareous","black","calcareous  mudstone"
+"shale",NULL,"calcareous","black",NULL
+"shale",NULL,"calcareous","dark greenish grey",NULL
+"shale",NULL,"calcareous","dark grey","Dark gray calcareous shale with coaly detritus and fine-grained pyrite, BI 4 and higher"
+"shale",NULL,"calcareous","dark grey","Very dark gray calcareous shale"
+"shale",NULL,"calcareous","dark grey","calcareous shale"
+"shale",NULL,"calcareous","dark grey",NULL
+"shale",NULL,"calcareous","greenish grey",NULL
+"shale",NULL,"calcareous","grey","Mottled calcareous shale, 90 %gley, 10% red color"
+"shale",NULL,"calcareous","grey","calcareous shale"
+"shale",NULL,"calcareous","grey",NULL
+"shale",NULL,"calcareous","light grey","calcareous shale"
+"shale",NULL,"calcareous","medium grey","calcareous shale"
+"shale",NULL,"calcareous","orange",NULL
+"shale",NULL,"calcareous","pale grey","calcareous shale"
+"shale",NULL,"calcareous","pale grey",NULL
+"shale",NULL,"calcareous","reddish brown",NULL
+"shale",NULL,"calcareous",NULL,"Calcareous shale"
+"shale",NULL,"calcareous",NULL,"Dark calcareous shale"
+"shale",NULL,"calcareous",NULL,"Dark calcareous shale, BI 4 and higher"
+"shale",NULL,"calcareous",NULL,"Dark gray calcareus shale to argillaceous limestone with coaly detritus"
+"shale",NULL,"calcareous",NULL,"Siliciclastic shale"
+"shale",NULL,"calcareous",NULL,"black shale"
+"shale",NULL,"calcareous",NULL,"calcareous shale"
+"shale",NULL,"calcareous",NULL,"dark calcareous shale, bioturbated"
+"shale",NULL,"calcareous",NULL,"fossil lime shale "
+"shale",NULL,"calcareous",NULL,"lime shale "
+"shale",NULL,"calcareous",NULL,NULL
+"shale",NULL,"carbonaceous","black","Carbonatic shale"
+"shale",NULL,"carbonaceous","black",NULL
+"shale",NULL,"carbonaceous","dark brownish grey",NULL
+"shale",NULL,"carbonaceous","dark green",NULL
+"shale",NULL,"carbonaceous","dark grey",NULL
+"shale",NULL,"carbonaceous","grey",NULL
+"shale",NULL,"carbonaceous","light grey","Ssh"
+"shale",NULL,"carbonaceous","orange",NULL
+"shale",NULL,"carbonaceous",NULL,"Carbonatic shale"
+"shale",NULL,"carbonaceous",NULL,"Sooty Shale"
+"shale",NULL,"carbonaceous",NULL,"carbonaceous chert"
+"shale",NULL,"carbonaceous",NULL,NULL
+"shale",NULL,"dolomitic","black","Dolomitic black shale"
+"shale",NULL,"dolomitic","black",NULL
+"shale",NULL,"dolomitic","dark grey",NULL
+"shale",NULL,"dolomitic","grey",NULL
+"shale",NULL,"dolomitic","light grey",NULL
+"shale",NULL,"dolomitic",NULL,"dolostone shale"
+"shale",NULL,"dolomitic",NULL,NULL
+"shale",NULL,"micaceous",NULL,NULL
+"shale",NULL,"phosphatic","black",NULL
+"shale",NULL,"phosphatic","light to medium grey",NULL
+"shale",NULL,"pyritiferous","black","black shale"
+"shale",NULL,"pyritiferous","black",NULL
+"shale",NULL,"pyritiferous","dark grey",NULL
+"shale",NULL,"pyritiferous","greyish black",NULL
+"shale",NULL,"pyritiferous",NULL,NULL
+"shale",NULL,"siliceous","black","Black Shale-Chert"
+"shale",NULL,"siliceous","black","Black partly cherty shale"
+"shale",NULL,"siliceous","black","Black shale"
+"shale",NULL,"siliceous","black","Siliceous black shale"
+"shale",NULL,"siliceous","black",NULL
+"shale",NULL,"siliceous","dark grey",NULL
+"shale",NULL,"siliceous","grey",NULL
+"shale",NULL,"siliceous","medium grey","siliceous shale"
+"shale",NULL,"siliceous",NULL,"Cherty Shale"
+"shale",NULL,"siliceous",NULL,"Cherty Shale with Pyrite"
+"shale",NULL,"siliceous",NULL,"Cherty shale"
+"shale",NULL,"siliceous",NULL,"Siliceous shale"
+"shale",NULL,"siliceous",NULL,"Silicious Shale"
+"shale",NULL,"siliceous",NULL,"Silicious Shale with Minor Pyrite"
+"shale",NULL,"siliceous",NULL,"Silicious Shale with Pyrite"
+"shale",NULL,"siliceous",NULL,"cherty shale"
+"shale",NULL,"siliceous",NULL,"siliceous shale"
+"shale",NULL,"siliceous",NULL,NULL
+"shale",NULL,NULL,"black","BS"
+"shale",NULL,NULL,"black","Black Shale"
+"shale",NULL,NULL,"black","Black homogeneous cryptolaminated shale"
+"shale",NULL,NULL,"black","Black shale"
+"shale",NULL,NULL,"black","Black shale/Phos. carbonate"
+"shale",NULL,NULL,"black","Calcareous shale"
+"shale",NULL,NULL,"black","Fine grained black shale"
+"shale",NULL,NULL,"black","Mudstone"
+"shale",NULL,NULL,"black","Pyrite layer"
+"shale",NULL,NULL,"black","Shale"
+"shale",NULL,NULL,"black","Siderite-rich shale"
+"shale",NULL,NULL,"black","Ssh"
+"shale",NULL,NULL,"black","black Shale"
+"shale",NULL,NULL,"black","black shale"
+"shale",NULL,NULL,"black","black shale. Chalcopyrite present."
+"shale",NULL,NULL,"black","calcareous black shale"
+"shale",NULL,NULL,"black","grey shale"
+"shale",NULL,NULL,"black","magnetite-rich black shale"
+"shale",NULL,NULL,"black","pyritic black shale"
+"shale",NULL,NULL,"black","very pyrite-rich black shale"
+"shale",NULL,NULL,"black",NULL
+"shale",NULL,NULL,"blackish brown",NULL
+"shale",NULL,NULL,"buff grey",NULL
+"shale",NULL,NULL,"dark greenish grey",NULL
+"shale",NULL,NULL,"dark grey","Dark gray shale with coaly detritus, BI 3"
+"shale",NULL,NULL,"dark grey","Laminated dark gray shale with abundant coaly destritus; BI 1-2"
+"shale",NULL,NULL,"dark grey","Laminated dark gray shale with abundant coaly destritus; BI 1-3"
+"shale",NULL,NULL,"dark grey","Massive dark gray shale with fine coaly detritus and rare small productids"
+"shale",NULL,NULL,"dark grey","Ssh"
+"shale",NULL,NULL,"dark grey","dark gray shale"
+"shale",NULL,NULL,"dark grey","powdered shale "
+"shale",NULL,NULL,"dark grey","shale"
+"shale",NULL,NULL,"dark grey","shale "
+"shale",NULL,NULL,"dark grey","shale v. soft"
+"shale",NULL,NULL,"dark grey","siliceous shale"
+"shale",NULL,NULL,"dark grey",NULL
+"shale",NULL,NULL,"green",NULL
+"shale",NULL,NULL,"greenish grey","Shale/slate, green-gray and recessive"
+"shale",NULL,NULL,"greenish grey",NULL
+"shale",NULL,NULL,"grey","Ssh"
+"shale",NULL,NULL,"grey","grey shale"
+"shale",NULL,NULL,"grey","grey shale (100% grey 0% red) from mottled gley-dominated interval"
+"shale",NULL,NULL,"grey","mottled gray shale"
+"shale",NULL,NULL,"grey","shale interbedded w/ silstone"
+"shale",NULL,NULL,"grey",NULL
+"shale",NULL,NULL,"greyish black","Shale v. weathered and soft"
+"shale",NULL,NULL,"greyish black","shale"
+"shale",NULL,NULL,"greyish black","shale "
+"shale",NULL,NULL,"greyish black","silstone"
+"shale",NULL,NULL,"greyish black",NULL
+"shale",NULL,NULL,"greyish brown",NULL
+"shale",NULL,NULL,"light and dark grey","Ssh"
+"shale",NULL,NULL,"light greenish grey",NULL
+"shale",NULL,NULL,"light grey","Ssh"
+"shale",NULL,NULL,"light grey",NULL
+"shale",NULL,NULL,"light olive grey","shale"
+"shale",NULL,NULL,"medium dark grey","shale"
+"shale",NULL,NULL,"medium dark grey",NULL
+"shale",NULL,NULL,"medium grey","shale"
+"shale",NULL,NULL,"medium grey","siliceous shale"
+"shale",NULL,NULL,"medium grey",NULL
+"shale",NULL,NULL,"olive grey","shale"
+"shale",NULL,NULL,"pale green",NULL
+"shale",NULL,NULL,"purple","Shale/slate, purple and resistant"
+"shale",NULL,NULL,"red","Brick-red laminated shale, BI 1, just beneath ravinement surface "
+"shale",NULL,NULL,"red","Brick-red laminated shale, BI 1-3"
+"shale",NULL,NULL,"red","Brick-red laminated shale, BI 2"
+"shale",NULL,NULL,"red","Red shale "
+"shale",NULL,NULL,"red","brick red shale (0% grey 100% red)"
+"shale",NULL,NULL,"tan","Shale/slate, tan and resistant"
+"shale",NULL,NULL,"white",NULL
+"shale",NULL,NULL,NULL,"Baritic Shale"
+"shale",NULL,NULL,NULL,"Black shale"
+"shale",NULL,NULL,NULL,"Breccia of weathered laminated shale; sample by 80% from shale fragments"
+"shale",NULL,NULL,NULL,"Brecciated Shale"
+"shale",NULL,NULL,NULL,"Calcareous shale"
+"shale",NULL,NULL,NULL,"Carbonate"
+"shale",NULL,NULL,NULL,"Cherty Silicious Shale"
+"shale",NULL,NULL,NULL,"Grey - green silty shale with a carbonate component."
+"shale",NULL,NULL,NULL,"Interlaminated Barite and Shale"
+"shale",NULL,NULL,NULL,"Mn-siderite-rich shale"
+"shale",NULL,NULL,NULL,"Mn-siderite-rich shale. Chalcopyrite present."
+"shale",NULL,NULL,NULL,"Probable paleosol: mixture of shaly matrix and mud fragments (crumbles on box bottom)"
+"shale",NULL,NULL,NULL,"Shale"
+"shale",NULL,NULL,NULL,"Siliciclastic"
+"shale",NULL,NULL,NULL,"Siliciclastic shale"
+"shale",NULL,NULL,NULL,"Top of weathered shale at angular unconformity: calcrete  40%, laminated weathered shale 40%"
+"shale",NULL,NULL,NULL,"Uppermost Shale"
+"shale",NULL,NULL,NULL,"Wafer Shale"
+"shale",NULL,NULL,NULL,"aeolianite"
+"shale",NULL,NULL,NULL,"argillite"
+"shale",NULL,NULL,NULL,"black shale"
+"shale",NULL,NULL,NULL,"dropstone slate"
+"shale",NULL,NULL,NULL,"geen shale"
+"shale",NULL,NULL,NULL,"gray green shale"
+"shale",NULL,NULL,NULL,"gray shale"
+"shale",NULL,NULL,NULL,"green shale"
+"shale",NULL,NULL,NULL,"high u shale "
+"shale",NULL,NULL,NULL,"intershale"
+"shale",NULL,NULL,NULL,"mottled shale (50% grey 50% red)"
+"shale",NULL,NULL,NULL,"mottled shale (55% grey and 45% red) just below erosional unconformity"
+"shale",NULL,NULL,NULL,"red shale"
+"shale",NULL,NULL,NULL,"shale"
+"shale",NULL,NULL,NULL,"shale "
+"shale",NULL,NULL,NULL,"siderite-rich shale"
+"shale",NULL,NULL,NULL,"siderite-rich shale. Chalcopyrite present."
+"shale",NULL,NULL,NULL,"varvite"
+"shale",NULL,NULL,NULL,"watery shale "
+"shale",NULL,NULL,NULL,NULL
+"siliciclastic",NULL,NULL,"black","Massive till with cm clasts"
+"siliciclastic",NULL,NULL,"grey",NULL
+"siliciclastic",NULL,NULL,"grey green",NULL
+"siliciclastic",NULL,NULL,NULL,NULL
+"silt","clayey",NULL,NULL,NULL
+"silt",NULL,NULL,"grey",NULL
+"silt",NULL,NULL,NULL,NULL
+"siltstone","clayey","carbonaceous","dark grey",NULL
+"siltstone","clayey",NULL,"tan",NULL
+"siltstone","muddy","calcareous","black","black, fissile shaly siltstone (carbonaceous, calcareous)"
+"siltstone","muddy","calcareous","greenish grey",NULL
+"siltstone","muddy","calcareous","grey",NULL
+"siltstone","muddy","calcareous",NULL,"concretionary shaly siltstone"
+"siltstone","muddy","carbonaceous","black","black, fissile shaly siltstone"
+"siltstone","muddy","carbonaceous",NULL,"resistant shaly siltstone"
+"siltstone","muddy","micaceous",NULL,NULL
+"siltstone","muddy","pyritiferous","black","black, fissile shaly siltstone"
+"siltstone","muddy","pyritiferous","grey","gray pyritic siltstone"
+"siltstone","muddy","siliceous",NULL,"Muddy Siltstone"
+"siltstone","muddy",NULL,"dark grey","dark gray laminated siltstone"
+"siltstone","muddy",NULL,"dark grey",NULL
+"siltstone","muddy",NULL,"dark reddish brown",NULL
+"siltstone","muddy",NULL,"green","green mudstone"
+"siltstone","muddy",NULL,"green","green siltstone"
+"siltstone","muddy",NULL,"grey","gray siltstone"
+"siltstone","muddy",NULL,"grey",NULL
+"siltstone","muddy",NULL,"grey green","gray-green mudstone"
+"siltstone","muddy",NULL,"grey green","gray-green siltstone"
+"siltstone","muddy",NULL,"medium dark grey","sandstone interbedded w/ siltstone. Traces pyrite"
+"siltstone","muddy",NULL,"medium grey",NULL
+"siltstone","muddy",NULL,"very dark grey",NULL
+"siltstone","muddy",NULL,NULL,"MS"
+"siltstone","muddy",NULL,NULL,"Mudstone"
+"siltstone","muddy",NULL,NULL,NULL
+"siltstone","sandy","calcareous","dark grey",NULL
+"siltstone","sandy","calcareous","very dark grey",NULL
+"siltstone","sandy","calcareous",NULL,NULL
+"siltstone","sandy","micaceous","grey",NULL
+"siltstone","sandy","phosphatic",NULL,"sandy phosphatic siltstone"
+"siltstone","sandy","siliceous","grey",NULL
+"siltstone","sandy","siliceous",NULL,NULL
+"siltstone","sandy",NULL,"brown orange",NULL
+"siltstone","sandy",NULL,"dark greenish grey",NULL
+"siltstone","sandy",NULL,"dark grey",NULL
+"siltstone","sandy",NULL,"dark reddish brown",NULL
+"siltstone","sandy",NULL,"grey green",NULL
+"siltstone","sandy",NULL,"light grey",NULL
+"siltstone","sandy",NULL,"medium dark grey",NULL
+"siltstone","sandy",NULL,"purple",NULL
+"siltstone","sandy",NULL,"reddish brown",NULL
+"siltstone","sandy",NULL,"very dark grey",NULL
+"siltstone","silty","carbonaceous","dark grey","dark gray siltstone"
+"siltstone","silty","carbonaceous",NULL,"siltstone"
+"siltstone","silty","carbonaceous",NULL,NULL
+"siltstone","silty","dolomitic","black",NULL
+"siltstone","silty","dolomitic","grey",NULL
+"siltstone","silty","micaceous","grey",NULL
+"siltstone","silty","pyritiferous",NULL,"pyritic horizon"
+"siltstone","silty","siliceous","dark grey","dark gray to black friable shale to siltstone"
+"siltstone","silty","siliceous","grey","gray siltsone"
+"siltstone","silty","siliceous","grey","spiculitic gray siltstone"
+"siltstone","silty","siliceous","red",NULL
+"siltstone","silty",NULL,"dark grey",NULL
+"siltstone","silty",NULL,"green","siltstone"
+"siltstone","silty",NULL,"reddish brown","Siltstone"
+"siltstone","silty",NULL,"reddish brown","siltstone"
+"siltstone","silty",NULL,NULL,"siltstone"
+"siltstone",NULL,"calcareous","black",NULL
+"siltstone",NULL,"calcareous","dark grey",NULL
+"siltstone",NULL,"calcareous","dark reddish grey",NULL
+"siltstone",NULL,"calcareous","greenish grey",NULL
+"siltstone",NULL,"calcareous","grey","calcareous shale "
+"siltstone",NULL,"calcareous","grey","calcareous shale- clastic"
+"siltstone",NULL,"calcareous","grey",NULL
+"siltstone",NULL,"calcareous","greyish green",NULL
+"siltstone",NULL,"calcareous","light grey",NULL
+"siltstone",NULL,"calcareous","medium dark grey","calcareous shale "
+"siltstone",NULL,"calcareous","red",NULL
+"siltstone",NULL,"calcareous","reddish purple",NULL
+"siltstone",NULL,"calcareous",NULL,"Burrowed Calcareous Siltstone"
+"siltstone",NULL,"calcareous",NULL,"Laminated Calcareous Siltstone"
+"siltstone",NULL,"calcareous",NULL,"Massive-Bedded Siltstone"
+"siltstone",NULL,"calcareous",NULL,NULL
+"siltstone",NULL,"carbonaceous","dark grey",NULL
+"siltstone",NULL,"dolomitic","black","Sds"
+"siltstone",NULL,"dolomitic","dark grey","Sds"
+"siltstone",NULL,"dolomitic","dark grey","Ssl"
+"siltstone",NULL,"dolomitic","grey","Sds"
+"siltstone",NULL,"dolomitic","grey",NULL
+"siltstone",NULL,"dolomitic","light and dark grey","Sds"
+"siltstone",NULL,"dolomitic","light and dark grey","Ssl"
+"siltstone",NULL,"dolomitic","light grey","Sds"
+"siltstone",NULL,"dolomitic","light grey","Ssl"
+"siltstone",NULL,"dolomitic",NULL,"Ssl"
+"siltstone",NULL,"phosphatic",NULL,NULL
+"siltstone",NULL,"pyritiferous",NULL,NULL
+"siltstone",NULL,"siliceous","dark grey",NULL
+"siltstone",NULL,NULL,"black","Ssl"
+"siltstone",NULL,NULL,"black",NULL
+"siltstone",NULL,NULL,"brown","Ssl"
+"siltstone",NULL,NULL,"dark grey","Dark gray to black laminated siltstone "
+"siltstone",NULL,NULL,"dark grey","Ssl"
+"siltstone",NULL,NULL,"dark grey","calcareous mudstone "
+"siltstone",NULL,NULL,"dark grey","mudstone/shale "
+"siltstone",NULL,NULL,"dark grey","shale"
+"siltstone",NULL,NULL,"dark grey","shale "
+"siltstone",NULL,NULL,"dark grey","shale w/  interbedded sandstone"
+"siltstone",NULL,NULL,"dark grey","silstone and small shale interbeds "
+"siltstone",NULL,NULL,"dark grey","siltstone"
+"siltstone",NULL,NULL,"dark grey","siltstone w/ pyrite"
+"siltstone",NULL,NULL,"dark grey","silty shale bioturbated"
+"siltstone",NULL,NULL,"dark grey",NULL
+"siltstone",NULL,NULL,"dark red",NULL
+"siltstone",NULL,NULL,"green","Greenish siltstone"
+"siltstone",NULL,NULL,"green",NULL
+"siltstone",NULL,NULL,"greenish grey","greenish gray siltstone"
+"siltstone",NULL,NULL,"grey","Siltstone"
+"siltstone",NULL,NULL,"grey","Ssl"
+"siltstone",NULL,NULL,"grey","burrowed"
+"siltstone",NULL,NULL,"grey","calcareous mudstone "
+"siltstone",NULL,NULL,"grey","grey mudstone "
+"siltstone",NULL,NULL,"grey","grey shale "
+"siltstone",NULL,NULL,"grey","shale bed in sandstone/siltstone unit"
+"siltstone",NULL,NULL,"grey","shale interbedded in sandstone"
+"siltstone",NULL,NULL,"grey","shale interbedded w/ conection and siltstone"
+"siltstone",NULL,NULL,"grey","shale interbedded w/ sandstone"
+"siltstone",NULL,NULL,"grey","silty shale"
+"siltstone",NULL,NULL,"grey","silty shale in cherty silstone"
+"siltstone",NULL,NULL,"grey",NULL
+"siltstone",NULL,NULL,"grey brown",NULL
+"siltstone",NULL,NULL,"greyish black","shale"
+"siltstone",NULL,NULL,"greyish black","shale "
+"siltstone",NULL,NULL,"greyish black","shale w/  interbedded sandstone"
+"siltstone",NULL,NULL,"greyish black",NULL
+"siltstone",NULL,NULL,"greyish green",NULL
+"siltstone",NULL,NULL,"light and dark grey","Ssl"
+"siltstone",NULL,NULL,"light grey","Siltstone"
+"siltstone",NULL,NULL,"light grey","Ssl"
+"siltstone",NULL,NULL,"medium dark grey","sandstone"
+"siltstone",NULL,NULL,"medium dark grey","shale"
+"siltstone",NULL,NULL,"medium dark grey","shale w/  interbedded sandstone"
+"siltstone",NULL,NULL,"medium dark grey","siltstone"
+"siltstone",NULL,NULL,"medium dark grey",NULL
+"siltstone",NULL,NULL,"medium grey",NULL
+"siltstone",NULL,NULL,"medium grey blue",NULL
+"siltstone",NULL,NULL,"very dark grey",NULL
+"siltstone",NULL,NULL,"white","Ssl"
+"siltstone",NULL,NULL,"yellowish beige","Siltstone"
+"siltstone",NULL,NULL,NULL,"Dolomitic, grey-green, laminated siltstone."
+"siltstone",NULL,NULL,NULL,"Dolomitic, red, laminated siltstone with thin quartz-rich laminae. Some siltstone rip up clasts."
+"siltstone",NULL,NULL,NULL,"Grey - green dolomitic siltstone."
+"siltstone",NULL,NULL,NULL,"Grey-green, dolomitic, laminated siltstone."
+"siltstone",NULL,NULL,NULL,"Grey-green, laminated, dolomitic siltstone."
+"siltstone",NULL,NULL,NULL,"Massive-Bedded Siltstone"
+"siltstone",NULL,NULL,NULL,"Siltstone"
+"siltstone",NULL,NULL,NULL,"dark green siltstone"
+"siltstone",NULL,NULL,NULL,"green siltstone"
+"siltstone",NULL,NULL,NULL,"siltstone"
+"siltstone",NULL,NULL,NULL,NULL
+"slate","silty","micaceous","brownish",NULL
+"slate",NULL,NULL,"dark grey",NULL
+"slate",NULL,NULL,"light grey",NULL
+"slate",NULL,NULL,"medium grey",NULL
+"slate",NULL,NULL,"medium light grey",NULL
+"sulfide ore","muddy","pyritiferous","yellow",NULL
+"sulfide ore",NULL,"Ni-Mo",NULL,"Ni-Mo sulphide ore"
+"sulfide ore",NULL,NULL,NULL,"Barite"
+"sulfide ore",NULL,NULL,NULL,"Interlaminated Barite and Shale"
+"sulfide ore",NULL,NULL,NULL,"Shale"
+"sulfide ore",NULL,NULL,NULL,"Sulfide ore"
+"sulfide ore",NULL,NULL,NULL,NULL
+"tuff",NULL,NULL,NULL,"Tuff"
+"wackestone","muddy","calcareous","grey",NULL
+"wackestone","muddy","carbonaceous","dark brownish grey",NULL
+"wackestone","muddy","siliceous","dark brownish grey",NULL
+"wackestone","muddy","siliceous","dark greenish grey",NULL
+"wackestone","muddy",NULL,NULL,NULL
+"wackestone","sandy",NULL,"greenish grey",NULL
+"wackestone","sandy",NULL,"light yellowish grey",NULL
+"wackestone","sandy",NULL,NULL,NULL
+"wackestone","silty",NULL,"blue grey",NULL
+"wackestone","silty",NULL,"greenish grey",NULL
+"wackestone","silty",NULL,"grey",NULL
+"wackestone","silty",NULL,"light greenish grey",NULL
+"wackestone","silty",NULL,"light grey",NULL
+"wackestone","silty",NULL,"light yellowish grey",NULL
+"wackestone","silty",NULL,NULL,NULL
+"wackestone",NULL,"calcareous","grey",NULL
+"wackestone",NULL,"calcareous",NULL,NULL
+"wackestone",NULL,"dolomitic",NULL,NULL
+"wackestone",NULL,NULL,"blue grey",NULL
+"wackestone",NULL,NULL,"dark grey","WK"
+"wackestone",NULL,NULL,"dark grey","skek WK"
+"wackestone",NULL,NULL,"dark grey","skel WK"
+"wackestone",NULL,NULL,"dark grey","skel WK-PK"
+"wackestone",NULL,NULL,"dark grey","skeletal PK"
+"wackestone",NULL,NULL,"dark grey","skeletal WK"
+"wackestone",NULL,NULL,"dark grey","skeletal WK-PK"
+"wackestone",NULL,NULL,"dark grey",NULL
+"wackestone",NULL,NULL,"grey",NULL
+"wackestone",NULL,NULL,"light grey",NULL
+"wackestone",NULL,NULL,"medium grey","WK"
+"wackestone",NULL,NULL,"medium grey","WK-PK"
+"wackestone",NULL,NULL,"medium grey","skel WK"
+"wackestone",NULL,NULL,"medium grey","skel WK-PK"
+"wackestone",NULL,NULL,"purple grey",NULL
+"wackestone",NULL,NULL,"red","red limestone"
+"wackestone",NULL,NULL,"red","red-brown limestone"
+"wackestone",NULL,NULL,NULL,"Hard matrix-rich bioclastic wackestone-packstone"
+"wackestone",NULL,NULL,NULL,"Siliceous mudrocks"
+"wackestone",NULL,NULL,NULL,"Wackestone"
+"wackestone",NULL,NULL,NULL,"micrite/wacke"
+"wackestone",NULL,NULL,NULL,NULL
+NULL,"sandy",NULL,NULL,"Sandy dolomite"
+NULL,NULL,"dolomitic","black","Dolomitic black shale"
+NULL,NULL,"siliceous",NULL,"cherty lapillus"
+NULL,NULL,NULL,"black","massive organic-rich rock"
+NULL,NULL,NULL,"dark grey",NULL
+NULL,NULL,NULL,"grey",NULL
+NULL,NULL,NULL,"medium dark grey",NULL
+NULL,NULL,NULL,"medium grey","brachiopod"
+NULL,NULL,NULL,"medium grey","crinoid"
+NULL,NULL,NULL,"medium grey","rugose coral"
+NULL,NULL,NULL,NULL,"Basal (root) part of a brecciated paleosol profile: dolomitized amalgamated clay-carbonate breccia"
+NULL,NULL,NULL,NULL,"Calcareous fissile shale"
+NULL,NULL,NULL,NULL,"Calcareous shale"
+NULL,NULL,NULL,NULL,"Chert"
+NULL,NULL,NULL,NULL,"Dominantly from compacted shale stringers"
+NULL,NULL,NULL,NULL,"Limestone concretion"
+NULL,NULL,NULL,NULL,"Massive lime mudstone"
+NULL,NULL,NULL,NULL,"Mixture of carbonate clasts and shale"
+NULL,NULL,NULL,NULL,"Platy lime mudstone"
+NULL,NULL,NULL,NULL,"Rubble"
+NULL,NULL,NULL,NULL,"Shaley lime mudstone"
+NULL,NULL,NULL,NULL,"Shaly components from a pedogenized rock (crumbles from box bottom)"
+NULL,NULL,NULL,NULL,"Volcanic"
+NULL,NULL,NULL,NULL,"authigenic calcite cement"
+NULL,NULL,NULL,NULL,"black limestone"
+NULL,NULL,NULL,NULL,"black mudstone"
+NULL,NULL,NULL,NULL,"black shale"
+NULL,NULL,NULL,NULL,"carbonate (sparite?)"
+NULL,NULL,NULL,NULL,"carbonate mudstone"
+NULL,NULL,NULL,NULL,"carbonate mudstone/limestone"
+NULL,NULL,NULL,NULL,"carbonate mudstone/silicious mudstone"
+NULL,NULL,NULL,NULL,"carbonate-argillaceous bedrock with abundant white crystalline inclusions (40-50% inclusions)"
+NULL,NULL,NULL,NULL,"chert"
+NULL,NULL,NULL,NULL,"chert w/ shale interbeds"
+NULL,NULL,NULL,NULL,"dark chert"
+NULL,NULL,NULL,NULL,"dark limestone"
+NULL,NULL,NULL,NULL,"dark massive lime mudstone"
+NULL,NULL,NULL,NULL,"laminated dark limestone"
+NULL,NULL,NULL,NULL,"lime mudstone"
+NULL,NULL,NULL,NULL,"massive organic-rich rock"
+NULL,NULL,NULL,NULL,"mudstone"
+NULL,NULL,NULL,NULL,"mudstone/chert"
+NULL,NULL,NULL,NULL,"mudstone/siltstonesandstone/conglomerate"
+NULL,NULL,NULL,NULL,"pyrite layer"
+NULL,NULL,NULL,NULL,"shale"
+NULL,NULL,NULL,NULL,"shale/mudstone"
+NULL,NULL,NULL,NULL,"shaley black limestone"
+NULL,NULL,NULL,NULL,"siderite concretion"
+NULL,NULL,NULL,NULL,"silicified"
+NULL,NULL,NULL,NULL,"silicious mudstone"
+NULL,NULL,NULL,NULL,"silicious mudstone/chert"
+NULL,NULL,NULL,NULL,NULL
