@@ -1,4 +1,4 @@
-"lith_name","lith_texture","lith_comp","color","verbatim_lith"
+"sgp lith_name","sgp lith_texture","sgp lith_comp","sgp color","ozchem verbatim_lith"
 "arenite",NULL,NULL,NULL,"arenite"
 "arenite",NULL,NULL,NULL,"arenite; siltstone"
 "argillite",NULL,NULL,NULL,"argillite"

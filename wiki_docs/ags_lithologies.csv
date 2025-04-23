@@ -1,4 +1,4 @@
-"lith_name","lith_texture","lith_comp","color","verbatim_lith"
+"sgp lith_name","sgp lith_texture","sgp lith_comp","sgp color","ags verbatim_lith"
 "anhydrite",NULL,NULL,NULL,"anhydrite"
 "bentonite",NULL,NULL,NULL,"bentonite"
 "boundstone",NULL,NULL,NULL,"framestone"
