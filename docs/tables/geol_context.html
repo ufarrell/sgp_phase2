@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>geol_context - geochem1_p2v2_apr2025_schemaspy.public</title>
+        <title>geol_context - geochem1_phase2.public</title>
         <!-- Tell the browser to be responsive to screen width -->
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
         <link rel="icon" type="image/png" sizes="16x16" href="../favicon.png">
@@ -46,7 +46,7 @@
                 <nav class="navbar navbar-static-top">
                     <div class="container">
                         <div class="navbar-header">
-                            <a href="../index.html" class="navbar-brand"><b>geochem1_p2v2_apr2025_schemaspy</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
+                            <a href="../index.html" class="navbar-brand"><b>geochem1_phase2</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
                             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse"><i class="fa fa-bars"></i></button>
                         </div>
 
@@ -73,7 +73,7 @@
             <div class="content-wrapper">
                 <!-- Content Header (Page header) -->
                 <section class="content-header">
-                    <h1>geol_context</h1><p><span id="recordNumber">7274</span> rows</p><br />
+                    <h1>geol_context</h1><p><span id="recordNumber">7288</span> rows</p><br />
                     <div class="box box-primary">
                         <div class="box-header with-border">
                             <i class="fa fa-file-text-o"></i>
@@ -84,7 +84,7 @@
                             </div>
                         </div><!-- /.box-header -->
                         <div class="box-body clearfix">
-                            <p>Links lithostratigraphy, biostratigraphy, depositional environment and age data. Multiple samples from related site/project/paper often have the same combination of these four factors, and may use one geol_context_id.</p>
+                            <p>Links lithostratigraphy, biostratigraphy, depositional environment and geological age bin data. Multiple samples from related site/project/paper often have the same combination of these four factors, and may use one geol_context_id.</p>
                         </div><!-- /.box-body -->
                     </div>
                 </section>
@@ -133,6 +133,11 @@
                                             <tr>
                                                 <td title="geol_context_provided_by.geol_context_id references geol_context.geol_context_id via geol_context_geol_context_provided_by_fk"><a href='geol_context_provided_by.html'>geol_context_provided_by</a><span class='relatedKey'>.geol_context_id</span></td>
                                                 <td class="constraint detail">geol_context_geol_context_provided_by_fk</td>
+                                                <td class="constraint detail"><span title='Restrict delete:&#10;Parent cannot be deleted if children exist'>R</span></td>
+                                            </tr>
+                                            <tr>
+                                                <td title="sample.geol_context_id references geol_context.geol_context_id via geol_context_sample_fk"><a href='sample.html'>sample</a><span class='relatedKey'>.geol_context_id</span></td>
+                                                <td class="constraint detail">geol_context_sample_fk</td>
                                                 <td class="constraint detail"><span title='Restrict delete:&#10;Parent cannot be deleted if children exist'>R</span></td>
                                             </tr>
                                         </table>
@@ -346,23 +351,41 @@
 <area shape="rect" id="node3" href="biostrat.html" target="_top" title="biostrat" alt="" coords="5,527,253,703">
 <area shape="rect" id="node4" href="environment.html" target="_top" title="environment" alt="" coords="5,5,253,181">
 <area shape="rect" id="node5" href="lithostrat.html" target="_top" title="lithostrat" alt="" coords="5,363,253,509">
-<area shape="rect" id="node6" href="geol_context_provided_by.html" target="_top" title="geol_context_provided_by" alt="" coords="740,179,1076,325">
+<area shape="rect" id="node6" href="geol_context_provided_by.html" target="_top" title="geol_context_provided_by" alt="" coords="740,81,1076,228">
+<area shape="rect" id="node7" href="sample.html" target="_top" title="sample" alt="" coords="784,245,1032,656">
 </map>
                                         <a name='diagram'><img id="oneDegreeImg" src="../diagrams/tables/geol_context.1degree.png" usemap="#oneDegreeRelationshipsDiagram" class="diagram" border="0" align="left"></a>
                                     </div>
                                     <div class="chart tab-pane " id="twodegreesDegreeImg-chart" style="position: relative; overflow-x:auto;">
                                         <map id="twoDegreesRelationshipsDiagram" name="twoDegreesRelationshipsDiagram">
-<area shape="rect" id="node1" href="biostrat.html" target="_top" title="biostrat" alt="" coords="271,527,519,703">
-<area shape="rect" id="node2" href="dic_biostrat.html" target="_top" title="dic_biostrat" alt="" coords="17,588,215,676">
-<area shape="rect" id="node3" href="environment.html" target="_top" title="environment" alt="" coords="271,5,519,181">
-<area shape="rect" id="node4" href="dic_env_detail.html" target="_top" title="dic_env_detail" alt="" coords="5,67,227,155">
-<area shape="rect" id="node5" href="geol_age.html" target="_top" title="geol_age" alt="" coords="271,199,519,345">
-<area shape="rect" id="node6" href="dic_ics_age.html" target="_top" title="dic_ics_age" alt="" coords="20,231,212,319">
-<area shape="rect" id="node7" href="geol_context.html" target="_top" title="geol_context" alt="" coords="563,176,961,480">
-<area shape="rect" id="node8" href="lithostrat.html" target="_top" title="lithostrat" alt="" coords="271,363,519,509">
-<area shape="rect" id="node11" href="dic_lithostrat.html" target="_top" title="dic_lithostrat" alt="" coords="10,365,222,453">
-<area shape="rect" id="node9" href="geol_context_provided_by.html" target="_top" title="geol_context_provided_by" alt="" coords="1005,323,1341,469">
-<area shape="rect" id="node10" href="person.html" target="_top" title="person" alt="" coords="683,497,841,585">
+<area shape="rect" id="node1" href="alternate_num.html" target="_top" title="alternate_num" alt="" coords="1421,461,1646,549">
+<area shape="rect" id="node2" href="sample.html" target="_top" title="sample" alt="" coords="1049,775,1297,1185">
+<area shape="rect" id="node11" href="geol_context.html" target="_top" title="geol_context" alt="" coords="563,213,961,517">
+<area shape="rect" id="node19" href="collecting_event.html" target="_top" title="collecting_event" alt="" coords="641,676,883,764">
+<area shape="rect" id="node20" href="dic_color.html" target="_top" title="dic_color" alt="" coords="677,887,847,975">
+<area shape="rect" id="node21" href="dic_lith_composition.html" target="_top" title="dic_lith_composition" alt="" coords="621,1097,903,1185">
+<area shape="rect" id="node22" href="dic_lithology.html" target="_top" title="dic_lithology" alt="" coords="659,781,865,869">
+<area shape="rect" id="node23" href="dic_lith_texture.html" target="_top" title="dic_lith_texture" alt="" coords="645,992,879,1080">
+<area shape="rect" id="node24" href="dic_sample_type.html" target="_top" title="dic_sample_type" alt="" coords="641,1308,883,1396">
+<area shape="rect" id="node25" href="storage.html" target="_top" title="storage" alt="" coords="681,571,843,659">
+<area shape="rect" id="node26" href="dic_weathering.html" target="_top" title="dic_weathering" alt="" coords="646,1203,878,1291">
+<area shape="rect" id="node3" href="batch_sample.html" target="_top" title="batch_sample" alt="" coords="1425,567,1642,655">
+<area shape="rect" id="node4" href="biostrat.html" target="_top" title="biostrat" alt="" coords="271,527,519,703">
+<area shape="rect" id="node5" href="dic_biostrat.html" target="_top" title="dic_biostrat" alt="" coords="17,588,215,676">
+<area shape="rect" id="node6" href="environment.html" target="_top" title="environment" alt="" coords="271,5,519,181">
+<area shape="rect" id="node7" href="dic_env_detail.html" target="_top" title="dic_env_detail" alt="" coords="5,67,227,155">
+<area shape="rect" id="node8" href="fossil_sample.html" target="_top" title="fossil_sample" alt="" coords="1426,672,1641,760">
+<area shape="rect" id="node9" href="geol_age.html" target="_top" title="geol_age" alt="" coords="271,199,519,345">
+<area shape="rect" id="node10" href="dic_ics_age.html" target="_top" title="dic_ics_age" alt="" coords="20,231,212,319">
+<area shape="rect" id="node12" href="lithostrat.html" target="_top" title="lithostrat" alt="" coords="271,363,519,509">
+<area shape="rect" id="node16" href="dic_lithostrat.html" target="_top" title="dic_lithostrat" alt="" coords="10,365,222,453">
+<area shape="rect" id="node13" href="geol_context_provided_by.html" target="_top" title="geol_context_provided_by" alt="" coords="1005,341,1341,488">
+<area shape="rect" id="node14" href="person.html" target="_top" title="person" alt="" coords="315,720,474,808">
+<area shape="rect" id="node15" href="interpreted_age.html" target="_top" title="interpreted_age" alt="" coords="1413,777,1653,865">
+<area shape="rect" id="node17" href="project_sample.html" target="_top" title="project_sample" alt="" coords="1418,883,1649,971">
+<area shape="rect" id="node18" href="proxy_published.html" target="_top" title="proxy_published" alt="" coords="1412,988,1655,1076">
+<area shape="rect" id="node27" href="sample_provided_by.html" target="_top" title="sample_provided_by" alt="" coords="1393,1269,1674,1357">
+<area shape="rect" id="node28" href="sed_structure_sample.html" target="_top" title="sed_structure_sample" alt="" coords="1385,1093,1681,1181">
 </map>
                                         <a name='diagram'><img id="twodegreesDegreeImg" src="../diagrams/tables/geol_context.2degrees.png" usemap="#twoDegreesRelationshipsDiagram" class="diagram" border="0" align="left"></a>
                                     </div>

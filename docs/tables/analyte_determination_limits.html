@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>analyte_determination_limits - geochem1_p2v2_apr2025_schemaspy.public</title>
+        <title>analyte_determination_limits - geochem1_phase2.public</title>
         <!-- Tell the browser to be responsive to screen width -->
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
         <link rel="icon" type="image/png" sizes="16x16" href="../favicon.png">
@@ -46,7 +46,7 @@
                 <nav class="navbar navbar-static-top">
                     <div class="container">
                         <div class="navbar-header">
-                            <a href="../index.html" class="navbar-brand"><b>geochem1_p2v2_apr2025_schemaspy</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
+                            <a href="../index.html" class="navbar-brand"><b>geochem1_phase2</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
                             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse"><i class="fa fa-bars"></i></button>
                         </div>
 
@@ -73,7 +73,7 @@
             <div class="content-wrapper">
                 <!-- Content Header (Page header) -->
                 <section class="content-header">
-                    <h1>analyte_determination_limits</h1><p><span id="recordNumber">38707</span> rows</p><br />
+                    <h1>analyte_determination_limits</h1><p><span id="recordNumber">38732</span> rows</p><br />
                     <div class="box box-primary">
                         <div class="box-header with-border">
                             <i class="fa fa-file-text-o"></i>
@@ -84,7 +84,7 @@
                             </div>
                         </div><!-- /.box-header -->
                         <div class="box-body clearfix">
-                            <p>Detection limits (lower and upper) and analytes for each analysis.</p>
+                            <p>Analytes, detection limits (lower and upper) and reference standards for each analysis.</p>
                         </div><!-- /.box-body -->
                     </div>
                 </section>
@@ -130,6 +130,11 @@
                                     <td>nextval(&#39;analyte_determination_limits_limit_id_seq&#39;::regclass)</td>
                                     <td>
                                         <table border='0' cellspacing='0' cellpadding='0'>
+                                            <tr>
+                                                <td title="analyte_determination.limit_id references analyte_determination_limits.limit_id via analyte_determination_limit_analyte_determination_fk"><a href='analyte_determination.html'>analyte_determination</a><span class='relatedKey'>.limit_id</span></td>
+                                                <td class="constraint detail">analyte_determination_limit_analyte_determination_fk</td>
+                                                <td class="constraint detail"><span title='Restrict delete:&#10;Parent cannot be deleted if children exist'>R</span></td>
+                                            </tr>
                                         </table>
                                     </td>
                                     <td>
@@ -175,7 +180,7 @@
                                         <table border='0' cellspacing='0' cellpadding='0'>
                                         </table>
                                     </td>
-                                    <td><p>From BGS: This column contains for each analyte the LOWEST level that can be reliably detected using the specified combination of laboratory, analysis method, sample preparation technique.</p></td>
+                                    <td><p>From BGS: This column contains for each analyte the LOWEST level that can be reliably detected using the specified combination of laboratory, analysis method, sample preparation technique. The unit is assumed to be the same as the unit for the analysis.</p></td>
                                 </tr>
                                 <tr>
                                     <td><span id="detection_upper_limit">detection_upper_limit</span></td>
@@ -192,7 +197,7 @@
                                         <table border='0' cellspacing='0' cellpadding='0'>
                                         </table>
                                     </td>
-                                    <td><p>From BGS: This column contains for each analyte the MAXIMUM level that can be reliably detected using the specified combination of laboratory, analysis method, sample preparation technique.</p></td>
+                                    <td><p>From BGS: This column contains for each analyte the MAXIMUM level that can be reliably detected using the specified combination of laboratory, analysis method, sample preparation technique. The unit is assumed to be the same as the unit for the analysis.</p></td>
                                 </tr>
                                 <tr>
                                     <td><span id="timestamp_created">timestamp_created</span></td>
@@ -248,7 +253,7 @@
                                             </tr>
                                         </table>
                                     </td>
-                                    <td></td>
+                                    <td><p>FK. Analyte code. Link to dic_analyte</p></td>
                                 </tr>
                                 <tr>
                                     <td><span id="reference_standard">reference_standard</span></td>
@@ -265,24 +270,7 @@
                                         <table border='0' cellspacing='0' cellpadding='0'>
                                         </table>
                                     </td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td><span id="exp_check">exp_check</span></td>
-                                    <td>bool</td>
-                                    <td>1</td>
-                                    <td title='nullable'>√</td>
-                                    <td title=''></td>
-                                    <td>null</td>
-                                    <td>
-                                        <table border='0' cellspacing='0' cellpadding='0'>
-                                        </table>
-                                    </td>
-                                    <td>
-                                        <table border='0' cellspacing='0' cellpadding='0'>
-                                        </table>
-                                    </td>
-                                    <td></td>
+                                    <td><p>Reference standard used for analyses, in particular isotopes e.g. VPDB</p></td>
                                 </tr>
                                 </tbody>
                             </table>
@@ -355,23 +343,27 @@
                                 <div class="tab-content no-padding">
                                     <div class="chart tab-pane active" id="oneDegreeImg-chart" style="position: relative; overflow-x:auto;">
                                         <map id="oneDegreeRelationshipsDiagram" name="oneDegreeRelationshipsDiagram">
-<area shape="rect" id="node1" href="analyte_determination_limits.html" target="_top" title="analyte_determination_limits" alt="" coords="297,56,781,389">
-<area shape="rect" id="node2" href="analysis.html" target="_top" title="analysis" alt="" coords="5,5,253,299">
-<area shape="rect" id="node3" href="dic_analyte.html" target="_top" title="dic_analyte" alt="" coords="5,316,253,433">
+<area shape="rect" id="node1" href="analyte_determination.html" target="_top" title="analyte_determination" alt="" coords="825,5,1129,240">
+<area shape="rect" id="node2" href="analyte_determination_limits.html" target="_top" title="analyte_determination_limits" alt="" coords="297,61,781,365">
+<area shape="rect" id="node3" href="analysis.html" target="_top" title="analysis" alt="" coords="5,11,253,304">
+<area shape="rect" id="node4" href="dic_analyte.html" target="_top" title="dic_analyte" alt="" coords="5,321,253,439">
 </map>
                                         <a name='diagram'><img id="oneDegreeImg" src="../diagrams/tables/analyte_determination_limits.1degree.png" usemap="#oneDegreeRelationshipsDiagram" class="diagram" border="0" align="left"></a>
                                     </div>
                                     <div class="chart tab-pane " id="twodegreesDegreeImg-chart" style="position: relative; overflow-x:auto;">
                                         <map id="twoDegreesRelationshipsDiagram" name="twoDegreesRelationshipsDiagram">
-<area shape="rect" id="node1" href="analysis.html" target="_top" title="analysis" alt="" coords="299,163,547,456">
-<area shape="rect" id="node2" href="dic_ana_method.html" target="_top" title="dic_ana_method" alt="" coords="10,216,250,304">
-<area shape="rect" id="node3" href="batch.html" target="_top" title="batch" alt="" coords="51,321,209,409">
-<area shape="rect" id="node4" href="dic_exp_method.html" target="_top" title="dic_exp_method" alt="" coords="10,111,250,199">
-<area shape="rect" id="node5" href="dic_prep_method.html" target="_top" title="dic_prep_method" alt="" coords="5,5,255,93">
-<area shape="rect" id="node6" href="person.html" target="_top" title="person" alt="" coords="51,427,209,515">
-<area shape="rect" id="node7" href="analysis_instrument.html" target="_top" title="analysis_instrument" alt="" coords="693,165,973,253">
-<area shape="rect" id="node8" href="analyte_determination_limits.html" target="_top" title="analyte_determination_limits" alt="" coords="591,283,1075,616">
-<area shape="rect" id="node9" href="dic_analyte.html" target="_top" title="dic_analyte" alt="" coords="299,473,547,591">
+<area shape="rect" id="node1" href="analysis.html" target="_top" title="analysis" alt="" coords="577,87,825,380">
+<area shape="rect" id="node2" href="dic_ana_method.html" target="_top" title="dic_ana_method" alt="" coords="289,216,529,304">
+<area shape="rect" id="node3" href="batch.html" target="_top" title="batch" alt="" coords="321,460,496,548">
+<area shape="rect" id="node4" href="dic_exp_method.html" target="_top" title="dic_exp_method" alt="" coords="289,111,529,199">
+<area shape="rect" id="node5" href="dic_prep_method.html" target="_top" title="dic_prep_method" alt="" coords="284,5,533,93">
+<area shape="rect" id="node6" href="person.html" target="_top" title="person" alt="" coords="329,321,488,409">
+<area shape="rect" id="node11" href="reference_work.html" target="_top" title="reference_work" alt="" coords="5,216,240,304">
+<area shape="rect" id="node7" href="analysis_instrument.html" target="_top" title="analysis_instrument" alt="" coords="971,68,1251,156">
+<area shape="rect" id="node8" href="analyte_determination.html" target="_top" title="analyte_determination" alt="" coords="1397,424,1701,659">
+<area shape="rect" id="node9" href="batch_sample.html" target="_top" title="batch_sample" alt="" coords="1003,495,1220,583">
+<area shape="rect" id="node10" href="analyte_determination_limits.html" target="_top" title="analyte_determination_limits" alt="" coords="869,173,1353,477">
+<area shape="rect" id="node12" href="dic_analyte.html" target="_top" title="dic_analyte" alt="" coords="577,397,825,515">
 </map>
                                         <a name='diagram'><img id="twodegreesDegreeImg" src="../diagrams/tables/analyte_determination_limits.2degrees.png" usemap="#twoDegreesRelationshipsDiagram" class="diagram" border="0" align="left"></a>
                                     </div>

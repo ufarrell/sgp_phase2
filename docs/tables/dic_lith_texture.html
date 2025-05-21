@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>dic_lith_texture - geochem1_p2v2_apr2025_schemaspy.public</title>
+        <title>dic_lith_texture - geochem1_phase2.public</title>
         <!-- Tell the browser to be responsive to screen width -->
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
         <link rel="icon" type="image/png" sizes="16x16" href="../favicon.png">
@@ -46,7 +46,7 @@
                 <nav class="navbar navbar-static-top">
                     <div class="container">
                         <div class="navbar-header">
-                            <a href="../index.html" class="navbar-brand"><b>geochem1_p2v2_apr2025_schemaspy</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
+                            <a href="../index.html" class="navbar-brand"><b>geochem1_phase2</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
                             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse"><i class="fa fa-bars"></i></button>
                         </div>
 
@@ -130,6 +130,11 @@
                                     <td>nextval(&#39;dic_lith_texture_lith_texture_id_seq&#39;::regclass)</td>
                                     <td>
                                         <table border='0' cellspacing='0' cellpadding='0'>
+                                            <tr>
+                                                <td title="sample.lith_texture_id references dic_lith_texture.lith_texture_id via dic_lith_texture_sample_fk"><a href='sample.html'>sample</a><span class='relatedKey'>.lith_texture_id</span></td>
+                                                <td class="constraint detail">dic_lith_texture_sample_fk</td>
+                                                <td class="constraint detail"><span title='Restrict delete:&#10;Parent cannot be deleted if children exist'>R</span></td>
+                                            </tr>
                                         </table>
                                     </td>
                                     <td>
@@ -260,13 +265,38 @@
                                 <h5>Close relationships within degrees of separation</h5>
                                 <ul class="nav nav-tabs pull-left ui-sortable-handle">
                                     <li class="active"><a href="#oneDegreeImg-chart" data-toggle="tab" aria-expanded="true">One</a></li>
+                                    <li class=""><a href="#twodegreesDegreeImg-chart" data-toggle="tab" aria-expanded="true">Two degrees</a></li>
                                 </ul>
                                 <div class="tab-content no-padding">
                                     <div class="chart tab-pane active" id="oneDegreeImg-chart" style="position: relative; overflow-x:auto;">
                                         <map id="oneDegreeRelationshipsDiagram" name="oneDegreeRelationshipsDiagram">
-<area shape="rect" id="node1" href="dic_lith_texture.html" target="_top" title="dic_lith_texture" alt="" coords="5,5,404,221">
+<area shape="rect" id="node1" href="sample.html" target="_top" title="sample" alt="" coords="448,5,696,416">
+<area shape="rect" id="node2" href="dic_lith_texture.html" target="_top" title="dic_lith_texture" alt="" coords="5,179,404,395">
 </map>
                                         <a name='diagram'><img id="oneDegreeImg" src="../diagrams/tables/dic_lith_texture.1degree.png" usemap="#oneDegreeRelationshipsDiagram" class="diagram" border="0" align="left"></a>
+                                    </div>
+                                    <div class="chart tab-pane " id="twodegreesDegreeImg-chart" style="position: relative; overflow-x:auto;">
+                                        <map id="twoDegreesRelationshipsDiagram" name="twoDegreesRelationshipsDiagram">
+<area shape="rect" id="node1" href="alternate_num.html" target="_top" title="alternate_num" alt="" coords="775,5,1001,93">
+<area shape="rect" id="node2" href="sample.html" target="_top" title="sample" alt="" coords="448,372,696,783">
+<area shape="rect" id="node8" href="collecting_event.html" target="_top" title="collecting_event" alt="" coords="83,311,326,399">
+<area shape="rect" id="node9" href="dic_color.html" target="_top" title="dic_color" alt="" coords="120,521,289,609">
+<area shape="rect" id="node10" href="geol_context.html" target="_top" title="geol_context" alt="" coords="101,100,309,188">
+<area shape="rect" id="node11" href="dic_lith_composition.html" target="_top" title="dic_lith_composition" alt="" coords="64,860,345,948">
+<area shape="rect" id="node12" href="dic_lithology.html" target="_top" title="dic_lithology" alt="" coords="101,416,308,504">
+<area shape="rect" id="node13" href="dic_lith_texture.html" target="_top" title="dic_lith_texture" alt="" coords="5,627,404,843">
+<area shape="rect" id="node14" href="dic_sample_type.html" target="_top" title="dic_sample_type" alt="" coords="83,1071,326,1159">
+<area shape="rect" id="node15" href="storage.html" target="_top" title="storage" alt="" coords="124,205,285,293">
+<area shape="rect" id="node16" href="dic_weathering.html" target="_top" title="dic_weathering" alt="" coords="89,965,321,1053">
+<area shape="rect" id="node3" href="batch_sample.html" target="_top" title="batch_sample" alt="" coords="779,111,997,199">
+<area shape="rect" id="node4" href="fossil_sample.html" target="_top" title="fossil_sample" alt="" coords="781,216,995,304">
+<area shape="rect" id="node5" href="interpreted_age.html" target="_top" title="interpreted_age" alt="" coords="768,321,1008,409">
+<area shape="rect" id="node6" href="project_sample.html" target="_top" title="project_sample" alt="" coords="773,427,1003,515">
+<area shape="rect" id="node7" href="proxy_published.html" target="_top" title="proxy_published" alt="" coords="767,532,1009,620">
+<area shape="rect" id="node17" href="sample_provided_by.html" target="_top" title="sample_provided_by" alt="" coords="747,637,1029,725">
+<area shape="rect" id="node18" href="sed_structure_sample.html" target="_top" title="sed_structure_sample" alt="" coords="740,743,1036,831">
+</map>
+                                        <a name='diagram'><img id="twodegreesDegreeImg" src="../diagrams/tables/dic_lith_texture.2degrees.png" usemap="#twoDegreesRelationshipsDiagram" class="diagram" border="0" align="left"></a>
                                     </div>
                                 </div>
                             </div>

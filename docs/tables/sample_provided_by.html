@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>sample_provided_by - geochem1_p2v2_apr2025_schemaspy.public</title>
+        <title>sample_provided_by - geochem1_phase2.public</title>
         <!-- Tell the browser to be responsive to screen width -->
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
         <link rel="icon" type="image/png" sizes="16x16" href="../favicon.png">
@@ -46,7 +46,7 @@
                 <nav class="navbar navbar-static-top">
                     <div class="container">
                         <div class="navbar-header">
-                            <a href="../index.html" class="navbar-brand"><b>geochem1_p2v2_apr2025_schemaspy</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
+                            <a href="../index.html" class="navbar-brand"><b>geochem1_phase2</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
                             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse"><i class="fa fa-bars"></i></button>
                         </div>
 
@@ -73,7 +73,7 @@
             <div class="content-wrapper">
                 <!-- Content Header (Page header) -->
                 <section class="content-header">
-                    <h1>sample_provided_by</h1><p><span id="recordNumber">132357</span> rows</p><br />
+                    <h1>sample_provided_by</h1><p><span id="recordNumber">132379</span> rows</p><br />
                     <div class="box box-primary">
                         <div class="box-header with-border">
                             <i class="fa fa-file-text-o"></i>
@@ -134,6 +134,11 @@
                                     </td>
                                     <td>
                                         <table border='0' cellspacing='0' cellpadding='0'>
+                                            <tr>
+                                                <td title="sample_provided_by.sample_id references sample.sample_id via sample_sample_provided_by_fk"><a href='sample.html'>sample</a><span class='relatedKey'>.sample_id</span></td>
+                                                <td class="constraint detail">sample_sample_provided_by_fk</td>
+                                                <td class="constraint detail"><span title='Restrict delete:&#10;Parent cannot be deleted if children exist'>R</span></td>
+                                            </tr>
                                         </table>
                                     </td>
                                     <td><p>PK/FK. ID for the sample. Links to the sample table. Part of composite primary key.</p></td>
@@ -253,22 +258,39 @@
                                 <div class="tab-content no-padding">
                                     <div class="chart tab-pane active" id="oneDegreeImg-chart" style="position: relative; overflow-x:auto;">
                                         <map id="oneDegreeRelationshipsDiagram" name="oneDegreeRelationshipsDiagram">
-<area shape="rect" id="node1" href="sample_provided_by.html" target="_top" title="sample_provided_by" alt="" coords="297,5,696,192">
-<area shape="rect" id="node2" href="person.html" target="_top" title="person" alt="" coords="5,37,253,155">
+<area shape="rect" id="node1" href="sample_provided_by.html" target="_top" title="sample_provided_by" alt="" coords="297,203,696,389">
+<area shape="rect" id="node2" href="person.html" target="_top" title="person" alt="" coords="5,433,253,551">
+<area shape="rect" id="node3" href="sample.html" target="_top" title="sample" alt="" coords="5,5,253,416">
 </map>
                                         <a name='diagram'><img id="oneDegreeImg" src="../diagrams/tables/sample_provided_by.1degree.png" usemap="#oneDegreeRelationshipsDiagram" class="diagram" border="0" align="left"></a>
                                     </div>
                                     <div class="chart tab-pane " id="twodegreesDegreeImg-chart" style="position: relative; overflow-x:auto;">
                                         <map id="twoDegreesRelationshipsDiagram" name="twoDegreesRelationshipsDiagram">
-<area shape="rect" id="node1" href="affiliation.html" target="_top" title="affiliation" alt="" coords="407,5,586,93">
-<area shape="rect" id="node2" href="person.html" target="_top" title="person" alt="" coords="5,319,253,436">
-<area shape="rect" id="node3" href="analysis.html" target="_top" title="analysis" alt="" coords="409,111,584,199">
-<area shape="rect" id="node4" href="author.html" target="_top" title="author" alt="" coords="417,216,576,304">
-<area shape="rect" id="node5" href="collector.html" target="_top" title="collector" alt="" coords="413,321,581,409">
-<area shape="rect" id="node6" href="geol_context_provided_by.html" target="_top" title="geol_context_provided_by" alt="" coords="329,427,665,515">
-<area shape="rect" id="node7" href="interpreted_age_provided_by.html" target="_top" title="interpreted_age_provided_by" alt="" coords="313,532,681,620">
-<area shape="rect" id="node8" href="sample_provided_by.html" target="_top" title="sample_provided_by" alt="" coords="297,637,696,824">
-<area shape="rect" id="node9" href="storage.html" target="_top" title="storage" alt="" coords="417,841,576,929">
+<area shape="rect" id="node1" href="affiliation.html" target="_top" title="affiliation" alt="" coords="349,5,527,93">
+<area shape="rect" id="node2" href="person.html" target="_top" title="person" alt="" coords="5,281,253,399">
+<area shape="rect" id="node3" href="alternate_num.html" target="_top" title="alternate_num" alt="" coords="1089,745,1315,833">
+<area shape="rect" id="node4" href="sample.html" target="_top" title="sample" alt="" coords="667,741,915,1152">
+<area shape="rect" id="node9" href="collecting_event.html" target="_top" title="collecting_event" alt="" coords="317,499,559,587">
+<area shape="rect" id="node12" href="geol_context.html" target="_top" title="geol_context" alt="" coords="334,393,542,481">
+<area shape="rect" id="node17" href="dic_color.html" target="_top" title="dic_color" alt="" coords="353,815,523,903">
+<area shape="rect" id="node18" href="dic_lith_composition.html" target="_top" title="dic_lith_composition" alt="" coords="297,1025,579,1113">
+<area shape="rect" id="node19" href="dic_lithology.html" target="_top" title="dic_lithology" alt="" coords="335,709,541,797">
+<area shape="rect" id="node20" href="dic_lith_texture.html" target="_top" title="dic_lith_texture" alt="" coords="321,920,555,1008">
+<area shape="rect" id="node21" href="dic_sample_type.html" target="_top" title="dic_sample_type" alt="" coords="317,1236,559,1324">
+<area shape="rect" id="node22" href="storage.html" target="_top" title="storage" alt="" coords="357,604,519,692">
+<area shape="rect" id="node23" href="dic_weathering.html" target="_top" title="dic_weathering" alt="" coords="322,1131,554,1219">
+<area shape="rect" id="node5" href="analysis.html" target="_top" title="analysis" alt="" coords="351,111,525,199">
+<area shape="rect" id="node6" href="author.html" target="_top" title="author" alt="" coords="359,216,517,304">
+<area shape="rect" id="node7" href="batch_sample.html" target="_top" title="batch_sample" alt="" coords="1093,851,1311,939">
+<area shape="rect" id="node8" href="collector.html" target="_top" title="collector" alt="" coords="707,285,875,373">
+<area shape="rect" id="node10" href="fossil_sample.html" target="_top" title="fossil_sample" alt="" coords="1095,956,1309,1044">
+<area shape="rect" id="node11" href="geol_context_provided_by.html" target="_top" title="geol_context_provided_by" alt="" coords="623,392,959,480">
+<area shape="rect" id="node13" href="interpreted_age.html" target="_top" title="interpreted_age" alt="" coords="1082,640,1322,728">
+<area shape="rect" id="node14" href="interpreted_age_provided_by.html" target="_top" title="interpreted_age_provided_by" alt="" coords="1445,991,1813,1079">
+<area shape="rect" id="node15" href="project_sample.html" target="_top" title="project_sample" alt="" coords="1087,1061,1317,1149">
+<area shape="rect" id="node16" href="proxy_published.html" target="_top" title="proxy_published" alt="" coords="1081,429,1323,517">
+<area shape="rect" id="node24" href="sample_provided_by.html" target="_top" title="sample_provided_by" alt="" coords="1003,1171,1401,1357">
+<area shape="rect" id="node25" href="sed_structure_sample.html" target="_top" title="sed_structure_sample" alt="" coords="1054,535,1350,623">
 </map>
                                         <a name='diagram'><img id="twodegreesDegreeImg" src="../diagrams/tables/sample_provided_by.2degrees.png" usemap="#twoDegreesRelationshipsDiagram" class="diagram" border="0" align="left"></a>
                                     </div>

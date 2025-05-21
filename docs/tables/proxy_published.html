@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>proxy_published - geochem1_p2v2_apr2025_schemaspy.public</title>
+        <title>proxy_published - geochem1_phase2.public</title>
         <!-- Tell the browser to be responsive to screen width -->
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
         <link rel="icon" type="image/png" sizes="16x16" href="../favicon.png">
@@ -46,7 +46,7 @@
                 <nav class="navbar navbar-static-top">
                     <div class="container">
                         <div class="navbar-header">
-                            <a href="../index.html" class="navbar-brand"><b>geochem1_p2v2_apr2025_schemaspy</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
+                            <a href="../index.html" class="navbar-brand"><b>geochem1_phase2</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
                             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse"><i class="fa fa-bars"></i></button>
                         </div>
 
@@ -178,7 +178,7 @@
                                     <td><p>Published proxy value.</p></td>
                                 </tr>
                                 <tr>
-                                    <td><span id="sample_id">sample_id</span></td>
+                                    <td class='foreignKey' title='Foreign Key'><i class='icon ion-key iconkey' style='padding-left: 5px;'></i><span id="sample_id">sample_id</span></td>
                                     <td>int4</td>
                                     <td>10</td>
                                     <td title=''></td>
@@ -190,6 +190,11 @@
                                     </td>
                                     <td>
                                         <table border='0' cellspacing='0' cellpadding='0'>
+                                            <tr>
+                                                <td title="proxy_published.sample_id references sample.sample_id via sample_proxy_published_fk"><a href='sample.html'>sample</a><span class='relatedKey'>.sample_id</span></td>
+                                                <td class="constraint detail">sample_proxy_published_fk</td>
+                                                <td class="constraint detail"><span title='Restrict delete:&#10;Parent cannot be deleted if children exist'>R</span></td>
+                                            </tr>
                                         </table>
                                     </td>
                                     <td><p>FK. ID for the sample. Links to the sample table.</p></td>
@@ -265,7 +270,7 @@
                                             </tr>
                                         </table>
                                     </td>
-                                    <td><p>FK. Identifier for the reference work where the proxy was published.</p></td>
+                                    <td><p>FK. ID for the reference work where the proxy was published. Link to reference_work table.</p></td>
                                 </tr>
                                 <tr>
                                     <td><span id="citation_notes">citation_notes</span></td>
@@ -299,7 +304,7 @@
                                         <table border='0' cellspacing='0' cellpadding='0'>
                                         </table>
                                     </td>
-                                    <td></td>
+                                    <td><p>Unit for the published proxy</p></td>
                                 </tr>
                                 <tr>
                                     <td><span id="proxy_notes">proxy_notes</span></td>
@@ -316,7 +321,7 @@
                                         <table border='0' cellspacing='0' cellpadding='0'>
                                         </table>
                                     </td>
-                                    <td></td>
+                                    <td><p>Notes about the published proxy</p></td>
                                 </tr>
                                 </tbody>
                             </table>
@@ -377,25 +382,41 @@
                                 <div class="tab-content no-padding">
                                     <div class="chart tab-pane active" id="oneDegreeImg-chart" style="position: relative; overflow-x:auto;">
                                         <map id="oneDegreeRelationshipsDiagram" name="oneDegreeRelationshipsDiagram">
-<area shape="rect" id="node1" href="dic_proxy.html" target="_top" title="dic_proxy" alt="" coords="297,63,545,209">
-<area shape="rect" id="node2" href="reference_work.html" target="_top" title="reference_work" alt="" coords="5,147,253,293">
-<area shape="rect" id="node3" href="proxy_published.html" target="_top" title="proxy_published" alt="" coords="589,5,988,397">
+<area shape="rect" id="node1" href="dic_proxy.html" target="_top" title="dic_proxy" alt="" coords="297,5,545,152">
+<area shape="rect" id="node2" href="reference_work.html" target="_top" title="reference_work" alt="" coords="5,296,253,443">
+<area shape="rect" id="node3" href="proxy_published.html" target="_top" title="proxy_published" alt="" coords="589,79,988,471">
+<area shape="rect" id="node4" href="sample.html" target="_top" title="sample" alt="" coords="297,169,545,580">
 </map>
                                         <a name='diagram'><img id="oneDegreeImg" src="../diagrams/tables/proxy_published.1degree.png" usemap="#oneDegreeRelationshipsDiagram" class="diagram" border="0" align="left"></a>
                                     </div>
                                     <div class="chart tab-pane " id="twodegreesDegreeImg-chart" style="position: relative; overflow-x:auto;">
                                         <map id="twoDegreesRelationshipsDiagram" name="twoDegreesRelationshipsDiagram">
-<area shape="rect" id="node1" href="alternate_num.html" target="_top" title="alternate_num" alt="" coords="566,5,791,93">
-<area shape="rect" id="node2" href="reference_work.html" target="_top" title="reference_work" alt="" coords="280,427,515,515">
-<area shape="rect" id="node11" href="dic_publication.html" target="_top" title="dic_publication" alt="" coords="5,424,236,512">
-<area shape="rect" id="node3" href="author.html" target="_top" title="author" alt="" coords="599,111,758,199">
-<area shape="rect" id="node4" href="dic_ana_method.html" target="_top" title="dic_ana_method" alt="" coords="559,216,799,304">
-<area shape="rect" id="node5" href="dic_exp_method.html" target="_top" title="dic_exp_method" alt="" coords="559,321,799,409">
-<area shape="rect" id="node6" href="dic_proxy.html" target="_top" title="dic_proxy" alt="" coords="591,427,767,515">
-<area shape="rect" id="node7" href="framboid.html" target="_top" title="framboid" alt="" coords="593,568,765,656">
-<area shape="rect" id="node8" href="interpreted_age.html" target="_top" title="interpreted_age" alt="" coords="559,673,799,761">
-<area shape="rect" id="node9" href="project_citation.html" target="_top" title="project_citation" alt="" coords="561,779,797,867">
-<area shape="rect" id="node10" href="proxy_published.html" target="_top" title="proxy_published" alt="" coords="843,337,1241,729">
+<area shape="rect" id="node1" href="alternate_num.html" target="_top" title="alternate_num" alt="" coords="658,604,883,692">
+<area shape="rect" id="node2" href="reference_work.html" target="_top" title="reference_work" alt="" coords="337,429,572,517">
+<area shape="rect" id="node3" href="sample.html" target="_top" title="sample" alt="" coords="331,900,579,1311">
+<area shape="rect" id="node15" href="dic_publication.html" target="_top" title="dic_publication" alt="" coords="31,427,261,515">
+<area shape="rect" id="node16" href="collecting_event.html" target="_top" title="collecting_event" alt="" coords="25,839,267,927">
+<area shape="rect" id="node17" href="dic_color.html" target="_top" title="dic_color" alt="" coords="61,1049,231,1137">
+<area shape="rect" id="node18" href="geol_context.html" target="_top" title="geol_context" alt="" coords="42,628,250,716">
+<area shape="rect" id="node19" href="dic_lith_composition.html" target="_top" title="dic_lith_composition" alt="" coords="5,1260,287,1348">
+<area shape="rect" id="node20" href="dic_lithology.html" target="_top" title="dic_lithology" alt="" coords="43,944,249,1032">
+<area shape="rect" id="node21" href="dic_lith_texture.html" target="_top" title="dic_lith_texture" alt="" coords="29,1155,263,1243">
+<area shape="rect" id="node22" href="dic_sample_type.html" target="_top" title="dic_sample_type" alt="" coords="25,1471,267,1559">
+<area shape="rect" id="node23" href="storage.html" target="_top" title="storage" alt="" coords="65,733,227,821">
+<area shape="rect" id="node24" href="dic_weathering.html" target="_top" title="dic_weathering" alt="" coords="30,1365,262,1453">
+<area shape="rect" id="node4" href="analyte_determination.html" target="_top" title="analyte_determination" alt="" coords="1010,1272,1314,1360">
+<area shape="rect" id="node5" href="batch_sample.html" target="_top" title="batch_sample" alt="" coords="662,1272,879,1360">
+<area shape="rect" id="node6" href="author.html" target="_top" title="author" alt="" coords="691,111,850,199">
+<area shape="rect" id="node7" href="dic_ana_method.html" target="_top" title="dic_ana_method" alt="" coords="651,216,891,304">
+<area shape="rect" id="node8" href="dic_exp_method.html" target="_top" title="dic_exp_method" alt="" coords="651,321,891,409">
+<area shape="rect" id="node9" href="dic_proxy.html" target="_top" title="dic_proxy" alt="" coords="683,5,859,93">
+<area shape="rect" id="node10" href="fossil_sample.html" target="_top" title="fossil_sample" alt="" coords="663,1167,878,1255">
+<area shape="rect" id="node11" href="interpreted_age.html" target="_top" title="interpreted_age" alt="" coords="651,709,891,797">
+<area shape="rect" id="node12" href="project_citation.html" target="_top" title="project_citation" alt="" coords="653,427,889,515">
+<area shape="rect" id="node13" href="project_sample.html" target="_top" title="project_sample" alt="" coords="655,851,886,939">
+<area shape="rect" id="node14" href="proxy_published.html" target="_top" title="proxy_published" alt="" coords="963,284,1361,676">
+<area shape="rect" id="node25" href="sample_provided_by.html" target="_top" title="sample_provided_by" alt="" coords="630,956,911,1044">
+<area shape="rect" id="node26" href="sed_structure_sample.html" target="_top" title="sed_structure_sample" alt="" coords="623,1061,919,1149">
 </map>
                                         <a name='diagram'><img id="twodegreesDegreeImg" src="../diagrams/tables/proxy_published.2degrees.png" usemap="#twoDegreesRelationshipsDiagram" class="diagram" border="0" align="left"></a>
                                     </div>

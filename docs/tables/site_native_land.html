@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>site_native_land - geochem1_p2v2_apr2025_schemaspy.public</title>
+        <title>site_native_land - geochem1_phase2.public</title>
         <!-- Tell the browser to be responsive to screen width -->
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
         <link rel="icon" type="image/png" sizes="16x16" href="../favicon.png">
@@ -46,7 +46,7 @@
                 <nav class="navbar navbar-static-top">
                     <div class="container">
                         <div class="navbar-header">
-                            <a href="../index.html" class="navbar-brand"><b>geochem1_p2v2_apr2025_schemaspy</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
+                            <a href="../index.html" class="navbar-brand"><b>geochem1_phase2</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
                             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse"><i class="fa fa-bars"></i></button>
                         </div>
 
@@ -74,6 +74,19 @@
                 <!-- Content Header (Page header) -->
                 <section class="content-header">
                     <h1>site_native_land</h1><p><span id="recordNumber">48592</span> rows</p><br />
+                    <div class="box box-primary">
+                        <div class="box-header with-border">
+                            <i class="fa fa-file-text-o"></i>
+                            <h3 id="Description" class="box-title">Description</h3>
+                            <div class="box-tools pull-right">
+                                <button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
+                                <button type="button" class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+                            </div>
+                        </div><!-- /.box-header -->
+                        <div class="box-body clearfix">
+                            <p>Linking SGP sites to dic_native_land. Last updated Aug 2024. Link to Native Land Digital now handled through SGP search website.</p>
+                        </div><!-- /.box-body -->
+                    </div>
                 </section>
                 <!-- Main content -->
                 <section class="content">
@@ -121,9 +134,14 @@
                                     </td>
                                     <td>
                                         <table border='0' cellspacing='0' cellpadding='0'>
+                                            <tr>
+                                                <td title="site_native_land.site_id references site.site_id via site_site_native_land_fk"><a href='site.html'>site</a><span class='relatedKey'>.site_id</span></td>
+                                                <td class="constraint detail">site_site_native_land_fk</td>
+                                                <td class="constraint detail"><span title='Restrict delete:&#10;Parent cannot be deleted if children exist'>R</span></td>
+                                            </tr>
                                         </table>
                                     </td>
-                                    <td></td>
+                                    <td><p>PK/FK. ID for site. Link to site table.</p></td>
                                 </tr>
                                 <tr>
                                     <td class='primaryKey' title='Primary Key'><i class='icon ion-key iconkey' style='padding-left: 5px;'></i><span id="native_land_id">native_land_id</span></td>
@@ -145,7 +163,7 @@
                                             </tr>
                                         </table>
                                     </td>
-                                    <td></td>
+                                    <td><p>PK/FK. ID for territory. Link to dic_native_land.</p></td>
                                 </tr>
                                 <tr>
                                     <td><span id="timestamp_created">timestamp_created</span></td>
@@ -235,14 +253,29 @@
                                 <h5>Close relationships within degrees of separation</h5>
                                 <ul class="nav nav-tabs pull-left ui-sortable-handle">
                                     <li class="active"><a href="#oneDegreeImg-chart" data-toggle="tab" aria-expanded="true">One</a></li>
+                                    <li class=""><a href="#twodegreesDegreeImg-chart" data-toggle="tab" aria-expanded="true">Two degrees</a></li>
                                 </ul>
                                 <div class="tab-content no-padding">
                                     <div class="chart tab-pane active" id="oneDegreeImg-chart" style="position: relative; overflow-x:auto;">
                                         <map id="oneDegreeRelationshipsDiagram" name="oneDegreeRelationshipsDiagram">
-<area shape="rect" id="node1" href="site_native_land.html" target="_top" title="site_native_land" alt="" coords="329,5,728,192">
-<area shape="rect" id="node2" href="dic_native_land.html" target="_top" title="dic_native_land" alt="" coords="5,37,285,155">
+<area shape="rect" id="node1" href="site_native_land.html" target="_top" title="site_native_land" alt="" coords="329,144,728,331">
+<area shape="rect" id="node2" href="dic_native_land.html" target="_top" title="dic_native_land" alt="" coords="5,316,285,433">
+<area shape="rect" id="node3" href="site.html" target="_top" title="site" alt="" coords="6,5,285,299">
 </map>
                                         <a name='diagram'><img id="oneDegreeImg" src="../diagrams/tables/site_native_land.1degree.png" usemap="#oneDegreeRelationshipsDiagram" class="diagram" border="0" align="left"></a>
+                                    </div>
+                                    <div class="chart tab-pane " id="twodegreesDegreeImg-chart" style="position: relative; overflow-x:auto;">
+                                        <map id="twoDegreesRelationshipsDiagram" name="twoDegreesRelationshipsDiagram">
+<area shape="rect" id="node1" href="collecting_event.html" target="_top" title="collecting_event" alt="" coords="679,60,922,148">
+<area shape="rect" id="node2" href="site.html" target="_top" title="site" alt="" coords="278,57,557,351">
+<area shape="rect" id="node3" href="basin.html" target="_top" title="basin" alt="" coords="39,216,200,304">
+<area shape="rect" id="node4" href="dic_country.html" target="_top" title="dic_country" alt="" coords="21,5,217,93">
+<area shape="rect" id="node5" href="craton_terrane.html" target="_top" title="craton_terrane" alt="" coords="5,111,233,199">
+<area shape="rect" id="node6" href="dic_meta.html" target="_top" title="dic_meta" alt="" coords="34,321,205,409">
+<area shape="rect" id="node7" href="site_native_land.html" target="_top" title="site_native_land" alt="" coords="601,251,1000,437">
+<area shape="rect" id="node8" href="dic_native_land.html" target="_top" title="dic_native_land" alt="" coords="277,368,557,485">
+</map>
+                                        <a name='diagram'><img id="twodegreesDegreeImg" src="../diagrams/tables/site_native_land.2degrees.png" usemap="#twoDegreesRelationshipsDiagram" class="diagram" border="0" align="left"></a>
                                     </div>
                                 </div>
                             </div>

@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>dic_meta - geochem1_p2v2_apr2025_schemaspy.public</title>
+        <title>dic_meta - geochem1_phase2.public</title>
         <!-- Tell the browser to be responsive to screen width -->
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
         <link rel="icon" type="image/png" sizes="16x16" href="../favicon.png">
@@ -46,7 +46,7 @@
                 <nav class="navbar navbar-static-top">
                     <div class="container">
                         <div class="navbar-header">
-                            <a href="../index.html" class="navbar-brand"><b>geochem1_p2v2_apr2025_schemaspy</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
+                            <a href="../index.html" class="navbar-brand"><b>geochem1_phase2</b></a><span class="navbar-brand" style="padding-left: 0">.public</span>
                             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse"><i class="fa fa-bars"></i></button>
                         </div>
 
@@ -130,6 +130,11 @@
                                     <td>nextval(&#39;dic_meta_meta_id_seq&#39;::regclass)</td>
                                     <td>
                                         <table border='0' cellspacing='0' cellpadding='0'>
+                                            <tr>
+                                                <td title="site.metamorphic_bin references dic_meta.meta_id via dic_meta_site_fk"><a href='site.html'>site</a><span class='relatedKey'>.metamorphic_bin</span></td>
+                                                <td class="constraint detail">dic_meta_site_fk</td>
+                                                <td class="constraint detail"><span title='Restrict delete:&#10;Parent cannot be deleted if children exist'>R</span></td>
+                                            </tr>
                                         </table>
                                     </td>
                                     <td>
@@ -345,13 +350,27 @@
                                 <h5>Close relationships within degrees of separation</h5>
                                 <ul class="nav nav-tabs pull-left ui-sortable-handle">
                                     <li class="active"><a href="#oneDegreeImg-chart" data-toggle="tab" aria-expanded="true">One</a></li>
+                                    <li class=""><a href="#twodegreesDegreeImg-chart" data-toggle="tab" aria-expanded="true">Two degrees</a></li>
                                 </ul>
                                 <div class="tab-content no-padding">
                                     <div class="chart tab-pane active" id="oneDegreeImg-chart" style="position: relative; overflow-x:auto;">
                                         <map id="oneDegreeRelationshipsDiagram" name="oneDegreeRelationshipsDiagram">
-<area shape="rect" id="node1" href="dic_meta.html" target="_top" title="dic_meta" alt="" coords="5,5,339,368">
+<area shape="rect" id="node1" href="site.html" target="_top" title="site" alt="" coords="383,5,661,299">
+<area shape="rect" id="node2" href="dic_meta.html" target="_top" title="dic_meta" alt="" coords="5,149,339,512">
 </map>
                                         <a name='diagram'><img id="oneDegreeImg" src="../diagrams/tables/dic_meta.1degree.png" usemap="#oneDegreeRelationshipsDiagram" class="diagram" border="0" align="left"></a>
+                                    </div>
+                                    <div class="chart tab-pane " id="twodegreesDegreeImg-chart" style="position: relative; overflow-x:auto;">
+                                        <map id="twoDegreesRelationshipsDiagram" name="twoDegreesRelationshipsDiagram">
+<area shape="rect" id="node1" href="collecting_event.html" target="_top" title="collecting_event" alt="" coords="705,9,948,97">
+<area shape="rect" id="node2" href="site.html" target="_top" title="site" alt="" coords="383,59,661,352">
+<area shape="rect" id="node3" href="basin.html" target="_top" title="basin" alt="" coords="91,216,253,304">
+<area shape="rect" id="node4" href="dic_country.html" target="_top" title="dic_country" alt="" coords="74,5,270,93">
+<area shape="rect" id="node5" href="craton_terrane.html" target="_top" title="craton_terrane" alt="" coords="58,111,286,199">
+<area shape="rect" id="node6" href="dic_meta.html" target="_top" title="dic_meta" alt="" coords="5,321,339,684">
+<area shape="rect" id="node7" href="site_native_land.html" target="_top" title="site_native_land" alt="" coords="706,115,947,203">
+</map>
+                                        <a name='diagram'><img id="twodegreesDegreeImg" src="../diagrams/tables/dic_meta.2degrees.png" usemap="#twoDegreesRelationshipsDiagram" class="diagram" border="0" align="left"></a>
                                     </div>
                                 </div>
                             </div>
