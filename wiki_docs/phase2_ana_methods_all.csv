@@ -1,0 +1,83 @@
+﻿ana_method_id,ana_method_code,ana_method_translation,ana_method_desc,count results
+90,N/A,Not available,"Not available, unknown or not relevant",1305963
+13,ICP:MS,ICP mass spectrometry,Inductively coupled plasma mass spectrometry,785166
+7,ICP:ES,ICP emission spectroscopy (ICP:ES/ICP:AES/ICP:OES),Inductively coupled plasma emission spectroscopy (ICP:ES/ICP:AES/ICP:OES),646316
+4,XRF,X-ray flourescence,X-ray flourescence,417933
+8,ICP:ES/MS,ICP emission spectroscopy and/or mass spectrometry,Inductively coupled plasma atomic emission spectroscopy and/or mass spectrometry,310759
+28,HHXRF,Hand-held XRF,Hand-held XRF,92165
+3,AAS,Flame atomic absorption spectroscopy,Flame atomic absorption spectroscopy,54571
+53,NAA,Automated neutron activation analysis,Automated neutron activation analysis,51712
+85,Q-ICP:MS,Quadrupole ICP:MS,Quadrupoule inductively coupled plasma mass spectrometry,45276
+46,INAA,Instrumental neutron activation analysis,Instrumental neutron activation analysis,36132
+41,REP,Rock-Eval pyrolysis,Rock-Eval pyrolysis,32655
+5,XRD,X-ray diffraction,X-ray diffraction,27606
+1,FSP,Ferrozine spectrophotometry,Ferrozine spectrophotometry,24251
+14,ICP:MS-HR,ICP mass spectrometry high-resolution,Inductively coupled plasma mass spectrometry high-resolution,22437
+24,CS-EA,Carbon Sulfur Elemental Analysis,Carbon Sulfur Elemental Analysis,21233
+49,EA-IRMS,Elemental analysis‚Äìisotope ratio mass spectrometry,Elemental analysis-isotope ratio mass spectrometry,20019
+67,ED-XRF,Energy-dispersive X-ray fluorescence (CMIBS method),Energy-dispersive XRF,19878
+37,IRMS,Isotope ratio mass spectrometry,Isotope ratio mass spectrometry,18828
+22,STOICH,Stoichiometry,Stoichiometry,17824
+94,LOI,Loss on ignition,Mass loss on ignition,16425
+57,TTR,Titration,Titration,15410
+2,EA-CF-IRMS,Elemental analyzer-continuous flow isotope ratio mass spectrometry,Elemental analyzer-continuous flow isotope ratio mass spectrometry,14085
+42,TC-TIC,TOC by difference,TOC by difference,13327
+20,EA,Elemental analysis,CHNS elemental analysis,11644
+59,DNAA,Delayed neutron activation analysis (USGS/CMIBS method),Delayed neutron activation analysis,10553
+18,ICP:MS-MC,ICP mass spectrometry multicollector,Inductively coupled plasma mass spectrometry multicollector,7389
+40,CF-IRMS,Continuous flow mass spectrometry,Continuous flow mass spectrometry,7142
+83,CALC,Calculated,Calculated,7005
+30,ML,Mass loss on acidification,Mass loss on acidification,6533
+91,HAWK,HAWK pyrolysis,HAWK pyrolysis,6112
+93,QQQ-ICP:MS,"ICP mass spectrometry, triple quadrupole",Triple quadrupole inductively coupled plasma mass spectrometry,5992
+56,GRAV,Gravimetric,"Gravimetric Methods, classical whole rock analysis",5991
+23,IR,Infrared,High temperature combustion infrared detection,5552
+6,ICP,Inductively coupled plasma,Inductively coupled plasma (further detail not provided),5118
+19,COUL,Coulometric analysis,Coulometric analysis,5079
+71,ES_SQ,Semi-quantitative emission spectrography (CMIBS method),Semi-quantitative emission spectrography,4998
+16,ICP:MS-LA,ICP mass spectrometry laser ablation,Inductively coupled plasma mass spectrometry laser ablation,3331
+69,ES,Emission spectrography.,Emission spectrography.,3275
+51,SSMS,Spark source mass spectrometry,Spark source mass spectrometry,2916
+60,GR,Gamma ray (USGS/CMIBS method),Measurement of total gamma ray radiation and converted to parts-per-million.,2860
+55,COLOR,Colorimetry (USGS/CMIBS method),Colorimetric analysis,2359
+33,CHNS-EA,Carbon Hydrogen Nitrogen Sulfur Elemental Analysis,Carbon Hydrogen Nitrogen Sulfur Elemental Analysis,2299
+27,MolyB,Molybdate-blue method,Molybdate-blue method,2054
+35,TC-TOC,TIC by difference,TIC by difference,1581
+104,NIR,Near-infrared spectroscopy,Near-infrared spectroscopy,1142
+72,LC-INAA,Long count instrumental neutron activation analysis (CMIBS method),Long count INAA,1121
+62,FA,Fire assay,Fire assay,1114
+92,HgAna,Mercury analysis,Mercury analysis,1032
+76,VOL,CO2 by evolution after acid decomposition or wet oxidation; aka gasometric or manometric.,CO2 by evolution,796
+38,NTIMS,Negative thermal ionization mass spectrometry,Negative thermal ionization mass spectrometry,763
+70,ES_Q,Quantitative emission spectrography (CMIBS method),Quantitative emission spectrography,680
+50,TIMS,Thermal ionization mass spectrometer,Thermal ionization mass spectrometer,657
+32,DCP-OES,DCP optical emission spectroscopy,Direct coupled plasma optical emission spectroscopy,543
+52,LQS,Large quartz spectrograph,large quartz spectrograph,513
+45,SN-ICP:MS,Solution nebulized ICP:MS,Solution nebulized inductively coupled plasma mass spectrometry ,498
+78,GRAV_FLUX,Heating and weight change with flux (CMIBS method),Heating and weight change with flux,392
+63,IC,Ion chromatography (USGS/CMIBS method),Ion chromatography,381
+100,ID-NTIMS,Isotope dilution NTIMS,Isotope dilution-negative thermal ionization mass spectrometry,380
+54,DNC,Delayed neutron counting,Delayed neutron counting,342
+102,TS-NAVS,AVS calculated by difference,Acid-volatile sulfur calculated by difference,301
+68,EM,Electron microprobe analysis (CMIBS method),Electron microprobe analysis,288
+99,TIMS/ICP:MS-MC,Thermal ionization mass spectrometer and/or ICP mass spectrometry multicollector,Thermal ionization mass spectrometer/ICP mass spectrometry multicollector,250
+65,COUL_TT,Coulometric titration (CMIBS method),Coulometric titration,216
+75,TC,Thermal conductivity detection (CMIBS method),Thermal conductivity detection,216
+15,ICP:MS-ID,ICP mass spectrometry isotope dilution,Inductively coupled plasma mass spectrometry isotope dilution,208
+25,UV-Vis,UV-Vis spectrophotometry,UV‚Äìvisible spectrophotometry,171
+109,CRDS,Cavity Ring-Down Spectroscopy,Cavity Ring-Down Spectroscopy,168
+77,WC,Wet chemical analysis (CMIBS method),Wet chemical,166
+61,FLOUR,Flourometry (USGS/CMIBS method),Flourometry,136
+107,VD,Vacuum distillation,Vacuum distillation,128
+110,SEM-EDS,SEM energy dispersive X-ray spectroscopy,Scanning electron microscopy-energy dispersive X-ray spectroscopy,117
+80,MassBal,Mass balance,Value calculated by mass balance,94
+108,CVAAS,Cold vapour atomic absorption spectroscopy,Cold vapour atomic absorption spectroscopy,68
+21,MB,Methylene blue,"Methylene blue method, sensu Cline 1969",67
+73,GR-INAA,Prompt gamma ray count INAA (CMIBS method),Prompt gamma ray count INAA,62
+84,SRA,Soure Rock Analysis,"Source Rock Analysis, a methodology equivalent to RockEval",52
+74,SC-INAA,Short count instrumental neutron activation analysis (CMIBS method),Short count INAA,50
+96,SIMS,Secondary ion mass spectrometry,Secondary ion mass spectrometry,44
+106,TS-other sulfur,Pyrite sulfur by difference,Pyrite sulfur by difference,38
+82,GC-IRMS,Gas chromatography IRMS,Gas chromatography isotope ratio mass spectrometry,30
+26,CAT,Combustion/amperometric titration,Combustion/amperometric titration,24
+66,EDEM,Energy dispersive electron microprobe analysis (CMIBS method),Energy dispersive EM,21
