@@ -1,0 +1,282 @@
+﻿website_analyte,analyte_codes,category,total_count,below_detection_count,above_detection_count,within_detection_count,percent_below_det,percent_above_det,percent_within_det
+1:1 clays (wt%),1:1 clays,mineralogy_composition,43,0,0,43,0,0,100
+192Os (ppt),192Os,metal_isotope,119,0,0,119,0,0,100
+2:1 clays (wt%),2:1 clays,mineralogy_composition,43,0,0,43,0,0,100
+Ag (ppm),Ag,element,56205,31872,9,24324,56.71,0.02,43.28
+Al (wt%),"Al, Al2O3",element,107212,686,808,105718,0.64,0.75,98.61
+Al-carb (wt%),Al-carb,carbonate_proxy,1335,0,0,1335,0,0,100
+Albite (wt%),Albite,mineralogy_composition,1337,116,0,1221,8.68,0,91.32
+Analcime (wt%),Analcime,mineralogy_composition,4,0,0,4,0,0,100
+Anatase (wt%),Anatase,mineralogy_composition,539,0,0,539,0,0,100
+Anhydrite (wt%),Anhydrite,mineralogy_composition,230,0,0,230,0,0,100
+Ankerite (wt%),Ankerite,mineralogy_composition,553,0,0,553,0,0,100
+Anorthite (wt%),Anorthite,mineralogy_composition,27,0,0,27,0,0,100
+Apatite (wt%),Apatite,mineralogy_composition,530,71,0,459,13.4,0,86.6
+Aragonite (wt%),Aragonite,mineralogy_composition,1,0,0,1,0,0,100
+As (ppm),As,element,61419,21610,19,39790,35.18,0.03,64.78
+As-carb (ppm),As-carb,carbonate_proxy,299,145,0,154,48.49,0,51.51
+Ash (wt%),Ash,mineralogy_composition,690,0,0,690,0,0,100
+Au (ppb),Au,element,39308,34261,2,5045,87.16,0.01,12.83
+AVS (wt%),AVS,iron_sulfur,301,0,0,301,0,0,100
+B (ppm),B,element,23922,6581,9,17332,27.51,0.04,72.45
+Ba (ppm),"Ba, BaO",element,78967,471,78,78418,0.6,0.1,99.3
+Ba-carb (ppm),Ba-carb,carbonate_proxy,446,0,0,446,0,0,100
+Barite (wt%),Barite,mineralogy_composition,23,0,0,23,0,0,100
+Be (ppm),Be,element,56194,20434,0,35760,36.36,0,63.64
+Berthierine (wt%),Berthierine,mineralogy_composition,421,0,0,421,0,0,100
+Bi (ppm),Bi,element,56614,35676,2,20936,63.02,0,36.98
+Biotite (wt%),Biotite,mineralogy_composition,19,0,0,19,0,0,100
+C:N (atomic),C:N,nitrogen_phosphorous,2187,0,0,2187,0,0,100
+Ca (wt%),"Ca, CaO",element,97450,1544,3050,92856,1.58,3.13,95.29
+Ca-carb (wt%),Ca-carb,carbonate_proxy,2013,0,0,2013,0,0,100
+Calcite (wt%),Calcite,mineralogy_composition,2033,27,0,2006,1.33,0,98.67
+Carbonate (wt%),"CaCO3, Carbonate",carbonate_proxy,8664,0,0,8664,0,0,100
+CAS (ppm),CAS,iron_sulfur,490,0,0,490,0,0,100
+Cd (ppm),Cd,element,57298,30445,0,26853,53.13,0,46.87
+Cd-carb (ppm),Cd-carb,carbonate_proxy,326,1,0,325,0.31,0,99.69
+Ce (ppm),Ce,element,61719,13476,13,48230,21.83,0.02,78.14
+Ce-carb (ppm),Ce-carb,carbonate_proxy,941,0,0,941,0,0,100
+Ce/Ce*,Ce/Ce*,carbonate_proxy,1494,0,0,1494,0,0,100
+Chamosite (wt%),Chamosite,mineralogy_composition,29,0,0,29,0,0,100
+Chlorite (wt%),Chlorite,mineralogy_composition,505,16,0,489,3.17,0,96.83
+Clinochlore (wt%),Clinochlore,mineralogy_composition,632,0,0,632,0,0,100
+Co (ppm),"Co, Co3O4",element,72066,9943,0,62123,13.8,0,86.2
+Co-carb (ppm),Co-carb,carbonate_proxy,365,0,0,365,0,0,100
+Cr (ppm),"Cr, Cr2O3",element,79707,2758,9,76940,3.46,0.01,96.53
+Cr-carb (ppm),Cr-carb,carbonate_proxy,440,16,0,424,3.64,0,96.36
+Cristobalite (wt%),Cristobalite,mineralogy_composition,20,0,0,20,0,0,100
+Cs (ppm),Cs,element,26713,2066,0,24647,7.73,0,92.27
+Cs-carb (ppm),Cs-carb,carbonate_proxy,313,10,0,303,3.19,0,96.81
+Cu (ppm),"Cu, CuO",element,77523,2336,105,75082,3.01,0.14,96.85
+Cu-carb (ppm),Cu-carb,carbonate_proxy,438,9,0,429,2.05,0,97.95
+Detritals (wt%),Detritals,mineralogy_composition,43,0,0,43,0,0,100
+Dolomite (wt%),Dolomite,mineralogy_composition,1888,13,0,1875,0.69,0,99.31
+Dolomite_Iron_Dolomite (wt%),Dolomite_Iron_Dolomite,mineralogy_composition,16,0,0,16,0,0,100
+Dolomite_Siderite (wt%),Dolomite_Siderite,mineralogy_composition,75,0,0,75,0,0,100
+Dy (ppm),Dy,element,25009,6300,6,18703,25.19,0.02,74.79
+Dy-carb (ppm),Dy-carb,carbonate_proxy,941,2,0,939,0.21,0,99.79
+Er (ppm),Er,element,23954,6752,6,17196,28.19,0.03,71.79
+Er-carb (ppm),Er-carb,carbonate_proxy,941,1,0,940,0.11,0,99.89
+Eu (ppm),Eu,element,43593,20339,0,23254,46.66,0,53.34
+Eu-carb (ppm),Eu-carb,carbonate_proxy,1068,0,0,1068,0,0,100
+Fe (wt%),"Fe, Fe2O3, FeO",iron_sulfur,123297,1048,141,122108,0.85,0.11,99.04
+Fe-AVS (wt%),Fe-AVS,iron_sulfur,38,0,0,38,0,0,100
+Fe-carb (wt%),Fe-carb,carbonate_proxy,2109,0,0,2109,0,0,100
+Fe-carb(seq) (wt%) ,Fe-carb(seq),iron_sulfur,16311,34,0,16277,0.21,0,99.79
+Fe-HCl (wt%),Fe-HCl,iron_sulfur,692,0,0,692,0,0,100
+Fe-mag(seq) (wt%),Fe-mag(seq),iron_sulfur,16095,15,0,16080,0.09,0,99.91
+Fe-ox(seq) (wt%),Fe-ox(seq),iron_sulfur,16190,10,0,16180,0.06,0,99.94
+Fe-py (wt%),Fe-py,iron_sulfur,15955,8,0,15947,0.05,0,99.95
+Fe/Mg-mica (wt%),Fe/Mg-mica,mineralogy_composition,123,0,0,123,0,0,100
+Feldspar (wt%),Feldspar,mineralogy_composition,314,0,0,314,0,0,100
+Fluorapatite (wt%),Fluorapatite,mineralogy_composition,324,0,0,324,0,0,100
+Ga (ppm),Ga,element,55325,9055,0,46270,16.37,0,83.63
+Ga-carb (ppm),Ga-carb,carbonate_proxy,299,29,0,270,9.7,0,90.3
+Gd (ppm),Gd,element,24499,5297,6,19196,21.62,0.02,78.35
+Gd-carb (ppm),Gd-carb,carbonate_proxy,941,0,0,941,0,0,100
+Ge (ppm),Ge,element,27028,15433,0,11595,57.1,0,42.9
+Ge-carb (ppm),Ge-carb,carbonate_proxy,299,0,0,299,0,0,100
+Glauconite (wt%),Glauconite,mineralogy_composition,450,0,0,450,0,0,100
+Gypsum (wt%),Gypsum,mineralogy_composition,103,0,0,103,0,0,100
+Halite (wt%),Halite,mineralogy_composition,10,0,0,10,0,0,100
+Hematite (wt%),Hematite,mineralogy_composition,272,0,0,272,0,0,100
+Hf (ppm),Hf,element,44387,15342,0,29045,34.56,0,65.44
+Hf-carb (ppm),Hf-carb,carbonate_proxy,299,93,0,206,31.1,0,68.9
+Hg (ppm),Hg,element,17535,5658,63,11814,32.27,0.36,67.37
+Ho (ppm),Ho,element,30927,13990,0,16937,45.24,0,54.76
+Ho-carb (ppm),Ho-carb,carbonate_proxy,875,0,0,875,0,0,100
+HREE (ppm),HREE,element,2326,0,0,2326,0,0,100
+HREE-carb (ppm),HREE-carb,carbonate_proxy,55,0,0,55,0,0,100
+Hydroxylapatite (wt%),Hydroxylapatite,mineralogy_composition,31,0,0,31,0,0,100
+I/[Ca+Mg],I/[Ca+Mg],carbonate_proxy,596,0,0,596,0,0,100
+I/Ca,I/Ca,carbonate_proxy,361,0,0,361,0,0,100
+Illite (wt%),Illite,mineralogy_composition,1415,0,0,1415,0,0,100
+Illite_Mica (wt%),Illite_Mica,mineralogy_composition,16,0,0,16,0,0,100
+Illite_Montmorillonite (wt%),Illite_Montmorillonite,mineralogy_composition,122,0,0,122,0,0,100
+Illite_Muscovite (wt%),Illite_Muscovite,mineralogy_composition,110,0,0,110,0,0,100
+Illite_Smectite (wt%),Illite_Smectite,mineralogy_composition,52,0,0,52,0,0,100
+Ilmenite (wt%),Ilmenite,mineralogy_composition,3,0,0,3,0,0,100
+In (ppm),In,element,28336,18846,0,9490,66.51,0,33.49
+Insol (wt%),Insol,mineralogy_composition,433,0,0,433,0,0,100
+Ir (ppm),Ir,element,4841,4640,0,201,95.85,0,4.15
+Jarosite (wt%),Jarosite,mineralogy_composition,239,0,0,239,0,0,100
+K (wt%),"K, K2O",element,97100,3981,499,92620,4.1,0.51,95.39
+K-carb (wt%),K-carb,carbonate_proxy,164,0,0,164,0,0,100
+K-Feldspar (wt%),K-Feldspar,mineralogy_composition,1256,4,0,1252,0.32,0,99.68
+K/Al-mica (wt%),K/Al-mica,mineralogy_composition,117,0,0,117,0,0,100
+K/Mg-mica (wt%),K/Mg-mica,mineralogy_composition,615,2,0,613,0.33,0,99.67
+Kaolinite (wt%),Kaolinite,mineralogy_composition,1792,0,0,1792,0,0,100
+La (ppm),La,element,69180,10548,10,58622,15.25,0.01,84.74
+La-carb (ppm),La-carb,carbonate_proxy,941,0,0,941,0,0,100
+Li (ppm),Li,element,46538,14237,0,32301,30.59,0,69.41
+Li-carb (ppm),Li-carb,carbonate_proxy,299,0,0,299,0,0,100
+LOI (wt%),LOI,mineralogy_composition,21013,106,0,20907,0.5,0,99.5
+LREE (ppm),LREE,element,4774,0,0,4774,0,0,100
+LREE-carb (ppm),LREE-carb,carbonate_proxy,55,0,0,55,0,0,100
+Lu (ppm),Lu,element,24938,5683,0,19255,22.79,0,77.21
+Lu-carb (ppm),Lu-carb,carbonate_proxy,875,19,0,856,2.17,0,97.83
+Magnesite (wt%),Magnesite,mineralogy_composition,30,0,0,30,0,0,100
+Magnetite (wt%),Magnetite,mineralogy_composition,374,0,0,374,0,0,100
+Marcasite (wt%),Marcasite,mineralogy_composition,31,0,0,31,0,0,100
+Mg (wt%),"Mg, MgO",element,96007,968,665,94374,1.01,0.69,98.3
+Mg-carb (wt%),Mg-carb,carbonate_proxy,2208,0,0,2208,0,0,100
+Mica (wt%),Mica,mineralogy_composition,142,0,0,142,0,0,100
+Microcline (wt%),Microcline,mineralogy_composition,85,0,0,85,0,0,100
+Mixed_Layer_Clays (wt%),Mixed_Layer_Clays,mineralogy_composition,42,0,0,42,0,0,100
+Mn (ppm),"Mn, MnO, MnO2",element,101777,7670,43,94064,7.54,0.04,92.42
+Mn-carb (ppm),Mn-carb,carbonate_proxy,2383,0,0,2383,0,0,100
+Mo (ppm),Mo,element,80675,20882,5,59788,25.88,0.01,74.11
+Mo-carb (ppm),Mo-carb,carbonate_proxy,837,6,0,831,0.72,0,99.28
+Montmorillonite (wt%),Montmorillonite,mineralogy_composition,481,0,0,481,0,0,100
+MREE (ppm),MREE,element,94,0,0,94,0,0,100
+MREE-carb (ppm),MREE-carb,carbonate_proxy,55,0,0,55,0,0,100
+Muscovite (wt%),Muscovite,mineralogy_composition,868,0,0,868,0,0,100
+N (wt%),N,nitrogen_phosphorous,4101,15,0,4086,0.37,0,99.63
+Na (wt%),"Na, Na2O",element,90429,6054,440,83935,6.69,0.49,92.82
+Na-carb (wt%),Na-carb,carbonate_proxy,137,0,0,137,0,0,100
+Nb (ppm),Nb,element,61210,18577,4,42629,30.35,0.01,69.64
+Nb-carb (ppm),Nb-carb,carbonate_proxy,313,0,0,313,0,0,100
+Nd (ppm),Nd,element,42531,8198,12,34321,19.28,0.03,80.7
+Nd-carb (ppm),Nd-carb,carbonate_proxy,1135,0,0,1135,0,0,100
+Nd143/Nd144,Nd143_Nd144,metal_isotope,125,0,0,125,0,0,100
+Ni (ppm),"Ni, NiO",element,81788,6236,0,75552,7.62,0,92.38
+Ni-carb (ppm),Ni-carb,carbonate_proxy,438,0,0,438,0,0,100
+Nontronite (wt%),Nontronite,mineralogy_composition,3,0,0,3,0,0,100
+Orthoclase (wt%),Orthoclase,mineralogy_composition,813,0,0,813,0,0,100
+Os (ppt),Os,element,4140,3844,0,296,92.85,0,7.15
+Os187/Os188,Os187_Os188,metal_isotope,249,0,0,249,0,0,100
+Osi,Os187_Os188(I),metal_isotope,219,0,0,219,0,0,100
+P (ppm),"P, P2O5",nitrogen_phosphorous,102793,16492,412,85889,16.04,0.4,83.56
+P-auth(seq) (ppm),P-auth(seq),nitrogen_phosphorous,693,0,0,693,0,0,100
+P-carb (ppm),P-carb,carbonate_proxy,482,0,0,482,0,0,100
+P-det(seq) (ppm),P-det(seq),nitrogen_phosphorous,692,0,0,692,0,0,100
+P-Fe1(seq) (ppm),P-Fe1(seq),nitrogen_phosphorous,524,0,0,524,0,0,100
+P-Fe2(seq) (ppm),P-Fe2(seq),nitrogen_phosphorous,364,0,0,364,0,0,100
+P-inorg (ppm),P-inorg,nitrogen_phosphorous,38,0,0,38,0,0,100
+P-mag(seq) (ppm),P-mag(seq),nitrogen_phosphorous,362,0,0,362,0,0,100
+P-org(seq) (ppm),P-org(seq),nitrogen_phosphorous,669,0,0,669,0,0,100
+Pb (ppm),Pb,element,71118,11434,17,59667,16.08,0.02,83.9
+Pb-carb (ppm),Pb-carb,carbonate_proxy,321,30,0,291,9.35,0,90.65
+Pd (ppb),Pd,element,19725,18502,0,1223,93.8,0,6.2
+Plagioclase (wt%),Plagioclase,mineralogy_composition,547,0,0,547,0,0,100
+Pr (ppm),Pr,element,28379,9394,7,18978,33.1,0.02,66.87
+Pr-carb (ppm),Pr-carb,carbonate_proxy,941,0,0,941,0,0,100
+Pt (ppb),Pt,element,17890,16749,0,1141,93.62,0,6.38
+Pyrite (wt%),Pyrite,mineralogy_composition,2268,64,0,2204,2.82,0,97.18
+Pyrrhotite (wt%),Pyrrhotite,mineralogy_composition,24,0,0,24,0,0,100
+Quartz (w/christobalite) (wt%),Quartz_Christobalite,mineralogy_composition,110,0,0,110,0,0,100
+Quartz (wt%),Quartz,mineralogy_composition,2808,19,0,2789,0.68,0,99.32
+Rb (ppm),Rb,element,41655,1201,9,40445,2.88,0.02,97.1
+Rb-carb (ppm),Rb-carb,carbonate_proxy,552,0,0,552,0,0,100
+Re (ppm),Re,element,29724,20736,0,8988,69.76,0,30.24
+Re-carb (ppm),Re-carb,carbonate_proxy,552,310,0,242,56.16,0,43.84
+Re187/Os188,Re187_Os188,metal_isotope,249,0,0,249,0,0,100
+REE (ppm),REE,element,4831,0,0,4831,0,0,100
+REE-carb (ppm),REE-carb,carbonate_proxy,69,0,0,69,0,0,100
+REY (ppm),REY,element,4907,0,0,4907,0,0,100
+REY-carb (ppm),REY-carb,carbonate_proxy,60,0,0,60,0,0,100
+Rhodochrosite (wt%),Rhodochrosite,mineralogy_composition,16,0,0,16,0,0,100
+Rutile (wt%),Rutile,mineralogy_composition,21,0,0,21,0,0,100
+S (wt%),S,iron_sulfur,46210,3175,51,42984,6.87,0.11,93.02
+S-org (wt%),S_ORG,iron_sulfur,19,5,0,14,26.32,0,73.68
+S-py (wt%),S_PY,iron_sulfur,2940,6,0,2934,0.2,0,99.8
+S-SO4 (wt%),S_SO4,iron_sulfur,822,209,0,613,25.43,0,74.57
+S1 (mgHC/g),S1,carbon,8470,32,0,8438,0.38,0,99.62
+S2 (mgHC/g),S2,carbon,8552,87,0,8465,1.02,0,98.98
+S3 (mgCO2/g),S3,carbon,8440,35,0,8405,0.41,0,99.59
+Sanidine (wt%),Sanidine,mineralogy_composition,8,0,0,8,0,0,100
+Sb (ppm),Sb,element,48645,20704,3,27938,42.56,0.01,57.43
+Sb-carb (ppm),Sb-carb,carbonate_proxy,299,280,0,19,93.65,0,6.35
+Sc (ppm),Sc,element,65307,11173,0,54134,17.11,0,82.89
+Sc-carb (ppm),Sc-carb,carbonate_proxy,369,0,0,369,0,0,100
+Se (ppm),Se,element,30860,9526,10,21324,30.87,0.03,69.1
+Se-carb (ppm),Se-carb,carbonate_proxy,299,91,0,208,30.43,0,69.57
+Si (wt%),"Si, SiO2",element,66268,350,6970,58948,0.53,10.52,88.95
+Siderite (wt%),Siderite,mineralogy_composition,560,25,0,535,4.46,0,95.54
+Sm (ppm),Sm,element,31280,9594,6,21680,30.67,0.02,69.31
+Sm-carb (ppm),Sm-carb,carbonate_proxy,941,1,0,940,0.11,0,99.89
+Sm147/Nd144,Sm147_Nd144,metal_isotope,125,0,0,125,0,0,100
+Smectite (wt%),Smectite,mineralogy_composition,211,0,0,211,0,0,100
+Sn (ppm),Sn,element,55103,30563,6,24534,55.47,0.01,44.52
+Sn-carb (ppm),Sn-carb,carbonate_proxy,313,0,0,313,0,0,100
+Sphalerite (wt%),Sphalerite,mineralogy_composition,9,0,0,9,0,0,100
+Sr (ppm),"Sr, SrO",element,78765,915,23,77827,1.16,0.03,98.81
+Sr-carb (ppm),Sr-carb,carbonate_proxy,2285,1,0,2284,0.04,0,99.96
+Sr87/Sr86,Sr87_Sr86,metal_isotope,326,0,0,326,0,0,100
+Sum (wt%),Sum,mineralogy_composition,13833,15,0,13818,0.11,0,99.89
+Ta (ppm),Ta,element,52881,27171,0,25710,51.38,0,48.62
+Ta-carb (ppm),Ta-carb,carbonate_proxy,299,299,0,0,100,0,0
+Talc (wt%),Talc,mineralogy_composition,244,13,0,231,5.33,0,94.67
+Tb (ppm),Tb,element,27491,7546,0,19945,27.45,0,72.55
+Tb-carb (ppm),Tb-carb,carbonate_proxy,811,1,0,810,0.12,0,99.88
+Te (ppm),Te,element,28303,18708,0,9595,66.1,0,33.9
+Th (ppm),Th,element,73907,21943,1,51963,29.69,0,70.31
+Th-carb (ppm),Th-carb,carbonate_proxy,912,0,0,912,0,0,100
+Ti (wt%),"Ti, TiO2",element,101098,2584,7,98507,2.56,0.01,97.44
+Ti-carb (wt%),Ti-carb,carbonate_proxy,531,0,0,531,0,0,100
+TIC (wt%),TIC,carbon,16591,1782,0,14809,10.74,0,89.26
+Tl (ppm),Tl,element,41144,19620,0,21524,47.69,0,52.31
+Tl-auth (ppm),Tl-auth,element,462,0,0,462,0,0,100
+Tl-carb (ppm),Tl-carb,carbonate_proxy,365,75,0,290,20.55,0,79.45
+Tm (ppm),Tm,element,19413,5010,0,14403,25.81,0,74.19
+Tm-carb (ppm),Tm-carb,carbonate_proxy,875,2,0,873,0.23,0,99.77
+Tmax (degC),Tmax,carbon,8442,1,11,8430,0.01,0.13,99.86
+TOC (wt%),TOC,carbon,50243,990,2,49251,1.97,0,98.03
+Total Carbon (wt%),C,carbon,25095,424,0,24671,1.69,0,98.31
+Total_Carbonate (wt%),Total_Carbonate,mineralogy_composition,119,0,0,119,0,0,100
+Total_Clay (wt%),Total_Clay,mineralogy_composition,476,0,0,476,0,0,100
+Total_NonClay (wt%),Total_NonClay,mineralogy_composition,24,0,0,24,0,0,100
+U (ppm),U,element,82176,22024,12,60140,26.8,0.01,73.18
+U-carb (ppm),U-carb,carbonate_proxy,1216,78,0,1138,6.41,0,93.59
+V (ppm),"V, V2O5",element,83230,1936,97,81197,2.33,0.12,97.56
+V-auth (ppm),V-auth,element,18,0,0,18,0,0,100
+V-carb (ppm),V-carb,carbonate_proxy,842,0,0,842,0,0,100
+W (ppm),W,element,45041,22929,222,21890,50.91,0.49,48.6
+W-carb (ppm),W-carb,carbonate_proxy,299,0,0,299,0,0,100
+Y (ppm),Y,element,66433,5243,2,61188,7.89,0,92.1
+Y-carb (ppm),Y-carb,carbonate_proxy,858,0,0,858,0,0,100
+Yb (ppm),Yb,element,44421,7356,6,37059,16.56,0.01,83.43
+Yb-carb (ppm),Yb-carb,carbonate_proxy,875,1,0,874,0.11,0,99.89
+Zn (ppm),Zn,element,77477,13149,88,64240,16.97,0.11,82.91
+Zn-carb (ppm),Zn-carb,carbonate_proxy,365,0,0,365,0,0,100
+Zr (ppm),Zr,element,61819,2167,10,59642,3.51,0.02,96.48
+Zr-carb (ppm),Zr-carb,carbonate_proxy,313,293,0,20,93.61,0,6.39
+δ114Cd-carb (‰),DELTA_Cd114_CARB,metal_isotope,13,0,0,13,0,0,100
+Δ13C (‰),CAP_DELTA_C13,carbonate_proxy,1151,0,0,1151,0,0,100
+δ13C-carb (‰),DELTA_C13_CARB,carbonate_proxy,12081,0,0,12081,0,0,100
+δ13C-org (‰),DELTA_C13_ORG,carbon,13589,0,0,13589,0,0,100
+δ15N (‰),DELTA_N15,nitrogen_phosphorous,3674,0,0,3674,0,0,100
+δ15N-ker (‰),DELTA_N15_KER,nitrogen_phosphorous,403,0,0,403,0,0,100
+δ18O-carb (‰),DELTA_O18_CARB,carbonate_proxy,11229,0,0,11229,0,0,100
+δ238U (‰),DELTA_U238,metal_isotope,400,0,0,400,0,0,100
+δ238U-auth (‰),DELTA_U238_AUTH,metal_isotope,169,0,0,169,0,0,100
+δ238U-carb (‰),DELTA_U238_CARB,metal_isotope,972,0,0,972,0,0,100
+δ26Mg-carb (‰),DELTA_Mg26_CARB,metal_isotope,484,0,0,484,0,0,100
+δ34S-bulk (‰),DELTA_S34,iron_sulfur,885,0,0,885,0,0,100
+δ34S-cas (‰),DELTA_S34_CAS,iron_sulfur,616,0,0,616,0,0,100
+δ34S-gyp (‰),DELTA_S34_GYP,iron_sulfur,4,0,0,4,0,0,100
+δ34S-obs (‰),DELTA_S34_OBS,iron_sulfur,66,0,0,66,0,0,100
+δ34S-py (‰),DELTA_S34_PY,iron_sulfur,7661,35,0,7626,0.46,0,99.54
+δ44/40Ca-carb (‰),DELTA_Ca44_Ca40_CARB,metal_isotope,632,0,0,632,0,0,100
+δ51V-auth (‰),DELTA_V51_AUTH,metal_isotope,18,0,0,18,0,0,100
+δ53Cr (‰),DELTA_Cr53,metal_isotope,122,0,0,122,0,0,100
+δ53Cr-auth (‰),DELTA_Cr53_AUTH,metal_isotope,18,0,0,18,0,0,100
+δ53Cr-carb (‰),DELTA_Cr53_CARB,metal_isotope,76,0,0,76,0,0,100
+δ56Fe (‰),DELTA_Fe56,metal_isotope,623,0,0,623,0,0,100
+δ56Fe-auth (‰),DELTA_Fe56_AUTH,metal_isotope,121,0,0,121,0,0,100
+δ56Fe-py (‰),DELTA_Fe56_PY,metal_isotope,37,0,0,37,0,0,100
+δ65Cu (‰),DELTA_Cu65,metal_isotope,26,0,0,26,0,0,100
+δ66Zn (‰),DELTA_Zn66,metal_isotope,26,0,0,26,0,0,100
+δ7Li (‰),DELTA_Li7,metal_isotope,127,0,0,127,0,0,100
+δ7Li-carb (‰),DELTA_Li7_CARB,metal_isotope,187,0,0,187,0,0,100
+δ82/78Se (‰),DELTA_Se82_Se78,metal_isotope,302,0,0,302,0,0,100
+δ98Mo (‰),DELTA_Mo98,metal_isotope,1320,0,0,1320,0,0,100
+δ98Mo-auth (‰),DELTA_Mo98_AUTH,metal_isotope,172,0,0,172,0,0,100
+δ98Mo-carb (‰),DELTA_Mo98_CARB,metal_isotope,197,0,0,197,0,0,100
+𝜀205Tl-auth,e205Tl-auth,metal_isotope,654,0,0,654,0,0,100
+𝜀205Tl-det,e205Tl-det,metal_isotope,13,0,0,13,0,0,100
+𝜀Nd(0),eNd(0),metal_isotope,69,0,0,69,0,0,100
+𝜀Nd(t),eNd(t),metal_isotope,61,0,0,61,0,0,100
+𝜀Ndi,eNdi,metal_isotope,50,0,0,50,0,0,100
+,,TOTALS,4132705,807603,13976,3311126,,,
+,,PERCENT TOTAL,,19.54,0.34,80.12,,,
