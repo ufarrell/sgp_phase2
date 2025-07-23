@@ -1,0 +1,8 @@
+﻿data_source_id,data_source,total_count,count_below_detection,count_above_detection,count_within_detection,percent_below_detection,percent_above_detection,percent_within_detection
+1,SGP,1325524,51548,630,1273346,3.89,0.05,96.06
+2,NGDB,1616032,692288,13276,910468,42.84,0.82,56.34
+3,CMIBS,384000,15753,0,368247,4.10,0,95.90
+4,OZCHEM,262417,27668,0,234749,10.54,0,89.46
+5,AGS,332226,20346,70,311810,6.12,0.02,93.85
+6,DM-SED,212506,0,0,212506,0,0,100
+,ALL,4132705,807603,13976,3311126,19.54,0.34,80.12
