@@ -1,0 +1,83 @@
+﻿website_analyte,analyte_codes,category,total_count,below_detection_count,above_detection_count,within_detection_count,percent_below_det,percent_above_det,percent_within_det
+Ag (ppm),Ag,element,4066,1482,0,2584,36.45,0,63.55
+Al (wt%),"Al, Al2O3",element,15762,9,0,15753,0.06,0,99.94
+As (ppm),As,element,3667,145,0,3522,3.95,0,96.05
+Ash (wt%),Ash,mineralogy_composition,690,0,0,690,0,0,100
+Au (ppb),Au,element,1815,698,0,1117,38.46,0,61.54
+B (ppm),B,element,851,13,0,838,1.53,0,98.47
+Ba (ppm),Ba,element,8152,17,0,8135,0.21,0,99.79
+Be (ppm),Be,element,3040,488,0,2552,16.05,0,83.95
+Bi (ppm),Bi,element,1842,406,0,1436,22.04,0,77.96
+Ca (wt%),"Ca, CaO",element,14031,90,0,13941,0.64,0,99.36
+Carbonate (wt%),CaCO3,carbonate_proxy,1414,0,0,1414,0,0,100
+Cd (ppm),Cd,element,3633,569,0,3064,15.66,0,84.34
+Ce (ppm),Ce,element,4385,28,0,4357,0.64,0,99.36
+Co (ppm),Co,element,7663,1530,0,6133,19.97,0,80.03
+Cr (ppm),Cr,element,7044,62,0,6982,0.88,0,99.12
+Cs (ppm),Cs,element,3139,35,0,3104,1.12,0,98.88
+Cu (ppm),Cu,element,8167,136,0,8031,1.67,0,98.33
+Dy (ppm),Dy,element,2720,5,0,2715,0.18,0,99.82
+Er (ppm),Er,element,2246,1,0,2245,0.04,0,99.96
+Eu (ppm),Eu,element,3845,18,0,3827,0.47,0,99.53
+Fe (wt%),"Fe, Fe2O3, FeO",iron_sulfur,16376,19,0,16357,0.12,0,99.88
+Fe-py (wt%),Fe-py,iron_sulfur,118,3,0,115,2.54,0,97.46
+Ga (ppm),Ga,element,3376,12,0,3364,0.36,0,99.64
+Gd (ppm),Gd,element,2446,19,0,2427,0.78,0,99.22
+Ge (ppm),Ge,element,1054,138,0,916,13.09,0,86.91
+Hf (ppm),Hf,element,3654,25,0,3629,0.68,0,99.32
+Hg (ppm),Hg,element,973,131,0,842,13.46,0,86.54
+Ho (ppm),Ho,element,2168,7,0,2161,0.32,0,99.68
+In (ppm),In,element,544,39,0,505,7.17,0,92.83
+Insol (wt%),Insol,mineralogy_composition,3,0,0,3,0,0,100
+Ir (ppm),Ir,element,569,484,0,85,85.06,0,14.94
+K (wt%),"K, K2O",element,15455,51,0,15404,0.33,0,99.67
+La (ppm),La,element,4596,21,0,4575,0.46,0,99.54
+Li (ppm),Li,element,1584,43,0,1541,2.71,0,97.29
+LOI (wt%),LOI,mineralogy_composition,4238,3,0,4235,0.07,0,99.93
+Lu (ppm),Lu,element,3412,11,0,3401,0.32,0,99.68
+Mg (wt%),"Mg, MgO",element,15423,5,0,15418,0.03,0,99.97
+Mn (ppm),"Mn, MnO",element,15066,345,0,14721,2.29,0,97.71
+Mo (ppm),Mo,element,6510,1039,0,5471,15.96,0,84.04
+N (wt%),N,nitrogen_phosphorous,678,15,0,663,2.21,0,97.79
+Na (wt%),"Na, Na2O",element,15099,421,0,14678,2.79,0,97.21
+Nb (ppm),Nb,element,3815,282,0,3533,7.39,0,92.61
+Nd (ppm),Nd,element,3590,28,0,3562,0.78,0,99.22
+Ni (ppm),Ni,element,8663,110,0,8553,1.27,0,98.73
+Os (ppt),Os,element,32,0,0,32,0,0,100
+P (ppm),"P, P2O5",nitrogen_phosphorous,15110,243,0,14867,1.61,0,98.39
+Pb (ppm),Pb,element,6917,1835,0,5082,26.53,0,73.47
+Pd (ppb),Pd,element,304,97,0,207,31.91,0,68.09
+Pr (ppm),Pr,element,2186,0,0,2186,0,0,100
+Pt (ppb),Pt,element,198,59,0,139,29.8,0,70.2
+Rb (ppm),Rb,element,4906,59,0,4847,1.2,0,98.8
+Re (ppm),Re,element,242,18,0,224,7.44,0,92.56
+S (wt%),S,iron_sulfur,6212,189,0,6023,3.04,0,96.96
+S-py (wt%),S_PY,iron_sulfur,346,3,0,343,0.87,0,99.13
+S1 (mgHC/g),S1,carbon,1133,31,0,1102,2.74,0,97.26
+S2 (mgHC/g),S2,carbon,1133,66,0,1067,5.83,0,94.17
+S3 (mgCO2/g),S3,carbon,1129,34,0,1095,3.01,0,96.99
+Sb (ppm),Sb,element,2962,126,0,2836,4.25,0,95.75
+Sc (ppm),Sc,element,4070,5,0,4065,0.12,0,99.88
+Se (ppm),Se,element,2037,853,0,1184,41.88,0,58.12
+Si (wt%),"Si, SiO2",element,13485,0,0,13485,0,0,100
+Sm (ppm),Sm,element,3882,16,0,3866,0.41,0,99.59
+Sn (ppm),Sn,element,2536,843,0,1693,33.24,0,66.76
+Sr (ppm),Sr,element,7716,24,0,7692,0.31,0,99.69
+Ta (ppm),Ta,element,3078,326,0,2752,10.59,0,89.41
+Tb (ppm),Tb,element,3658,286,0,3372,7.82,0,92.18
+Te (ppm),Te,element,166,2,0,164,1.2,0,98.8
+Th (ppm),Th,element,5184,155,0,5029,2.99,0,97.01
+Ti (wt%),"Ti, TiO2",element,15355,196,0,15159,1.28,0,98.72
+TIC (wt%),TIC,carbon,1013,113,0,900,11.15,0,88.85
+Tl (ppm),Tl,element,1284,95,0,1189,7.4,0,92.6
+Tm (ppm),Tm,element,2024,18,0,2006,0.89,0,99.11
+Tmax (degC),Tmax,carbon,1188,0,0,1188,0,0,100
+TOC (wt%),TOC,carbon,3837,143,0,3694,3.73,0,96.27
+Total Carbon (wt%),C,carbon,3969,65,0,3904,1.64,0,98.36
+U (ppm),U,element,5144,134,0,5010,2.6,0,97.4
+V (ppm),V,element,8505,23,0,8482,0.27,0,99.73
+W (ppm),W,element,1589,274,0,1315,17.24,0,82.76
+Y (ppm),Y,element,4873,56,0,4817,1.15,0,98.85
+Yb (ppm),Yb,element,3807,10,0,3797,0.26,0,99.74
+Zn (ppm),Zn,element,8349,65,0,8284,0.78,0,99.22
+Zr (ppm),Zr,element,6859,308,0,6551,4.49,0,95.51

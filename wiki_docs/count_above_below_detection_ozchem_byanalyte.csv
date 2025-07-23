@@ -1,0 +1,77 @@
+﻿website_analyte,analyte_codes,category,total_count,below_detection_count,above_detection_count,within_detection_count,percent_below_det,percent_above_det,percent_within_det
+Ag (ppm),Ag,element,3883,2494,0,1389,64.23,0,35.77
+Al (wt%),Al2O3,element,5376,5,0,5371,0.09,0,99.91
+As (ppm),As,element,4604,797,0,3807,17.31,0,82.69
+Au (ppb),Au,element,522,148,0,374,28.35,0,71.65
+B (ppm),B,element,279,3,0,276,1.08,0,98.92
+Ba (ppm),Ba,element,4847,41,0,4806,0.85,0,99.15
+Be (ppm),Be,element,3854,948,0,2906,24.6,0,75.4
+Bi (ppm),Bi,element,4064,2320,0,1744,57.09,0,42.91
+Ca (wt%),CaO,element,5716,295,0,5421,5.16,0,94.84
+Cd (ppm),Cd,element,1509,1161,0,348,76.94,0,23.06
+Ce (ppm),Ce,element,4714,129,0,4585,2.74,0,97.26
+Co (ppm),Co,element,3068,351,0,2717,11.44,0,88.56
+Cr (ppm),Cr,element,4326,72,0,4254,1.66,0,98.34
+Cs (ppm),Cs,element,3978,965,0,3013,24.26,0,75.74
+Cu (ppm),Cu,element,5039,475,0,4564,9.43,0,90.57
+Dy (ppm),Dy,element,2319,77,0,2242,3.32,0,96.68
+Er (ppm),Er,element,2316,85,0,2231,3.67,0,96.33
+Eu (ppm),Eu,element,2316,208,0,2108,8.98,0,91.02
+Fe (wt%),"Fe2O3, FeO",iron_sulfur,10075,96,0,9979,0.95,0,99.05
+Ga (ppm),Ga,element,4287,97,0,4190,2.26,0,97.74
+Gd (ppm),Gd,element,2317,60,0,2257,2.59,0,97.41
+Ge (ppm),Ge,element,3511,286,0,3225,8.15,0,91.85
+Hf (ppm),Hf,element,3146,349,0,2797,11.09,0,88.91
+Hg (ppm),Hg,element,163,68,0,95,41.72,0,58.28
+Ho (ppm),Ho,element,2317,220,0,2097,9.5,0,90.5
+HREE (ppm),HREE,element,2267,0,0,2267,0,0,100
+Ir (ppm),Ir,element,1,1,0,0,100,0,0
+K (wt%),K2O,element,5693,11,0,5682,0.19,0,99.81
+La (ppm),La,element,4732,154,0,4578,3.25,0,96.75
+Li (ppm),Li,element,2948,99,0,2849,3.36,0,96.64
+LOI (wt%),LOI,mineralogy_composition,4464,0,0,4464,0,0,100
+LREE (ppm),LREE,element,4680,0,0,4680,0,0,100
+Lu (ppm),Lu,element,2321,633,0,1688,27.27,0,72.73
+Mg (wt%),MgO,element,5748,46,0,5702,0.8,0,99.2
+Mn (ppm),"Mn, MnO",element,7221,742,0,6479,10.28,0,89.72
+Mo (ppm),Mo,element,4551,1901,0,2650,41.77,0,58.23
+Na (wt%),Na2O,element,5658,458,0,5200,8.09,0,91.91
+Nb (ppm),Nb,element,4577,521,0,4056,11.38,0,88.62
+Nd (ppm),Nd,element,4355,166,0,4189,3.81,0,96.19
+Ni (ppm),Ni,element,4832,577,0,4255,11.94,0,88.06
+Os (ppt),Os,element,1,1,0,0,100,0,0
+P (ppm),"P, P2O5",nitrogen_phosphorous,5633,51,0,5582,0.91,0,99.09
+Pb (ppm),Pb,element,5071,396,0,4675,7.81,0,92.19
+Pd (ppb),Pd,element,473,107,0,366,22.62,0,77.38
+Pr (ppm),Pr,element,3854,428,0,3426,11.11,0,88.89
+Pt (ppb),Pt,element,472,125,0,347,26.48,0,73.52
+Rb (ppm),Rb,element,5023,270,0,4753,5.38,0,94.62
+Re (ppm),Re,element,176,158,0,18,89.77,0,10.23
+REE (ppm),REE,element,4681,0,0,4681,0,0,100
+REY (ppm),REY,element,4826,0,0,4826,0,0,100
+S (wt%),S,iron_sulfur,2802,183,0,2619,6.53,0,93.47
+Sb (ppm),Sb,element,2310,966,0,1344,41.82,0,58.18
+Sc (ppm),Sc,element,4134,343,0,3791,8.3,0,91.7
+Se (ppm),Se,element,1827,1697,0,130,92.88,0,7.12
+Si (wt%),SiO2,element,5426,1,0,5425,0.02,0,99.98
+Sm (ppm),Sm,element,2314,123,0,2191,5.32,0,94.68
+Sn (ppm),Sn,element,4430,1260,0,3170,28.44,0,71.56
+Sr (ppm),Sr,element,5021,63,0,4958,1.25,0,98.75
+Sum (wt%),Sum,mineralogy_composition,5309,0,0,5309,0,0,100
+Ta (ppm),Ta,element,3789,1780,0,2009,46.98,0,53.02
+Tb (ppm),Tb,element,2316,244,0,2072,10.54,0,89.46
+Te (ppm),Te,element,197,195,0,2,98.98,0,1.02
+Th (ppm),Th,element,4746,447,0,4299,9.42,0,90.58
+Ti (wt%),"Ti, TiO2",element,5713,40,0,5673,0.7,0,99.3
+Tl (ppm),Tl,element,229,61,0,168,26.64,0,73.36
+Tm (ppm),Tm,element,222,8,0,214,3.6,0,96.4
+Total Carbon (wt%),C,carbon,445,6,0,439,1.35,0,98.65
+U (ppm),U,element,4584,413,0,4171,9.01,0,90.99
+V (ppm),V,element,4730,189,0,4541,4,0,96
+W (ppm),W,element,2022,615,0,1407,30.42,0,69.58
+Y (ppm),Y,element,4769,44,0,4725,0.92,0,99.08
+Yb (ppm),Yb,element,2324,102,0,2222,4.39,0,95.61
+Zn (ppm),Zn,element,5077,188,0,4889,3.7,0,96.3
+Zr (ppm),Zr,element,4833,105,0,4728,2.17,0,97.83
+δ13C-carb (‰),DELTA_C13_CARB,carbonate_proxy,22,0,0,22,0,0,100
+δ18O-carb (‰),DELTA_O18_CARB,carbonate_proxy,22,0,0,22,0,0,100

@@ -1,0 +1,121 @@
+﻿website_analyte,analyte_codes,category,total_count,below_detection_count,above_detection_count,within_detection_count,percent_below_det,percent_above_det,percent_within_det
+Ag (ppm),Ag,element,4499,930,0,3569,20.67,0,79.33
+Al (wt%),"Al, Al2O3",element,7277,5,0,7272,0.07,0,99.93
+Albite (wt%),Albite,mineralogy_composition,833,0,0,833,0,0,100
+Anatase (wt%),Anatase,mineralogy_composition,502,0,0,502,0,0,100
+Anhydrite (wt%),Anhydrite,mineralogy_composition,2,0,0,2,0,0,100
+Ankerite (wt%),Ankerite,mineralogy_composition,444,0,0,444,0,0,100
+Anorthite (wt%),Anorthite,mineralogy_composition,7,0,0,7,0,0,100
+Apatite (wt%),Apatite,mineralogy_composition,1,0,0,1,0,0,100
+Aragonite (wt%),Aragonite,mineralogy_composition,1,0,0,1,0,0,100
+As (ppm),As,element,4499,221,0,4278,4.91,0,95.09
+Au (ppb),Au,element,4146,2720,0,1426,65.61,0,34.39
+B (ppm),B,element,2086,21,0,2065,1.01,0,98.99
+Ba (ppm),Ba,element,6355,1,0,6354,0.02,0,99.98
+Barite (wt%),Barite,mineralogy_composition,2,0,0,2,0,0,100
+Be (ppm),Be,element,4447,1124,0,3323,25.28,0,74.72
+Bi (ppm),Bi,element,4499,701,0,3798,15.58,0,84.42
+Biotite (wt%),Biotite,mineralogy_composition,19,0,0,19,0,0,100
+Ca (wt%),"Ca, CaO",element,7277,7,2,7268,0.1,0.03,99.88
+Calcite (wt%),Calcite,mineralogy_composition,565,0,0,565,0,0,100
+Cd (ppm),Cd,element,4499,857,0,3642,19.05,0,80.95
+Ce (ppm),Ce,element,4447,12,0,4435,0.27,0,99.73
+Chamosite (wt%),Chamosite,mineralogy_composition,1,0,0,1,0,0,100
+Chlorite (wt%),Chlorite,mineralogy_composition,20,0,0,20,0,0,100
+Clinochlore (wt%),Clinochlore,mineralogy_composition,507,0,0,507,0,0,100
+Co (ppm),Co,element,6355,61,0,6294,0.96,0,99.04
+Cr (ppm),"Cr, Cr2O3",element,7277,336,0,6941,4.62,0,95.38
+Cs (ppm),Cs,element,2266,42,0,2224,1.85,0,98.15
+Cu (ppm),Cu,element,4499,1,0,4498,0.02,0,99.98
+Dolomite (wt%),Dolomite,mineralogy_composition,685,0,0,685,0,0,100
+Dolomite_Iron_Dolomite (wt%),Dolomite_Iron_Dolomite,mineralogy_composition,16,0,0,16,0,0,100
+Dy (ppm),Dy,element,2088,5,0,2083,0.24,0,99.76
+Er (ppm),Er,element,2088,5,0,2083,0.24,0,99.76
+Eu (ppm),Eu,element,2088,9,0,2079,0.43,0,99.57
+Fe (wt%),"Fe, Fe2O3",iron_sulfur,7277,3,0,7274,0.04,0,99.96
+Fluorapatite (wt%),Fluorapatite,mineralogy_composition,88,0,0,88,0,0,100
+Ga (ppm),Ga,element,4174,109,0,4065,2.61,0,97.39
+Gd (ppm),Gd,element,2088,2,0,2086,0.1,0,99.9
+Ge (ppm),Ge,element,178,166,0,12,93.26,0,6.74
+Gypsum (wt%),Gypsum,mineralogy_composition,66,0,0,66,0,0,100
+Halite (wt%),Halite,mineralogy_composition,2,0,0,2,0,0,100
+Hematite (wt%),Hematite,mineralogy_composition,56,0,0,56,0,0,100
+Hf (ppm),Hf,element,4447,128,0,4319,2.88,0,97.12
+Hg (ppm),Hg,element,2318,130,0,2188,5.61,0,94.39
+Ho (ppm),Ho,element,2088,13,0,2075,0.62,0,99.38
+Hydroxylapatite (wt%),Hydroxylapatite,mineralogy_composition,31,0,0,31,0,0,100
+Illite (wt%),Illite,mineralogy_composition,946,0,0,946,0,0,100
+Illite_Mica (wt%),Illite_Mica,mineralogy_composition,16,0,0,16,0,0,100
+Illite_Montmorillonite (wt%),Illite_Montmorillonite,mineralogy_composition,122,0,0,122,0,0,100
+Illite_Smectite (wt%),Illite_Smectite,mineralogy_composition,5,0,0,5,0,0,100
+Ilmenite (wt%),Ilmenite,mineralogy_composition,3,0,0,3,0,0,100
+In (ppm),In,element,802,444,0,358,55.36,0,44.64
+Jarosite (wt%),Jarosite,mineralogy_composition,10,0,0,10,0,0,100
+K (wt%),"K, K2O",element,7277,16,0,7261,0.22,0,99.78
+K-Feldspar (wt%),K-Feldspar,mineralogy_composition,16,0,0,16,0,0,100
+Kaolinite (wt%),Kaolinite,mineralogy_composition,865,0,0,865,0,0,100
+La (ppm),La,element,6355,26,0,6329,0.41,0,99.59
+Li (ppm),Li,element,2359,1,0,2358,0.04,0,99.96
+LOI (wt%),LOI,mineralogy_composition,3007,0,0,3007,0,0,100
+Lu (ppm),Lu,element,2088,19,0,2069,0.91,0,99.09
+Magnesite (wt%),Magnesite,mineralogy_composition,8,0,0,8,0,0,100
+Magnetite (wt%),Magnetite,mineralogy_composition,56,0,0,56,0,0,100
+Marcasite (wt%),Marcasite,mineralogy_composition,31,0,0,31,0,0,100
+Mg (wt%),"Mg, MgO",element,7277,15,0,7262,0.21,0,99.79
+Microcline (wt%),Microcline,mineralogy_composition,85,0,0,85,0,0,100
+Mixed_Layer_Clays (wt%),Mixed_Layer_Clays,mineralogy_composition,42,0,0,42,0,0,100
+Mn (ppm),"Mn, MnO",element,7277,470,4,6803,6.46,0.05,93.49
+Mo (ppm),Mo,element,4499,17,0,4482,0.38,0,99.62
+Montmorillonite (wt%),Montmorillonite,mineralogy_composition,367,0,0,367,0,0,100
+Muscovite (wt%),Muscovite,mineralogy_composition,832,0,0,832,0,0,100
+Na (wt%),"Na, Na2O",element,7277,5,0,7272,0.07,0,99.93
+Nb (ppm),Nb,element,4447,43,0,4404,0.97,0,99.03
+Nd (ppm),Nd,element,2088,4,0,2084,0.19,0,99.81
+Ni (ppm),Ni,element,6587,481,0,6106,7.3,0,92.7
+Nontronite (wt%),Nontronite,mineralogy_composition,3,0,0,3,0,0,100
+Orthoclase (wt%),Orthoclase,mineralogy_composition,803,0,0,803,0,0,100
+P (ppm),"P, P2O5",nitrogen_phosphorous,7277,71,13,7193,0.98,0.18,98.85
+Pb (ppm),Pb,element,4499,1,0,4498,0.02,0,99.98
+Pd (ppb),Pd,element,2077,1982,0,95,95.43,0,4.57
+Plagioclase (wt%),Plagioclase,mineralogy_composition,15,0,0,15,0,0,100
+Pr (ppm),Pr,element,2088,0,0,2088,0,0,100
+Pt (ppb),Pt,element,2097,1705,0,392,81.31,0,18.69
+Pyrite (wt%),Pyrite,mineralogy_composition,871,0,0,871,0,0,100
+Quartz (wt%),Quartz,mineralogy_composition,1026,0,0,1026,0,0,100
+Rb (ppm),Rb,element,4447,2,0,4445,0.04,0,99.96
+Re (ppm),Re,element,802,466,0,336,58.1,0,41.9
+Rhodochrosite (wt%),Rhodochrosite,mineralogy_composition,16,0,0,16,0,0,100
+Rutile (wt%),Rutile,mineralogy_composition,19,0,0,19,0,0,100
+S (wt%),S,iron_sulfur,6357,322,43,5992,5.07,0.68,94.26
+S1 (mgHC/g),S1,carbon,3472,0,0,3472,0,0,100
+S2 (mgHC/g),S2,carbon,3472,0,0,3472,0,0,100
+S3 (mgCO2/g),S3,carbon,3472,0,0,3472,0,0,100
+Sanidine (wt%),Sanidine,mineralogy_composition,6,0,0,6,0,0,100
+Sb (ppm),Sb,element,4499,267,0,4232,5.93,0,94.07
+Sc (ppm),Sc,element,6355,227,0,6128,3.57,0,96.43
+Se (ppm),Se,element,4021,721,3,3297,17.93,0.07,81.99
+Si (wt%),SiO2,element,3010,0,0,3010,0,0,100
+Siderite (wt%),Siderite,mineralogy_composition,75,0,0,75,0,0,100
+Sm (ppm),Sm,element,2088,4,0,2084,0.19,0,99.81
+Smectite (wt%),Smectite,mineralogy_composition,3,0,0,3,0,0,100
+Sn (ppm),Sn,element,4447,493,0,3954,11.09,0,88.91
+Sr (ppm),Sr,element,7499,1,0,7498,0.01,0,99.99
+Sum (wt%),Sum,mineralogy_composition,3913,0,0,3913,0,0,100
+Ta (ppm),Ta,element,4447,511,0,3936,11.49,0,88.51
+Talc (wt%),Talc,mineralogy_composition,3,0,0,3,0,0,100
+Tb (ppm),Tb,element,2088,3,0,2085,0.14,0,99.86
+Te (ppm),Te,element,3643,757,0,2886,20.78,0,79.22
+Th (ppm),Th,element,7492,86,0,7406,1.15,0,98.85
+Ti (wt%),"Ti, TiO2",element,8151,430,0,7721,5.28,0,94.72
+Tl (ppm),Tl,element,4010,547,0,3463,13.64,0,86.36
+Tm (ppm),Tm,element,2088,18,0,2070,0.86,0,99.14
+Tmax (degC),Tmax,carbon,3109,0,0,3109,0,0,100
+TOC (wt%),TOC,carbon,5500,67,0,5433,1.22,0,98.78
+Total Carbon (wt%),C,carbon,2090,5,0,2085,0.24,0,99.76
+U (ppm),U,element,7499,13,0,7486,0.17,0,99.83
+V (ppm),"V, V2O5",element,8411,238,0,8173,2.83,0,97.17
+W (ppm),W,element,6485,2220,0,4265,34.23,0,65.77
+Y (ppm),Y,element,4447,0,0,4447,0,0,100
+Yb (ppm),Yb,element,2088,13,0,2075,0.62,0,99.38
+Zn (ppm),Zn,element,5645,26,5,5614,0.46,0.09,99.45
+Zr (ppm),Zr,element,4447,0,0,4447,0,0,100
